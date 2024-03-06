@@ -3,9 +3,8 @@
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/112972">Nexus</a> |
   <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/README.md">Installation</a> |
-  <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
+  <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/SUMMARY.md">Detailed Modlist Summary</a> |
   <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/CONFIG.md">Config</a> |
   <a href="https://loadorderlibrary.com/lists/winds-of-the-north">Modlist</a> |
   <a href="https://ko-fi.com/colinswrath">Ko-fi</a>] 
 </p>
@@ -54,11 +53,11 @@ Winds of the North is a modlist that focuses on improving Skyrim's gameplay and 
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/winds-of-the-north).
 
-You can find a summary of all relevant changes on the [Gameplay Guide](https://github.com/colinswrath/WindsOfTheNorth/blob/main/GAMEPLAY.md).
+A detailed summary of some of the modlist's highlights can be found at [Detailed Summary](https://github.com/colinswrath/WindsOfTheNorth/blob/main/SUMMARY.md).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-One of this list's paramount goals is to maintain Skyrim's original aesthetic. If you are looking for a super HD everything graphics list, this one is probably not what you are looking for. 
+One of this list's paramount goals is to generally maintain Skyrim's original aesthetic. If you are looking for a super HD everything graphics list, this one is probably not what you are looking for.
 
 ### System Requirements
 
@@ -244,7 +243,7 @@ Winds of the North offers some mods to provide Ultrawide and Widescreen Support.
 
 ### Starting the Game
  
- Before starting the game, I suggest reading over the [Configuration](https://github.com/colinswrath/WindsOfTheNorth/blob/main/CONFIG.md) and [Gameplay](https://github.com/colinswrath/WindsOfTheNorth/blob/main/GAMEPLAY.md) documents for the list. It should only take a few minutes at most.
+ Before starting the game, I suggest reading over the [Detailed Summary](https://github.com/colinswrath/WindsOfTheNorth/blob/main/SUMMARY.md) document for the list. It should only take a few minutes at most.
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
 
  1. Launch the "Play" Executable in MO2.
