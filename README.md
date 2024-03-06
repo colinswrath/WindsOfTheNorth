@@ -13,7 +13,7 @@
 
 # Attention
 
-**Modlist Support: [colinswrath's mods](https://discord.gg/rpctSqRT)**
+**Modlist Support: [Lost Outpost Discord server](https://discord.gg/WF66mMu)**
 
 **Winds of the North requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.**
 
@@ -49,7 +49,7 @@
 
 ## Preamble
 
-Winds of the North is a modlist that focuses on improving Skyrim's gameplay and adding new content to experience, while also preserving the aesthetic of the original game.
+Winds of the North is a modlist dedicated to enhancing Skyrim's gameplay and refining its visual aspects while also preserving the original game's aesthetic as much as possible. It features the full Simonrim suite of overhaul mods, introduces new content, quality of life changes, and fully integrates and rebalances many of the Anniversary Edition Creations, all designed to bring you a fresh but also familiar experience.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/winds-of-the-north).
 
@@ -179,7 +179,7 @@ Downloading and installing Winds of the North can take a while depending on your
 > The download location does not need to be on a SSD, but it makes installing faster.
 4. Press the play button to begin.
 5. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
-6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/rpctSqRT) for support.
+6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [Lost Outpost Discord server](https://discord.gg/WF66mMu) for support.
 
 ### Problems with installation
 
@@ -274,7 +274,7 @@ Simply delete the entire modlist folder and you should be good to go.
 ## Issues
 
 Please check the [FAQ](https://github.com/colinswrath/WindsOfTheNorth/blob/main/FAQ.md) first if you have any issues.   
- If you encounter any bugs or issues while playing the list, the [Discord](https://discord.gg/rpctSqRT) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/colinswrath/WindsOfTheNorth/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/112972?tab=bugs)
+ If you encounter any bugs or issues while playing the list, the [Lost Outpost Discord server](https://discord.gg/WF66mMu) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/colinswrath/WindsOfTheNorth/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/112972?tab=bugs)
 
 
 ## Credits
