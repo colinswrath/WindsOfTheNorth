@@ -66,8 +66,8 @@ One of this list's paramount goals is to generally maintain Skyrim's original ae
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
 Downloads: ~29 GB  
-Install: ~40 GB  
-**TOTAL:** ~69 GB  
+Install: ~59 GB  
+**TOTAL:** ~88 GB  
 
  > Wabbajack requires some additional space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 
