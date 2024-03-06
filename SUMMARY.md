@@ -75,7 +75,7 @@ After years of playing Skyrim you tend to hear the same lines over and over. Win
 
 Jonx0r's [Extended Bandit Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/113168), [Extended Guard Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/106523), and [City Bag Checks](https://www.nexusmods.com/skyrimspecialedition/mods/112212) mods are also used.
 
-With both of these mods you should hear many more voice lines from the denizens of Skyrim.
+With both of these series of mods you should hear many more voice lines from the denizens of Skyrim.
 
 ## Audio and Music
 
