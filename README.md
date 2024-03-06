@@ -22,7 +22,7 @@
 # Contents
 - [Attention](#attention)
 - [Contents](#contents)
-  - [Preamble](#Preamble)
+  - [Preamble](#preamble)
     - [System Requirements](#system-requirements)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
@@ -34,7 +34,7 @@
       - [Installing Creation Club Content](#installing-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Winds of the North](#downloading-and-installing-Winds-of-the-North)
+      - [Downloading and Installing Winds of the North](#downloading-and-installing-winds-of-the-north)
     - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
@@ -45,7 +45,7 @@
   - [Updating the modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
   - [Issues](#issues)
-  - [Credits and Thanks](#credits-and-thanks)
+  - [Credits](#credits)
 
 ## Preamble
 
@@ -111,8 +111,8 @@ Larger Skyrim modlists require a significant amount of memory, running out of me
  6. Uncheck *Automatically manage* if it is checked
  7. Select your disk drive, ideally your fastest solid state drive
  8. Click the **Custom size:** button
- 9. In the box next to **Initial Size (MB)** type `40960`
- 10. In the box next to **Maximum Size (MB)** type `40960`
+ 9. In the box next to **Initial Size (MB)** type `20480`
+ 10. In the box next to **Maximum Size (MB)** type `20480`
  11. Click the *Set* button
  12. Click *OK*
  13. Click *Apply*
