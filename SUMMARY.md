@@ -28,7 +28,7 @@ Unsupported creations will be disabled by default.
 
 ## Core Mods
 
-Winds of the North is built with the Simonrim Suite of gameplay overhauls at its core. Therefore, you can expect overall gameplay to be somewhat similar to other Simonrim based lists if you have ever experienced those.
+Winds of the North is built with the Simonrim Suite of gameplay overhauls at its core.
 Almost every part of the game from perks and magic to survival mechanics and combat have been overhauled to bring you a challenging and cohesive experience.
 
 Simonrim can be a bit more challenging than the vanilla game until you "figure things out". I suggest starting out on Adept difficulty especially with the added challenge of the accompanying enemy mods.
