@@ -244,7 +244,7 @@ Winds of the North offers some mods to provide Ultrawide and Widescreen Support.
 
 ### Starting the Game
  
- Before starting the game, I suggest reading over the [Configuration](https://github.com/colinswrath/WWindsOfTheNorth/blob/main/CONFIG.md) and [Gameplay](https://github.com/colinswrath/WWindsOfTheNorth/blob/main/GAMEPLAY.md) documents for the list. It should only take a few minutes at most.
+ Before starting the game, I suggest reading over the [Configuration](https://github.com/colinswrath/WindsOfTheNorth/blob/main/CONFIG.md) and [Gameplay](https://github.com/colinswrath/WindsOfTheNorth/blob/main/GAMEPLAY.md) documents for the list. It should only take a few minutes at most.
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
 
  1. Launch the "Play" Executable in MO2.
@@ -260,7 +260,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
  - `MINOR`: Any release with a number change here will be considered a minor update, these updates will usually not be save safe, unless otherwise specified.
  - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
  - In some rare cases you may see a fourth number be used, which I will refer to as `HOTFIX`. These list "updates" will be used if the list needs to be recompiled for any reason. There will be no changes in these "updates" as they are purely for maintenance.
-Before updating, please check the [changelog](https://github.com/colinswrath/WWindsOfTheNorth/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new game after certain updates.
+Before updating, please check the [changelog](https://github.com/colinswrath/WindsOfTheNorth/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new game after certain updates.
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
 
 **ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. 
@@ -274,7 +274,7 @@ Simply delete the entire modlist folder and you should be good to go.
 
 ## Issues
 
-Please check the [FAQ](https://github.com/colinswrath/WWindsOfTheNorth/blob/main/FAQ.md) first if you have any issues.   
+Please check the [FAQ](https://github.com/colinswrath/WindsOfTheNorth/blob/main/FAQ.md) first if you have any issues.   
  If you encounter any bugs or issues while playing the list, the [Discord](https://discord.gg/rpctSqRT) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/colinswrath/WindsOfTheNorth/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/112972?tab=bugs)
 
 
