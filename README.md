@@ -26,15 +26,7 @@
     - [System Requirements](#system-requirements)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
-      - [Installing Microsoft Visual C++ Redistribution Package](#installing-microsoft-visual-c-redistribution-package)
-      - [Pagefile and crash prevention](#pagefile-and-crash-prevention)
-      - [Setting Shader Cache Size](#setting-shader-cache-size)
-      - [Steam Setup](#steam-setup)
-      - [Game Language](#game-language)
-      - [Installing Creation Club Content](#installing-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
-      - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Winds of the North](#downloading-and-installing-winds-of-the-north)
     - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
@@ -181,7 +173,13 @@ Downloading and installing Winds of the North can take a while depending on your
 5. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
 6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [Lost Outpost Discord server](https://discord.gg/WF66mMu) for support.
 
+</Details>
+
 ### Problems with installation
+
+<Details>
+<summary>Problems with installation</summary>
+
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
@@ -208,6 +206,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 </Details>
 
 ## Post-Installation and Optional Setup
+
 
 <Details>
 <summary>Post-Installation Info</summary>
