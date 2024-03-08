@@ -45,9 +45,9 @@ In Winds of the North, enemies are overhauled by several of the well known simon
 
 ## Graphics
 
-Winds of the North is not primarily a graphically focused mod list. One of the most important goals it has is to not stray too far from the vanilla aesthetic.
+Winds of the North is not primarily a graphically focused mod list. One of the main goals is to not stray too far from the vanilla aesthetic.
 
-However, it still does utilize quite a few graphical mods to make things look a bit better.
+However, it does still utilize quite a few graphical mods to make things look a bit better.
 
 These include, but are not limited to: 
 
