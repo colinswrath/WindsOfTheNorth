@@ -37,7 +37,7 @@ Simonrim can be a bit more challenging than the vanilla game until you "figure t
 In Winds of the North, enemies are overhauled by several of the well known simonrim oriented enemy mods such as: 
 
 - [Madmen](https://www.nexusmods.com/skyrimspecialedition/mods/98579) by Oreo
-- A slightly customized cut of [Lawless](https://www.nexusmods.com/skyrimspecialedition/mods/88080) by Oreo
+- [Lawless](https://www.nexusmods.com/skyrimspecialedition/mods/88080) by Oreo
 - [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) by Delta
 - [Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/81422) by Delta
 - [King Priest](https://www.nexusmods.com/skyrimspecialedition/mods/59652) by ElectricSparx
