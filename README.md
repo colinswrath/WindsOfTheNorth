@@ -41,7 +41,7 @@
 
 ## Preamble
 
-Winds of the North is a modlist dedicated to enhancing Skyrim's gameplay and refining its visual aspects while also preserving the original game's aesthetic. It features the full Simonrim suite of overhaul mods, introduces new content, quality of life changes, and fully integrates and rebalances many of the Anniversary Edition Creations, all designed to bring you a fresh but also familiar experience.
+Winds of the North is a lightweight modlist dedicated to enhancing Skyrim's gameplay and refining its visual aspects while also preserving the original game's aesthetic. It features the full Simonrim suite of overhaul mods, introduces new content, quality of life changes, and fully integrates and rebalances many of the Anniversary Edition Creations, to bring you a fresh but also familiar experience.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/winds-of-the-north).
 

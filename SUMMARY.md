@@ -19,7 +19,7 @@ I just simply can't list everything here as much as I want to (that is what [Loa
 
 ## Overview
 
-Winds of the North is a modlist that focuses on improving Skyrim’s gameplay and adding new content to experience, while also preserving the aesthetic of the original game.
+Winds of the North is a lightweight modlist that focuses on improving Skyrim’s gameplay and adding new content to experience, while also preserving the aesthetic of the original game.
 It also supports many of the Anniversary Edition creations via integration, rebalancing, and quest overhauls to make it feel like it all belongs.
 Unsupported creations will be disabled by default.
 
