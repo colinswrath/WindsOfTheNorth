@@ -58,7 +58,7 @@ One of this list's paramount goals is to generally maintain Skyrim's original ae
 
 | Spec Category | My Specs (1440p) | Recommended (1080p) |
 |     :---:    |     :---:     |     :---:     
-| **CPU**   | R9 5900x |  AMD Ryzen 5 2nd Gen / Intel i5 8th Gen |
+| **CPU**   | R9 5900x |  AMD Ryzen 5 3000 series / Intel i5 8th Gen |
 | **Video Card**    | 3090 | NVIDIA RTX 1060 / AMD RX 580 |
 | **Ram**    | 32GB DDR4 (2x16) | 16GB DDR4 (2x8) |
 | **Storage**    | PNY M.2 NVMe | NVMe or SATA SSD |
