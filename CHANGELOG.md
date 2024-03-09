@@ -9,8 +9,24 @@
 ---
 
 # Changelog
+- [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.0.2
+
+Key Info
+
+ - This update is Save-Safe
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Actually recompiled with the correct version of Rare Curios this time
+
+</Details>
 
 ## 1.0.1
 
