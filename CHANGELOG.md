@@ -9,7 +9,25 @@
 ---
 
 # Changelog
-- [1.0.0](#100) 
+- [1.0.1](#101) March 8 2024
+- [1.0.0](#100) March 8 2024
+
+## 1.0.1
+
+Key Info
+
+ - This update is Save-Safe
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Extended Guard Dialogue
+ - The Dragon Cult - A Draugr Overhaul
+ - Recompiled with Bethesda version of Rare Curios instead of Steam (yes the one you download from Bethesda is different from the one you get when you verify files, its wild). Most modlists use this version as they should. If you have a hash error with Rare Curios, you need to delete your copy of Rare Curios and re-download from the creation menu not Steam. Apologies for the inconvenience.
+
+</Details>
 
 ## 1.0.0
 
