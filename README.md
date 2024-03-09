@@ -265,8 +265,6 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 *Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
 
-*Please make sure to back up your RaceMenu Presets when updating. You can place them in the `[NoDelete] Winds of the North RaceMenu Presets` mod.*
-
 ## Removing the Modlist
 Simply delete the entire modlist folder and you should be good to go.
 
