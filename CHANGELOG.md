@@ -9,10 +9,24 @@
 ---
 
 # Changelog
+- [1.0.4](#104) March 11 2024
 - [1.0.3](#103) March 11 2024
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.0.4
+
+Key Info
+
+ - This update is Save-Safe
+
+<Details>
+<summary>Patch Notes</summary>
+
+- Removed the Creation Kit requirement from the Wabbajack Install.
+
+</Details>
 
 ## 1.0.3
 
