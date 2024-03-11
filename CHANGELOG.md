@@ -9,9 +9,46 @@
 ---
 
 # Changelog
+- [1.0.3](#103)
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.0.3
+
+Key Info
+
+ - This update is Save-Safe
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+
+ - Fixed load order between High Poly Hair and Vanilla Hair fixes
+ - 3DItemXOffset has been set to -6 for SkyUI
+ - 3DItemYOffset has been set to 2
+ - fActivateButtonPosY has been changed from 417 -> 410 for SkyHUD
+ - fActivateInfoPosY has been changed from 517 -> 497 for SkyHUD
+ - Creation Club files have been moved to mods 
+ - Draugr waking up before triggers resolved with Dragon Cult update
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Removed
+
+ - Artificer - Dragon Priest Staves (not needed)
+
+### Updated
+
+ - Dragon Cult - A Draugr Overhaul
+ - Creation Club Farming - Tweaks Enhancements and Quest Expansion
+ - Hendraheim - Tweaks and Enhancements
+
+</Details>
 
 ## 1.0.2
 
