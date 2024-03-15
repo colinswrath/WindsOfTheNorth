@@ -9,11 +9,49 @@
 ---
 
 # Changelog
+- [1.0.5](#105) March 15 2024
 - [1.0.4](#104) March 11 2024
 - [1.0.3](#103) March 11 2024
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.0.5
+
+Key Info
+
+ - This update is Save-Safe
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Settings Adjustments
+ - Default difficulty changed to Adept
+ - Volume sliders should now be set properly
+
+### Balance Changes
+ - Added 1 Travel Pack to the quick start chest
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Keyword Item Distributor (KID)
+ - City Bag Checks
+
+### Added
+ - No Killmoves plugin from Blade and Blunt
+ - Quest Journal Fix for SkyUI
+ - Simon's custom quick start chest edit 
+
+### Removed
+ - SkyUI SE - Difficulty Persistence Fix
+ - Optional Quick Start - Sensible Gear
+
+</Details>
 
 ## 1.0.4
 
