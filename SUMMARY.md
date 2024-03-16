@@ -64,7 +64,7 @@ Winds of the North includes several new lands, dungeons, and quest mods to provi
 - [Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) by ECSS Dev Group
 - [Morthal Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/90737) and [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371) Penrutet
 - Most of [Jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) "Quest Expansion" series provides new ways to complete many vanilla quests.
-- [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157/) by Epic Crab
+- [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157/) by EpicCrab
 
 Due to the added difficulty that the core gameplay and enemy mods provide, [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) and [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) delay some quests to later levels.
 

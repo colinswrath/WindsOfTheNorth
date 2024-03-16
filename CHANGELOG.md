@@ -9,12 +9,62 @@
 ---
 
 # Changelog
+- [1.0.6](#106)
 - [1.0.5](#105) March 15 2024
 - [1.0.4](#104) March 11 2024
 - [1.0.3](#103) March 11 2024
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.0.6
+
+Key Info
+
+ - This update is Save-Safe
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc
+ - True Hud indicator changed to level text instead of soul icon
+
+### Balance Changes
+ - Morthal Barrow's min encounter zone level has been set to 25 for Arena consistency 
+ - Taarengrav Barrow's min encounter zone level has been set to 10 for Arena consistency
+
+### Bug Fixes
+ - Fixed Deadly Spell impacts frost decals not applying correctly
+ 
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+ - Community Shaders
+ - Tree LOD Lighting
+ - Grass Lighting
+ - Screen-Space Shadows
+ - Light Limit Fix
+
+### Added
+
+ - Adamant - No Killmove Descriptions
+ - Subsurface Scattering
+ - Water Caustics
+ - Dynamic Cubemaps - Metals
+ - Wetness Effects
+ - Custom plugin restoring vanilla eye adaptation for SIL (thank you Delta)
+ - Schoolsacks of Simonrim - A CC Backpack Overhaul
+
+### Removed
+
+ - Subsurface Scattering Shaders for Skins
+ - Splashes of Storms
+ - Simple CC Backpack Rebalance
+
+</Details>
 
 ## 1.0.5
 
