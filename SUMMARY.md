@@ -30,7 +30,7 @@ Essentially, its my own personal modlist I play with that I just really wanted t
 Winds of the North is built with the Simonrim Suite of gameplay overhauls at its core.
 Almost every part of the game from perks and magic to survival mechanics and combat have been overhauled to bring you a challenging and cohesive experience.
 
-Simonrim can be a bit more challenging than the vanilla game until you "figure things out". I suggest starting out on Adept difficulty especially with the added challenge of the accompanying enemy mods.
+Simonrim can be a bit more challenging than the vanilla game until you "figure things out". I suggest starting out on Apprentice difficulty especially with the added challenge of the accompanying enemy mods.
 
 ## Enemies
 

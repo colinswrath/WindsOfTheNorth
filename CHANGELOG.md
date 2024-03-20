@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.0.7](#107) March 20 2024
 - [1.0.6](#106) March 16 2024
 - [1.0.5](#105) March 15 2024
 - [1.0.4](#104) March 11 2024
@@ -16,6 +17,72 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+
+## 1.0.7
+
+Key Info
+
+ - This update is Save-Safe
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc
+ - Several of the custom patches are now hosted on the nexus modlist page instead of being included directly in the list
+ - LOD is now nexus hosted as well, which should provide faster/more consistent downloads
+ - Reverted Schoolsacks of Simonrim's change to mark some bags as unplayable to fix existing saves having invisible inventory bags. (Crafting recipes should still not be accessible)
+ - Many of the Cathedral 3D plants were removed. Not because they dont look good (they look great), but because visually they are pretty inconsistant with the rest of the list and stand out quite a bit.
+
+### Balance Changes
+ - Timing is Everything - Ebony Warrior quest start level requirement was changed from level 80 to level 50 (50 is the Crusader uncapper "soft" cap)
+ - Kachunk consistency adjustments: Elven and Ebony crossbows are no longer locked behind Dawnguard. (Enhanced versions still are)
+ - Kachunk consistency adjustments: Nordic crossbow requires intermediate smithing instead of advanced smithing. (For Adamant consistency)
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Open Animation Replacer
+ - Schoolsacks of Simonrim - A CC Backpack Overhaul
+ - Community Shaders
+ - Dynamic Cubemaps
+ - Dynamic Cubemaps - Metals
+ - Complete Widescreen Fix for Vanilla and SkyUI
+
+### Removed
+
+ - Project Clarity - Architecture Textures Redone
+ - SSEUT - Clutter
+ - Cathedral - 3D Mountain Flowers
+ - Cathedral 3D Mountain Flowers - Base Object Swapper
+ - Cathedral - 3D Mountain Flowers Resized and Desaturated
+ - Cathedral - 3D Thistle
+ - Cathedral - 3D Tundra Cotton
+ - Cathedral - 3D Deathbell
+ - Cathedral - 3D Nightshade
+ - Plump Cathedral 3D Plants
+ - Cathedral Mushrooms
+
+### Added
+
+ - Shadow's Upscale Revolution - Architecture
+ - Project Clarity - Clutter
+ - Mountain flowers textures from Project Clarity
+ - Whiterun Objects SMIMed
+ - Capture Warmer
+ - Mercantile
+ - Reading is Good
+ - Oblivion - An Atronach Forge Overhaul
+ - Arachnomancy - A Spider Overhaul
+ - Customizable Faster Woodcutting Animation - OAR or DAR
+ - Customizable Faster Mining Animation - OAR or DAR
+ - STAYDOWN - MEDIUM
+
+</Details>
 
 ## 1.0.6
 
