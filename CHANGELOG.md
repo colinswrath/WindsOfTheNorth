@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.0.8](#108) March 21 2024
 - [1.0.7](#107) March 20 2024
 - [1.0.6](#106) March 16 2024
 - [1.0.5](#105) March 15 2024
@@ -18,6 +19,43 @@
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
 
+## 1.0.8
+Key Info
+
+ - This update is Save-Safe
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+ - Fixed issue where dynamic cubemaps were not properly applying to Ebony Armor
+ - Adjusted some of the True Storms weather chances
+
+### Misc
+ - Cleaned unnecessary masters form misc conflict resolution patch
+ - Moved some book record conflict resolution to the BCS patch instead of the misc patch
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+ - Misc Conflict Resolution
+ - Switched Project Clarity sky textures to full res version instead of half res
+
+### Added
+ - Mortal Enemies SE
+ - Stay At The System Page NG
+ - Instantly Skip Dialogue NG
+ - DPI Scaling Fix
+ - To Your Face SE - AE - VR
+ - Modlist Update Checker
+
+### Removed
+ - Mount Anthor Dragon Fix (not needed with Dragon War)
+
+</Details>
 
 ## 1.0.7
 
