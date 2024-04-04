@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.0](#110) April 4 2024
 - [1.0.8](#108) March 21 2024
 - [1.0.7](#107) March 20 2024
 - [1.0.6](#106) March 16 2024
@@ -18,6 +19,111 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.0
+Key Info
+
+ - This update is NOT save-safe
+
+ <Details>
+<summary>Patch Notes</summary>
+
+### Misc
+ - DFNF Conflict Resolution - Removed changes for Gift of Saturalia
+ - Practical Female armors has been added. I am using all armors except Vampire Armor, Ancient Nord Armor, Nordic Carved, and Imperial Armor
+ - Misc Conflict Resolution - Patched ECSS_Mysticism and ECSS - BCS patch 
+ - A "disabled by default" mod has been added to support easily turning off TrueHUD floating bars.
+ - Fancy fishing has been edited to enable minigame by default. You may turn this off in the MCM if you do not like the minigame
+ - Removed SIL lighting color changes to Hearthfire homes. They were way too dark for my tastes.
+ - Display Tweaks: enabled the loading screen filter and added Dyndolod.esp to the block list (to prevent the unfunny "gimme your firstborn" loadscreens from appearing)
+ - Added gauntlets to all Guards
+
+### Balance Changes
+
+ - Distributed a perk to all NPCs to reduce poison damage by 20%
+ - Bounty Quest Redone reward mults have been reconfigured as follows (for Arena consistency):
+     - Mages: 2.5 -> 2.0
+     - Dwemer: 2.0 -> 2.5
+     - Falmer: 1.4 -> 2.5
+     - Forsworn: 1.3 -> 1.5
+     - Reaver: 1.0 -> 1.25
+     - Draugr: 1.2 -> 1.5
+
+### Bug Fixes
+
+ - Gamepad and Vibration has been enabled by default again
+ - Removed Customizable Faster Mining Animation because of unfixable sound desync
+ - Added a custom plugin to fix Hajvaar not wearing Iron Hand Gauntlets
+ - Fixed an issue with The College of Mages and the COM - Sorcery patch where deleted items were occasionally still appearing
+ - The Riften ferryman was clipping with the fishing supplies on the dock. He has been moved to the side of the dock, near his boat.
+ - Dark Brotherhood Rising Revengeance - Fixed no quest reward bug
+ - Dragon Hunting - Fixed Dragon Piercer not being added as a quest reward
+ - Fixed a bug with Dragon Hunting where "Dragon Research" would not start 
+ - Removed some unnecessary record changes from the misc conflict patch
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Mundus - A Standing Stone Overhaul
+ - Photo Mode
+ - Community Shaders
+ - Wetness Effects
+ - Updated included SSEEdit to 4.1.5c
+ - Regenerated xlodgen, ACMOS roads, Texgen, and Dyndolod.
+ - Ebony Armors and Weapons Retexture SE
+ - The Whispering Door - Quest Expansion
+ - Siege at Icemoth
+ - Crash Logger SSE AE VR - PDB support
+
+### Added
+
+ - Artificer - Canis Hysteria Patch
+ - ImGui Icons
+ - Bounty Quests Redone - NG
+ - Winterhold - The Bubbling Brew
+ - Shadow's Upscale Revolution - Dungeons
+ - Seasonal Saturalia Merchant
+ - Unique Towns Vanilla - Bubbling Brew Patch
+ - Hearthfire Has Snow
+ - Practical Female Armors
+ - Practical Female iron Armor
+ - Practical Female Level Hunter Armor
+ - Practical Female Vigil Enforcer Armor
+ - Practical Female Steel Soldier Armor
+ - Practical Female Iron Plate Armor
+ - Practical Female Ebony Plate Armor
+ - Pracitcal Female Iron Plate Armor
+ - Practical Femal Hide Armors
+ - Male Horns for Female Iron Helmet
+ - Saints and Seducers - Mysticism Rebalance
+ - Water in Wells - mesh-only animated wells
+ - Major Cities Mesh Overhaul
+ - Open Faced Guard Helmets
+ - 3D Whiterun Trellis
+ - Dawnguard VA fix (Guard Dialogue Extension)
+ - Fancy Fishing - Minigame and Tweaks
+ - Vanilla Style UI for Fancy Fishing
+ - Run For Your Lives
+ - Artificer YATSM patch
+ - AWD - Alduins Wall - Descriptions
+ - Iconic's Alduin's Wall Retexture
+ - Relics of the Crusader Improved
+ - Relics of the Crusader Improved - KotN patch
+
+### Removed
+
+ - Headhunter - Bounties Redone
+ - Skyrim On Skooma
+ - The Gift of Saturalia - A Quest for the Holidays
+ - Missile IED Headhunter Better Trophy On Horses
+ - Bounty Preview
+ - Customizable Faster Mining Animation - OAR or DAR
+
+</Details>
 
 ## 1.0.8
 Key Info
