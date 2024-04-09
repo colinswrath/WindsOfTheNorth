@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.1](#111)
 - [1.1.0](#110) April 4 2024
 - [1.0.8](#108) March 21 2024
 - [1.0.7](#107) March 20 2024
@@ -19,6 +20,62 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.1
+
+Key Info
+
+ - This update is Save-Safe (from 1.1.0 Only)
+ - Not save safe if updgrading from pre 1.1.0 versions
+ - Wetness Effects update fixed issues with older graphics cards
+ - Click continue when prompted about if you want to load your game with BCS/CCTweaks/Paraphernalia files missing
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Ini Changes
+
+ - iNumFocusShadow 4 -> 2
+
+### Misc
+ 
+ - Community Shaders grass complex grass override grass lighting has been turned on
+ - BCS-Conflicts file merged into misc conflict resolution patch
+ - CCTweaks conflict resolution file merged into misc conflict resolution patch
+
+### Bug Fixes
+
+ - Missile's IED presets were not being loaded by default. This has been fixed
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - CC Farming - Tweaks Enhancements and Quest Expansion
+ - Dragon Hunting - Quest Rewards and Alchemy Ingredients
+ - Dragon Hunting Apotheocary Patch
+ - Crash Logger SSE AE VR - PDB support
+ - Winterhold - The Bubbling Brew
+ - Wetness Effects
+ - LOD Model Library for DynDOLOD (wont matter much until I regen in the next save unsafe update)
+ - Dragon Hunting
+ - Description Framework
+
+### Added
+
+ - Less saturated Cathedral grass for ENB complex grass
+ - Skyrim SE Skill Interface Re-Texture
+ - Aetherius - Race Menu Racial Passive Descriptions
+
+### Removed
+
+ - Paraphernalia - Snow Colour Fixes (unnecessary)
+ - Capture Warmer
+
+</Details>
 
 ## 1.1.0
 Key Info
