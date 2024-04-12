@@ -9,7 +9,8 @@
 ---
 
 # Changelog
-- [1.1.1](#111)
+- [1.1.2](#112) April 12 2024
+- [1.1.1](#111) April 8 2024
 - [1.1.0](#110) April 4 2024
 - [1.0.8](#108) March 21 2024
 - [1.0.7](#107) March 20 2024
@@ -21,12 +22,58 @@
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
 
+## 1.1.2
+
+Key Info
+
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc
+ 
+ - Engine Fixes updated to fix achievements enabler
+ - Starfrost has a new Hunger mechanic added, Blade and Blunt had some good bug fixes and new changes to injury mechanics. 
+
+### Bug Fixes
+
+ - Moved optional widescreen support to end of the install order to fix conflicts with bottom bar swf.
+ 
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Blade and Blunt - A Combat Overhaul
+ - Spell Perk Item Distributor (SPID)
+ - Mysticism - A Magic Overhaul
+ - Starfrost - A Survival Overhaul
+ - Gourmet - A Cooking Overhaul
+ - B.O.O.B.I.E.S (aka Immersive Icons)
+ - SSE Engine Fixes (skse64 plugin)
+
+### Added
+
+ - Robber's Gorge Fixes
+ - Delphine Skyhaven Bugfix MQ203
+ - Remove Creations from Main Menu
+
+### Removed
+
+ - Achievements Mods Enabler
+
+</Details>
+
 ## 1.1.1
 
 Key Info
 
  - This update is Save-Safe (from 1.1.0 Only)
- - Not save safe if updgrading from pre 1.1.0 versions
+ - Not save safe if upgrading from pre 1.1.0 versions
  - Wetness Effects update fixed issues with older graphics cards
  - Click continue when prompted about if you want to load your game with BCS/CCTweaks/Paraphernalia files missing
 
