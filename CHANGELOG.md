@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.3](#113) April 19 2024
 - [1.1.2](#112) April 12 2024
 - [1.1.1](#111) April 8 2024
 - [1.1.0](#110) April 4 2024
@@ -21,6 +22,75 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.3
+
+Key Info
+
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc
+ 
+ - Custom Window was added, with custom icon art provided by Komegaki
+ - Made some changes to the default IED preset to disable some things by default listed below:
+      - Stamina, Magicka, Health, White Phile Potion/Holder
+      - Elder Scrolls
+      - Horn of Jurgen Windcaller/Holder
+      - Azura's Star
+      - Back Skulls
+      - Dragon Claws
+      - Dragonstone
+      - Hip Bone
+      - Jagged Crown
+      - Klimmek's Supplies
+      - Left Skull
+      - Right Skull
+      - Satchels
+      - All Instruments
+      - All coin pouches
+ - If you want the new IED presets to take effect on an existing save, you will need to import the default config by doing the following
+     - Press backspace in game
+     - Select file -> Default Config -> import
+     - Make sure the user radio button is selected (should be by default)
+     - Select "Ok" and then "Ok" again
+ - A new utility mod of my own making called "Modlist Maintenance" has been added. It keeps track of the current modlist version on your save among other things. From this point onward (meaning with future save unsafe updates), It will tell you if you've updated to a save unsafe version, it will tell you when it performs updates, and also has the ability to refresh spells on the player upon updating.
+ - I am still keeping modlist update checker, as its functionality includes the ability to reach out to see if there are any available updates, which is different than my DLL above.
+ - True Directional Movement: Now by default 360 degree movement is only active with your weapon unsheathed.
+
+### Bug Fixes
+
+ - Fixed an issue that was allowing a Glass Battleaxe to spawn in Khajiit caravan lists 
+ - Hopefully fixed a bug with Extended Guard Dialogue where guards would get stuck using the same lines over and over again.
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Starfrost - A Survival Overhaul
+ - Spell Perk Item Distributor (SPID)
+ - Blade and Blunt - A Combat Overhaul
+ - CC Myrwatch - Tweaks and Enhancements
+ - More Informative Console
+ - Subsurface Scattering
+ - Gourmet - A Cooking Overhaul
+ - Blade and Blunt - A Combat Overhaul
+
+### Added
+
+ - Custom Window
+ - Dynamic Animation Casting - NG
+ - Jumping Costs Stamina - Alternative Stamina Cost Options
+ - Modlist Maintenance
+
+</Details>
 
 ## 1.1.2
 
