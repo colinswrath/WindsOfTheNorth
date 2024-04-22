@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.4](#114) April 22 2024
 - [1.1.3](#113) April 19 2024
 - [1.1.2](#112) April 12 2024
 - [1.1.1](#111) April 8 2024
@@ -22,6 +23,58 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.4
+
+Key Info
+
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc
+
+ - Disable Actor Fade has been set to true in Display Tweaks
+
+### Balance Changes
+
+ - Scimitars have had their value increased to 235 to make them more difficult to purchase early game. They are elven level damage and readily available early on. (I may nerf their damage in the future)
+
+### Bug Fixes
+
+ - Fixed an issue with some IED items showing up still that I did not want to (like the dragon claws).
+    - Most favorited weapons/shield should still show up on the player. I mostly turned off quest items.
+     - Press backspace in game
+     - Select file -> Default Config -> import
+     - Make sure the user radio button is selected (should be by default)
+     - Select "Ok" and then "Ok" again
+ - ELIF fixes the issue with filled soul gems appearing very small in your inventory
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Custom Skills Framework
+ - Description Framework
+ - Stormcrown - A Shout Overhaul
+
+### Added
+
+ - ENB Light Inventory Fix (ELIF)
+ - Alchemy XP Fix
+ - Adoption Spouse and Moving Fixes
+
+### Removed
+
+ - Simple Snow Improvements - Giant Obelisk Fixes (BOS)
+
+</Details>
 
 ## 1.1.3
 
