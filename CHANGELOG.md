@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.5](#115) April 29 2024
 - [1.1.4](#114) April 22 2024
 - [1.1.3](#113) April 19 2024
 - [1.1.2](#112) April 12 2024
@@ -23,6 +24,59 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.5
+
+Key Info
+
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc
+
+ - Re-enabled whiterun ground stone upscale textures from Shadow's uspcale
+ - CoMap - Switched to Obscured Undiscovered Markers - Small Diamond
+ - CoMap - bObscuredUndiscovered has been set to 1 in the ini
+
+### Balance Changes
+
+ - Lawless had the Orc from the "Old Orc" encounter always spawn with a set of Orcish armor. This led to Orcish armor being accessible pretty early on.
+     - Therefore, his outfit pulls from a new leveled list similar to lawless bandit chiefs (but no helmet)
+
+### Bug Fixes
+
+ - Caught a few more stragglers with the IED preset. (please follow these instructions to load the new default preset)
+   - Press backspace in game
+   - Select file -> Default Config -> import
+   - Make sure the user radio button is selected (should be by default)
+   - Select "Ok" and then "Ok" again
+ - Fixed missing texture on ebony greatsword
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Constructible Object Custom Keyword System
+ - CoMAP - Common Marker Addon Project
+ - Modlist Maintenance Utility
+ - Inventory Interface Information Injector
+ - CC Myrwatch - Tweaks and Enhancements
+ - Unaggressive Dragon Priests Fix
+
+### Added
+
+ - Discord Rich Presence
+ - Contextual Crosshair
+ - Press E to Heal Followers
+
+</Details>
 
 ## 1.1.4
 
