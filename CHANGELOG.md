@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.6](#116) May 2 2024
 - [1.1.5](#115) April 29 2024
 - [1.1.4](#114) April 22 2024
 - [1.1.3](#113) April 19 2024
@@ -24,6 +25,45 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.6
+
+Key Info
+
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc Changes
+
+ - Selected the rusty Champion's Cudgel texture in the fomod for Xav's Imperial Retexture
+
+### Bug Fixes
+
+ - Fixed issue with wrong art on h2h and security skill trees
+ - Fixed issue where Vendil Severin was not spawning with the Severin Family Ring
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Swords of the Sanctum - Spell Knight Expansion and Distribution
+ - Custom Skills Framework
+ - Persistent Favorites
+
+### Added
+
+ - Skyrim SE Skill Interface Re-Texture (SSIRT) - Hand to Hand Patch
+ - Skill of Sneaking
+ - Items Stolen Bug Fix
+
+</Details>
 
 ## 1.1.5
 
