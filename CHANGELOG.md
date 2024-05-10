@@ -34,6 +34,7 @@ Key Info
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
  - If you were having issues loading up the game with Skills of Sneaking or Items Stolen Bugfix, please be sure you have followed the install instructions and installed VC++. (I made sure I updated the link)
+ - You can ignore prompts about missing plugins
 
 <Details>
 <summary>Patch Notes</summary>
