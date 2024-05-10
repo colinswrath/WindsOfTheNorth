@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.7](#117) May 9 2024
 - [1.1.6](#116) May 2 2024
 - [1.1.5](#115) April 29 2024
 - [1.1.4](#114) April 22 2024
@@ -25,6 +26,77 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.7
+
+Key Info
+
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+ - If you were having issues loading up the game with Skills of Sneaking or Items Stolen Bugfix, please be sure you have followed the install instructions and installed VC++. (I made sure I updated the link)
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc Changes
+
+ - The list now uses Aetherius' Breton Spell Absorb plugin
+ - With the addition of CSSET as a base, I do not feel the need to bloat the list's size with PC - Clutter so that has been removed.
+ - Community Shaders - Water Caustics have been disabled by default due to repeated reports of majorly impacted performance. It is still present in the list and may optionally be enabled again if you desire to do so
+
+### Bug Fixes
+
+ - I discovered that with post 7.0.0 versions of SPID, the visiting advisor outfit tweak distro just magically stopped working. I could not get it to work no matter which permutation of configuration I tried. It worked okay with pre 7.0.0 versions of SPID. Therefore, I switched the mod over to using SkyPatcher runtime distribution and it worked like a charm without issues.
+ - Fixed an issue with Falas Selvayn not selling anything but the Stag Prince Bow (Thank Delta for helping me fix this)
+ - Fixed an issue where torches are invisible when equipped
+ - Fixed a bug in Starfrost that caused hunger not to show in UI
+
+### Balance Changes
+
+ - The extra plots added by CC Farming TNE are no longer available for purchase (it had up to 121 plots available which is..alot)
+ - Silver Hand armor is now equivilant to Steel Armor instead of roughly Steel Plate
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Visiting advisor outfit tweak
+ - Blade and Blunt - A Combat Overhaul
+ - Starfrost - A Survival Overhaul
+ - Gourmet - A Cooking Overhaul
+ - Gourmet - Cooking Pots and Baking Ovens
+ - Aetherius - A Race Overhaul
+ - Mundus - A Standing Stone Overhaul
+ - Adamant - A Perk Overhaul
+ - Apothecary - An Alchemy Overhaul
+ - Apothecary - Fishing Patch
+ - Description Framework
+ - Aetherius - Race Menu Racial Passive Descriptions
+
+
+### Added
+
+ - SkyPatcher
+ - Cleaned Skyrim SE Textures (bsa replacement in stock game)
+ - Animated Forge Water
+ - Simply Skin Male Texture Replacer
+ - Simply Skin Female Texture Replacer
+ - Simply Skins Briarheart textures (provided by Foamimi)
+
+### Removed
+
+ - Jumping Costs Stamina - Alternative Stamina Cost Options (superceded by BnB update)
+ - Dynamic Animation Casting - NG
+ - Project Clarity - Clutter
+ - Tempered Skins for Males
+ - Tempered Skins for Females
+ - Tempered Racial Textures
+ - Vanilla Body with UNP Textures
+
+</Details>
 
 ## 1.1.6
 
