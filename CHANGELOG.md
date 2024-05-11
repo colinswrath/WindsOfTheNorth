@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.8](#118) May 11 2024
 - [1.1.7](#117) May 9 2024
 - [1.1.6](#116) May 2 2024
 - [1.1.5](#115) April 29 2024
@@ -26,6 +27,36 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.8
+
+Key Info
+ - This update is mostly a hotfix
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Update tasks
+
+ - As of the most recent update, blade and blunt updated injury chances above 90%. Toggle Survival Mode off and back on again to update the value properly.s
+
+### Bug Fixes
+
+ - Reverted Apothecary update
+ - Fixed an issue where I did not select the difficulty persistence fix in the Complete Widescreen fixes mod
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Reverted Apothecary to previous version
+
+</Details>
 
 ## 1.1.7
 
