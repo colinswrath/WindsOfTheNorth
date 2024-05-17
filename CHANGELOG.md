@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.9](#119) May 17 2024
 - [1.1.8](#118) May 11 2024
 - [1.1.7](#117) May 9 2024
 - [1.1.6](#116) May 2 2024
@@ -27,6 +28,52 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.9
+
+Key Info
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+ - You can ignore prompts about missing plugins
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc Changes
+
+ - Some of the Tamrielic Distribution plugins have been removed that were not actually needed due to other mods covering their functionality
+
+### Bug Fixes
+
+ - Fixed a bug with Winterhold - Bubbling Brew that sometimes caused the shop to be closed when it shouldnt be
+ - Fixed an issue where the Blackreach map was bugged
+ - Fixed an issue with blade and blunt that caused jump stamina to break after switching races
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Added
+
+ - Vanilla Makeup HD
+ - Vanilla Warpaints Absolution
+ - Iconic's Blackreach Crystals Retexture
+
+### Updated
+
+ - Artificer - Xavbio Textures Addon
+ - Starfrost - A Survival Overhaul
+ - Aetherius - A Race Overhaul
+ - Blade and Blunt - A Combat Overhaul
+ - Swords of the Sanctum - Spell Knight Expansion and Distribution
+
+### Removed
+
+ - Tamrielic Distribution - Disable AA Iron Quest
+ - Tamrielic Distribution - Disable AA Leather Quest
+ - Tamrielic Distribution - Disable AA Silver Quest
+
+</Details>
 
 ## 1.1.8
 
