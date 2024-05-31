@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.10](#1110) May 31 2024
 - [1.1.9](#119) May 17 2024
 - [1.1.8](#118) May 11 2024
 - [1.1.7](#117) May 9 2024
@@ -28,6 +29,48 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.10
+
+Key Info
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc Changes
+
+### Bug Fixes
+
+ - Fixed a bug where Dyndolod's load screen wasnt being filtered out properly
+ - Added patched scripts for Dragon Hunting and Run for your lives
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Added
+
+ - Ghosts of the Tribunal Retexture SE
+ - Vigil Enforcer Retexture SE
+
+### Updated
+
+ - Base Object Swapper
+ - Open Animation Replacer
+ - Wyrmstooth
+ - CC Hendraheim - Tweaks and Enhancements
+ - Open Animation Replacer
+ - Saints and Seducers - Mysticism Rebalance
+ - Assorted mesh fixes
+ - Aetherius - Race Menu Racial Passive Descriptions
+ - Innocence Lost - Quest Expansion
+ - Crash Logger SSE AE VR - PDB support
+ - Dragon Priests Retexture SE
+
+</Details>
 
 ## 1.1.9
 
