@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.11](#1111) June 15 2024
 - [1.1.10](#1110) May 31 2024
 - [1.1.9](#119) May 17 2024
 - [1.1.8](#118) May 11 2024
@@ -29,6 +30,39 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.11
+
+Key Info
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc Changes
+
+ - Switched the SkyHUD preset to "Vanilla Small"
+
+### Bug Fixes
+
+ - Fixed master volume being lowered all the way
+ - Deleted load screens from the dyndolod esp (in case anyone had custom display tweaks ini's, causing them to still appear)
+ - Fixed an issue where the female version of the ebony warrior's armor had major texture issues (Fixed by reverting back to vanilla female ebony armor from practical femal armors)
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Ebony Armors and Weapons Retexture SE
+ - powerofthree's Tweaks
+ - Innocence Lost - Quest Expansion
+ - Silver Armor and Weapons Retexture SE
+ - powerofthree's Tweaks
+ - Iconic's Spiders of Skyrim Retexture
 
 ## 1.1.10
 
