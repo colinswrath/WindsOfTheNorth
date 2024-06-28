@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.12](#1112) June 28 2024
 - [1.1.11](#1111) June 15 2024
 - [1.1.10](#1110) May 31 2024
 - [1.1.9](#119) May 17 2024
@@ -30,6 +31,42 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 1.1.12
+
+Key Info
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc 
+
+ - This patch mostly consists of updating mods that needed it. A big highlight is that I updated modlist maintenance to allow better version handling
+ - I also fixed the broken readme from 1.1.11
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+- Hearthfires Houses Building Fix
+- Base Object Swapper
+- Modlist Maintenance Utility
+- Aetherius - A Race Overhaul
+- Mundus - A Standing Stone Overhaul
+- Open Animation Replacer
+- The Only Cure - Quest Expansion
+- Blade and Blunt - A Combat Overhaul
+- Persistent Favorites
+- Pirate-King - A Velehk Sain Overhaul and Expansion
+- Adamant - No Killmoves Descriptions
+- Assorted mesh fixes
+
+</Details>
 
 ## 1.1.11
 
@@ -63,6 +100,8 @@ Key Info
  - Silver Armor and Weapons Retexture SE
  - powerofthree's Tweaks
  - Iconic's Spiders of Skyrim Retexture
+
+</Details>
 
 ## 1.1.10
 
