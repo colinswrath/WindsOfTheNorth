@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [1.1.13](#1113) July 22 2024
 - [1.1.12](#1112) June 28 2024
 - [1.1.11](#1111) June 15 2024
 - [1.1.10](#1110) May 31 2024
@@ -32,6 +33,50 @@
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
 
+## 1.1.13
+
+Key Info
+ - This update is Save-Safe (from 1.1.0+ Only)
+ - Not save safe if upgrading from pre 1.1.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+
+ - Fixed an issue where Modlist Update Checker was reporting the list out of date (I forgot to update the ini last update)
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Simply Skin - Male
+ - Simply Skin - Female
+ - More Informative Console
+ - Open Animation Replacer
+ - Photo Mode
+ - Skill of Sneaking
+ - Pirate-King - A Velehk Sain Overhaul and Expansion
+ - House of Horrors - Quest Expansion
+ - Base Object Swapper
+ - Infinite Dragon Variants
+ - Caught Red Handed - Quest Expansion
+ - Gourmet - Cooking Pots and Baking Ovens
+ - NPCs React to Invisibility
+ - CC Farming - Tweaks Enhancements and Quest Expansion
+ - powerofthree's Papyrus Extender
+
+### Added
+
+ - Dragon Priest Hood Variants
+ - Divine Crusader Retexture SE
+ - Daedric Armors and Weapons Retexture SE
+
+</Details>
+
 ## 1.1.12
 
 Key Info
@@ -53,18 +98,18 @@ Key Info
 
 ### Updated
 
-- Hearthfires Houses Building Fix
-- Base Object Swapper
-- Modlist Maintenance Utility
-- Aetherius - A Race Overhaul
-- Mundus - A Standing Stone Overhaul
-- Open Animation Replacer
-- The Only Cure - Quest Expansion
-- Blade and Blunt - A Combat Overhaul
-- Persistent Favorites
-- Pirate-King - A Velehk Sain Overhaul and Expansion
-- Adamant - No Killmoves Descriptions
-- Assorted mesh fixes
+ - Hearthfires Houses Building Fix
+ - Base Object Swapper
+ - Modlist Maintenance Utility
+ - Aetherius - A Race Overhaul
+ - Mundus - A Standing Stone Overhaul
+ - Open Animation Replacer
+ - The Only Cure - Quest Expansion
+ - Blade and Blunt - A Combat Overhaul
+ - Persistent Favorites
+ - Pirate-King - A Velehk Sain Overhaul and Expansion
+ - Adamant - No Killmoves Descriptions
+ - Assorted mesh fixes
 
 </Details>
 
