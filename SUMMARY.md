@@ -43,7 +43,9 @@ Essentially, its my own personal modlist I play with that I just really wanted t
 Winds of the North is built with the Simonrim Suite of gameplay overhauls at its core.
 Almost every part of the game from perks and magic to survival mechanics and combat have been overhauled to bring you a challenging and cohesive experience.
 
-Simonrim can be a bit more challenging than the vanilla game until you "figure things out". I suggest starting out on Apprentice difficulty especially with the added challenge of the accompanying enemy mods.
+Simonrim can be a bit more challenging than the vanilla game until you "figure things out". If you are new to Simonrim, I suggest starting no higher than Adept difficulty.
+
+Winds of the North 2.0.0 utilizes Blade and Blunt's "Level Based Difficulty" setting to bring additional challange to the game. As you level up, the game will automatically adjust the difficulty settings in the background to keep things challenging.
 
 ## Crusader and Leveling Changes
 
@@ -84,7 +86,7 @@ It's pretty important to understand the changes this mod makes when making your 
 ### Crafting Skills
 
  - Leveling crafting skills will give much less progress towards your character level, for crafting skills below 40
- - Leveling crafting skills will give much more progress towards your character level, for crafting skills aboe 60
+ - Leveling crafting skills will give much more progress towards your character level, for crafting skills above 60
  - This prevents the player from power leveling early with crafting, and discourages players from interacting with crafting purely for the early levels
  - This also protects the character from having their character level inflated by leveling a skill that contributes little to nothing to their power at low levels
  - The total contribution to your character level for reaching 100 with a crafting skill is identical to all other skills
@@ -112,7 +114,7 @@ It's pretty important to understand the changes this mod makes when making your 
  There are a couple of things I think are worth keeping in mind when playing this list with Crusader.
 
  - The slower leveling speeds are meant to incentivize maintaining your needs bonuses from Starfrost and Gourmet.
- - Keep your Rested/Well Rested/Lover's (10%/25%/50%) Comfort bonuses up to increase your experience gain.
+ - Keep your Rested/Well Rested/Lover's (5%/10%/15%) Comfort bonuses up to increase your experience gain.
  - Fed/Well Fed/Lover's Cooking will grant you 5%/10%/15% extra experience gain.
  - Between these two buff sources you can maintain a max increase of 75% extra experience gain which is quite substantial. 
 
@@ -120,26 +122,25 @@ It's pretty important to understand the changes this mod makes when making your 
 
 ## Enemies
 
-In Winds of the North, enemies are overhauled by several of the well known simonrim oriented enemy mods such as: 
+In Winds of the North, there are several mods that add or change existing enemies. With the exception of Dragon War and Humanoid Dragon Priests, enemy mods in WotN 2.0.0 are mostly additional aesthetic rather than rebalance. 
 
-- [Madmen](https://www.nexusmods.com/skyrimspecialedition/mods/98579) by Oreo
-- [Lawless](https://www.nexusmods.com/skyrimspecialedition/mods/88080) by Oreo
-- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) by Delta
-- [Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/81422) by Delta
-- [King Priest](https://www.nexusmods.com/skyrimspecialedition/mods/59652) by ElectricSparx
-- [Hokoron](https://www.nexusmods.com/skyrimspecialedition/mods/89212) by Aelix
+- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) by Delta. Dragon War makes dragon fights much more difficult, as befits Skyrim's primary source of boss fights.
+- [DEAD - Draugr Enemy Asset Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/112431) by TateTaylorOH. 
+DEAD utilizes some of the "Plague of the Dead" assets to bring visual changes to mainland Draugr. A lesser known bit of Skyrim lore is that some Draugr locations are supposed to be "Dragon War" era Draugr, and other crypts were supposed to come into being much later after the Dragon Cult had already fallen. Despite this, the visuals between all of the Draugr remained the same. DEAD takes the zombie assets and uses them to rework post war Draugr.
+- [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238) by opusGlass. Similarly to DEAD, Cannibal Draugr reworks Draugr visuals but on Solstheim. Draugr there have been redisigned to more closely resemble their counterparts from "Blooodmoon", the Morrowind DLC that also took place on Solstheim.
+- [Humanoid Dragon Priests](https://www.nexusmods.com/skyrimspecialedition/mods/122320) by Magink. Makes Dragon Priests much more difficult by converting priests into floating humanoids rather than creatures. This avoids a lot of the vanilla priest AI issues.
 
 ## Graphics
 
-Winds of the North is not primarily a graphically focused mod list. One of the main goals is to not stray too far from the vanilla aesthetic.
+Winds of the North is not primarily a graphically focused mod list. One of the main goals is to try to preserve the general feeling and atmosphere of the vanilla game.
 
-However, it does still utilize quite a few graphical mods to make things look a bit better.
+However, it does utilize quite a few graphical mods to make things look a bit better.
 
 These include, but are not limited to: 
 
-Community Shaders, better vanilla textures with SSEUT, a custom cut of Cathedral Landscapes’ grass, Cathedral 3d flowers, improved snow with Nordic Snow, Xavbio’s awesome armor/weapon retextures, and much more. 
+Community Shaders, better vanilla textures with HD Vanilla Landscapes, improved snow with Nordic Snow, Xavbio’s awesome armor/weapon retextures, and much more. 
 
-I found the atmosphere of Skyrim’s vanilla weathers to be essential to maintaining the original feel of Skyrim. The main exception here is storms. Winds of the North does improve storms’ visuals and audio using True Storms.
+I found the atmosphere of Skyrim’s vanilla weathers to be essential to maintaining the original feel of Skyrim. The main exception here is storms, which Winds of the North does improve via True Storms.
 
 ## New Lands, Quests, Content
 
@@ -150,9 +151,132 @@ Winds of the North includes several new lands, dungeons, and quest mods to provi
 - [Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) by ECSS Dev Group
 - [Morthal Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/90737) and [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371) Penrutet
 - Most of [Jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) "Quest Expansion" series provides new ways to complete many vanilla quests.
-- [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157/) by EpicCrab
+- [Destroy The Dark Brotherhood - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/118229) by Jayserpa
+- [Infiltration - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/114054) by Jayserpa
+- [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810) by jonx0r adds many new world encounters that help make Skyrim feel more alive.
+- [Environs Series](https://www.nexusmods.com/skyrimspecialedition/mods/91160) by Siberpunk adds a dynamic aspect to some locations, such as the repair and resettling of the whiterun farmhouse.
 
-Due to the added difficulty that the core gameplay and enemy mods provide, [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) and [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) delay some quests to later levels.
+Due to the added difficulty that the core gameplay and enemy mods provide, [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) and an unreleased mod called "Arena Quest Requirements" delay some quests to later levels.
+
+I have listed the details below.
+
+> Arena Quest Requirements is a work-in-progress mod by SimonMagus616 and DeltaRider. Do not redistribute this mod without explicit permission
+
+<details>
+<summary>Arena Quest Requirements</summary>
+
+<table>
+    <tr>
+        <th>Quest</th>
+        <th>Level</th>
+    </tr>
+    <tr style="color: #cc4444;">
+        <td>Hearthfire Letter</td>
+        <td>15</td>
+    </tr>
+    <tr style="color: #cc4444;">
+        <td>Dungeon Delving (Markarth)</td>
+        <td>15</td>
+    </tr>
+    <tr style="color: #cc4444;">
+        <td>The Forsworn Conspiracy</td>
+        <td>15</td>
+    </tr>
+    <tr style="color: #cc4444;">
+        <td>Kill the Giant (The Pale)</td>
+        <td>15</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>Kill The Vampire (Solitude)</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>Unfathomable Depths</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>The Black Star</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>Ill Met by Moonlight</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>The Break of Dawn</td>
+        <td>Usually in Arena Quest requirements this would be level 20. But in WotN, Meredia's Beacon is available in Rielle from level 1. Getting to it before level 15 would be a difficult endevour.</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>A Night To Remember</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>The Mind of Madness</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>Dawnguard</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>The Wolf Queen Awakened</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>A Daedra's Best Friend</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>The Cursed Tribe</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>The House of Horrors</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>The Taste of Death</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>Waking Nightmare</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>Boethiah’s Calling</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>Discerning the Transmundane</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>Pieces of the Past</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>The Only Cure</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>The Whispering Door</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>Dragonborn (Requires the completion of the Horn of Jorgen Windcaller too)</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>Deathbrand</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #cc6699;">
+        <td>The Ebony Warrior</td>
+        <td>40</td>
+    </tr>
+</table>
+
+</details>
 
 ## Lines Expansions
 
@@ -181,12 +305,92 @@ As of now Winds of the North contains two animal followers, TateTaylorOH's [Glad
 
 ## Creation Club Support
 
-Although Winds of the North requires the Anniversary Edition of Skyrim, not every single creation has been utilized. There are over a dozen mods Winds of the North uses for CC integration so I wont list them all here, but I will discuss some important ones.
+Although Winds of the North requires the Anniversary Edition of Skyrim, not every single creation has been utilized. There are over a dozen mods used for CC integration. They have been listed below, some with additional details.
 
-- Integration for many of the Creation Club items is provided by Tamrielic Distribution.
+- Integration for many of the Creation Club items.
 - Survival Mode has been completely overhauled by "Survival Mode Improved" by...me! and Starfrost by SimonMagus.
 - The Alternative Armors creations have all been integrated into most of the leveled lists by a very heavily modified version of Oreo's [CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/75904)
 - Many of the Creation Club houses have been overhauled to some degree
 - Crossbows are integrated using a combination of "Tamrielic Distribution", "Kachunk", "Thwack" and "Rare Curious Bolts Expanded".
 - "Press H to Horse" overhauls vanilla horses as well as the Creation Club's "Wild Horses" and Horse Armors.
-- and much more...
+> Items that are labeled as "NOT SUPPORTED" simply means that the creation will not be enabled in the list, but the list still requires the Anniversary Edition content to be installed.
+
+> Items labeled as "Unchanged" means that they are enabled and active in the list, but they are left in their vanilla state.
+
+
+| Creation                                                                                                 | Integration Mod/Mods                                                                             | Details                                                                                                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Survival Mode                                                                                            | Survival Mode Improved, Starfrost                                                                |                                                                                                                                                                                                                                                                                                                                        |
+| Arcane Accessories                                                                                       | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| Arcane Archer Pack                                                                                       | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| Chrysamere                                                                                               | Creation Cave                                                                                    | 1\. Quest removed, The Sword of Paladins has been lost within Bleakcoast Cave, a troll den off the coast of Winterhold.<br>2\. The Sword of Paladins has been lost within Bleakcoast Cave, a troll den off the coast of Winterhold.                                                                                                    |
+| Divine Crusader                                                                                          | Knight of the North - Divine Crusader Reworked                                                   |                                                                                                                                                                                                                                                                                                                                        |
+| Plague of the Dead                                                                                       | DEAD                                                                                             | Utilizes Plague of the Dead zombie assets to give some more visual diversity to Skyrim's undead based on the context of their resting places.                                                                                                                                                                                          |
+| Ruin's Edge                                                                                              | Extended Cut: Saints and Seducers                                                                | Moved to the Asylum                                                                                                                                                                                                                                                                                                                    |
+| Staff of Sheogorath                                                                                      | Extended Cut: Saints and Seducers                                                                | Moves the Fork of Horripilation and the pieces used to craft the Staff of Sheogorath to the Asylum.                                                                                                                                                                                                                                    |
+| Stendarr's Hammer                                                                                        | Creation Cave                                                                                    | 1\. Quest removed<br>2.Stendarr's Hammer is rumored to have been smuggled into Skyrim from the ruins of Morrowind to Mara's Eye Den in Eastmarch.                                                                                                                                                                                      |
+| Dwarven Armored Mudcrab                                                                                  | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| Lord's Mail                                                                                              | Morihaus' Refuge                                                                                 | 1\. The quest involving Redguard thieves has been completely removed.<br>2\. A new dungeon, amongst some Ancient Imperial ruins.<br>3\. A moderately challenging boss who will use the full force of both their armor and their weapon against you                                                                                     |
+| Adventurer's Backpack                                                                                    | Schoolsacks of Simonrim - A CC Backpack Overhaul                                                 |                                                                                                                                                                                                                                                                                                                                        |
+| Camping                                                                                                  | Unchanged                                                                                        |                                                                                                                                                                                                                                                                                                                                        |
+| Nix-hound                                                                                                | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| Shadowrend                                                                                               | ECSS                                                                                             | Moved to the Grove of Reflection                                                                                                                                                                                                                                                                                                       |
+| Tundra Homestead                                                                                         | Homes Under the Warhammer, Tundra Homestead Exterior Cleanup                                     |                                                                                                                                                                                                                                                                                                                                        |
+| Myrwatch                                                                                                 | Homes Under the Warhammer, Myrwatch TnE                                                          |                                                                                                                                                                                                                                                                                                                                        |
+| Nordic Jewelry                                                                                           | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| Pets of Skyrim                                                                                           | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| Rare Curious                                                                                             | Rare Curios bolts Expanded, Curated Curios                                                       |                                                                                                                                                                                                                                                                                                                                        |
+| Bone Wolf                                                                                                | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| Staff of Hasedoki                                                                                        | Creation Cave                                                                                    | The Staff of Hasedoki was once wielded by the Gilgar's of Vvardenfell before being claimed by the Nerevarine. Over the years, it has had many wielders, with the current holder being the Dunmer necromancer Vals Varen.                                                                                                               |
+| Wild Horses                                                                                              | Press H to Horse                                                                                 |                                                                                                                                                                                                                                                                                                                                        |
+| Civil War Champions                                                                                      | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| Elite Crossbows                                                                                          | CC Crossbows Thaum patch, Kachunk, Thwack, TD                                                    | Crossbows are distributed into the world in a similar fashion as vanilla bows.                                                                                                                                                                                                                                                         |
+| Forgotten Seasons                                                                                        | Unchanged                                                                                        |                                                                                                                                                                                                                                                                                                                                        |
+| Saturalia Holiday Pack                                                                                   | The Gift of Saturalia                                                                            |                                                                                                                                                                                                                                                                                                                                        |
+| Sunder and Wraithguard                                                                                   | Sunder and Wraithguard - Arniel's Endeavor                                                       |                                                                                                                                                                                                                                                                                                                                        |
+| Vigil Enforcer Armor Set                                                                                 | Wotn - Custom CC Integration                                                                     | Vigilants have a chance to spawn with the enforcer armor (may still spawn with robes,steel and steel plate gauntlets and boots), Tyranus and Carcette spawn with Veteran Armor. Krev the Skinner spawns with the silver hand armor                                                                                                     |
+| [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos)                                           | Creation Cave                                                                                    | 1\. Quest removed<br>2\. The Arms of Chaos are scattered throughout Skyrim, with each being wielded by powerful warlocks and mages of ill repute: Silvia of Darklight Tower holds the Arm of the Moon; Sild the Warlock wears the Warlock's Mark; Naris the Wicked wields the Arm of the Sun; and The Caller bears the Sovereign Band. |
+| [Shadowfoot Sanctum](https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum)                                 | Homes under the Hammer                                                                           |                                                                                                                                                                                                                                                                                                                                        |
+| [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor)                                 | Warmage of Shornhelm, Swords of the Sanctum                                                      |                                                                                                                                                                                                                                                                                                                                        |
+| [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra)                                                           | Unchanged                                                                                        |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Dwarven Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail)   | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur)   | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Dawnfang & Duskfang](https://en.uesp.net/wiki/Skyrim:Dawnfang_%26_Duskfang)                             | Bloodthirst - Creation Cave, CC Dawnfang and Duskfang - No Forced Quest                          | 1\. Bloodthirst: This bloody sword of the Tsaecsi, once thought lost, has been claimed by the Vampire Ancient Vighar, arisen ancesotr of Dengeir of Stuhn.<br>2\. Dawnfang/Duskfang quest no longer automatically starts upon entering the ratway                                                                                      |
+| [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack)                         | CC Crossbows Thaum patch, Kachunk, Thwack, TD                                                    | Crossbows are distributed into the world in a similar fashion as vanilla bows.                                                                                                                                                                                                                                                         |
+| [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor)                               | Wotn - Custom CC Integration                                                                     | 1\. Jenessa and Ralis Sedarys start with netch leather<br>2\. Netch Leather may spawn on Solstheim instead of normal Leather                                                                                                                                                                                                           |
+| [Alternative Armors - Daedric Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Mail)   | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Dragonscale](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragonscale)     | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Elven Hunter](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Elven_Hunter)   | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Ebony Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Ebony_Plate)     | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Steel Soldier](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Steel_Soldier) | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread)                                   | Pirate's Life for Me                                                                             | Original quest removed. Gear is distributed to various NPCs.                                                                                                                                                                                                                                                                           |
+| [Goblins](https://en.uesp.net/wiki/Skyrim:Goblins)                                                       | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| [Saints & Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers)                                 | Extended Cut - Saints and Seducers                                                               |                                                                                                                                                                                                                                                                                                                                        |
+| [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim)                                                 | Hendraheim - Tweaks and Enhancements                                                             |                                                                                                                                                                                                                                                                                                                                        |
+| [The Gray Cowl Returns!](https://en.uesp.net/wiki/Skyrim:The_Gray_Cowl_Returns!)                         | Creation Cave                                                                                    | The Gray Cowl has been lost since the end of the Third Era; however, cultists of Nocturnal believe that Her Nightingales have reclaimed the cowl and placed it within the Twilight Sepulcher.                                                                                                                                          |
+| [Alternative Armors - Daedric Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Plate) | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Dragon Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragon_Plate)   | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Dwarven Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Plate) | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Iron](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Iron)                   | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Leather](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Leather)             | Tamrielic Distribution                                                                           |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Orcish Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Orcish_Plate)   | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Orcish Scaled](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Orcish_Scaled) | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Alternative Armors - Silver](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Silver)               | CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy |                                                                                                                                                                                                                                                                                                                                        |
+| [Bittercup](https://en.uesp.net/wiki/Skyrim:Bittercup)                                                   | Creation Cave                                                                                    | The Bittercup has been squirreled away by a former follower of Clavicus Vile within Rimerock Burrow; meanwhile, a former champion of the Imperial City Arena has been reduced to a drunken mess of a bandit chief within Lost Knife Cave.                                                                                              |
+| [Bloodchill Manor](https://en.uesp.net/wiki/Skyrim:Bloodchill_Manor)                                     | Homes under the Warhammer                                                                        |                                                                                                                                                                                                                                                                                                                                        |
+| [Bow of Shadows](https://en.uesp.net/wiki/Skyrim:Bow_of_Shadows)                                         | Bow of Shadows - Reduced Cut                                                                     |                                                                                                                                                                                                                                                                                                                                        |
+| [Farming](https://en.uesp.net/wiki/Skyrim:Farming)                                                       | Creation Club Farming - Tweaks Enhancements and Quest Expansion                                  |                                                                                                                                                                                                                                                                                                                                        |
+| [Fearsome Fists](https://en.uesp.net/wiki/Skyrim:Fearsome_Fists)                                         | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing)                                                       | Simple Fishing Overhaul, Fancy Fishing                                                           |                                                                                                                                                                                                                                                                                                                                        |
+| [Gallows Hall](https://en.uesp.net/wiki/Skyrim:Gallows_Hall)                                             | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| [Ghosts of the Tribunal](https://en.uesp.net/wiki/Skyrim:Ghosts_of_the_Tribunal)                         | Ghost of the Tribunal - Reduced Cut                                                              |                                                                                                                                                                                                                                                                                                                                        |
+| [Goldbrand](https://en.uesp.net/wiki/Skyrim:Goldbrand)                                                   | Catir Club                                                                                       |                                                                                                                                                                                                                                                                                                                                        |
+| [Headman's Cleaver](https://en.uesp.net/wiki/Skyrim:Headman%27s_Cleaver)                                 | Creation Cave                                                                                    | The Headman's Cleaver has been lost since the dissolution of the kingdom of Bloodfall; it has since found its way into the hands of Ghunzul, leader of the Orcish marauders of Cracked Tusk Keep.                                                                                                                                      |
+| [Horse Armor - Elven](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Elven)                               | Press H to Horse                                                                                 |                                                                                                                                                                                                                                                                                                                                        |
+| [Horse Armor - Steel](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Steel)                               | Press H to Horse                                                                                 |                                                                                                                                                                                                                                                                                                                                        |
+| [Nchuanthumz: Dwarven Home](https://en.uesp.net/wiki/Skyrim:Nchuanthumz:_Dwarven_Home)                   | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| [Necromantic Grimoire](https://en.uesp.net/wiki/Skyrim:Necromantic_Grimoire)                             | NOT SUPPORTED                                                                                    |                                                                                                                                                                                                                                                                                                                                        |
+| [Redguard Elite Armaments](https://en.uesp.net/wiki/Skyrim:Redguard_Elite_Armaments)                     | Redguard Elite Reintegration                                                                     |                                                                                                                                                                                                                                                                                                                                        |
+| [Staves](https://en.uesp.net/wiki/Skyrim:Staves_(Creation))                                              | CC Staves - Mysticism Consistency Patch, Vendor Inventory Adjusted                               |                                                                                                                                                                                                                                                                                                                                        |
+| [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause)                                                   | The Cause - Reduced Cut                                                                          |                                                                                                                                                                                                                                                                                                                                        |
+| [The Contest](https://en.uesp.net/wiki/Skyrim:The_Contest)                                               | Catir Club                                                                                       |

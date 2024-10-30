@@ -5,7 +5,7 @@
   <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/README.md">Installation</a> |
   <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/SUMMARY.md">Detailed Modlist Summary</a> |
   <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="https://loadorderlibrary.com/lists/winds-of-the-north">Modlist</a> |
+  <a href="https://loadorderlibrary.com/lists/winds-of-the-north-2-0-0">Modlist</a> |
   <a href="https://ko-fi.com/colinswrath">Ko-fi</a>] 
 </p>
 
@@ -43,7 +43,7 @@
 
 Winds of the North is a lightweight modlist dedicated to enhancing Skyrim's gameplay and refining its visual aspects while also preserving the original game's aesthetic. It features the full Simonrim suite of overhaul mods, introduces new content, quality of life changes, and fully integrates and rebalances many of the Anniversary Edition Creations, to bring you a fresh but also familiar experience.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/winds-of-the-north).
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/winds-of-the-north-2-0-0).
 
 A detailed summary of some of the modlist's highlights can be found at [Detailed Summary](https://github.com/colinswrath/WindsOfTheNorth/blob/main/SUMMARY.md).
 
@@ -65,9 +65,9 @@ One of this list's paramount goals is to generally maintain Skyrim's original ae
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
-Downloads: ~47 GB  
-Install: ~59 GB  
-**TOTAL:** ~106 GB  
+Downloads: ~40 GB  
+Install: ~60 GB  
+**TOTAL:** ~100 GB  
 
  > Wabbajack requires some additional space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 
@@ -236,6 +236,11 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 Winds of the North offers some mods to provide Ultrawide and Widescreen Support. Under the **Optional Widescreen** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
 
+### Performance Options
+
+Should you find yourself lacking in performance, you may trade in some of the list's visual fidelity for performance by disabling the mods under the "shaders" seperator. If you have a support request, just please mention you have done this in the request. 
+Other modifications, such as regenerating LOD, will forfeit support.
+
 </Details>
 
 ## Playing the List
@@ -272,7 +277,6 @@ Simply delete the entire modlist folder and you should be good to go.
 
 Please check the [FAQ](https://github.com/colinswrath/WindsOfTheNorth/blob/main/FAQ.md) first if you have any issues.   
  If you encounter any bugs or issues while playing the list, the [Lost Outpost Discord server](https://discord.gg/WF66mMu) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/colinswrath/WindsOfTheNorth/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/112972?tab=bugs)
-
 
 ## Credits
 
