@@ -34,7 +34,7 @@
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
 
-## 2.0.0 - The Great Thinning
+## 2.0.0 - The Treasury Update
 
 Key Info
  - This update is NOT Save-Safe!!
