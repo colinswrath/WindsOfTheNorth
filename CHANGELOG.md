@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [2.0.0](#200) October 31 2024
 - [1.1.13](#1113) July 22 2024
 - [1.1.12](#1112) June 28 2024
 - [1.1.11](#1111) June 15 2024
@@ -32,6 +33,202 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 2.0.0 - The Treasury Update
+
+Key Info
+ - This update is NOT Save-Safe!!
+
+<Details>
+<summary>Patch Notes</summary>
+
+### About
+ - With 2.0.0 comes the first major rework that this list has ever recieved. As such, 2.0.0 has undergone many additions, updates, and removals. 
+
+ - Perhaps the largest change, that I hope will not be too controversial, is the removal of the majority of the enemy mods. 
+I feel for consistency's sake that this was a choice that I needed to make.
+In their place I have added BnB's "Level Based Difficulty", which scales the difficulty as you level up. I have also elected to add a few mods that more or less modify the aesthetic of some enemies (mainly Draugr).
+
+ - The title of this update comes from the addition of my own mod called "Treasury Exchange". It replaces Merchant Exchange with a fully voiced NPC in the Markarth Treasury house.
+
+ - Other larger changes include switching from "Timing is Everything" to "Arena Quest Requirements", the addition of the currency swapper COIN mod series by TateTaylorOH, and a rework of some of the Creation Club integration (additional supported Creation Club items are listed below)
+
+### Misc 
+
+ - "Character Lighting" has been re-enabled by default.
+ This is something that is usually disabled by Community Shaders. 
+ However disabling this in conjunction with the very vanilla-like setup that WotN has causes characters to be too dark and lose much of their detail. Character lighting has been re-enabled by default in this list.
+ - The default difficulty has been changed to Expert. Feel free to lower this if you deem it too difficult.
+ - Grass mods have been removed in favor of vanilla grass.
+ - Support for several new AE creations has been added. (Details under Added section below)
+ - Updated Xedit, texgen, and dyndolod path arguments to be relative to install
+ - Regenerated xlodgen, ACMOS (for roads on map), TexGen, and Dyndolod
+ - Regenerated ImmersiveEquipmentMeshGen for mirrored left sheaths (for Simple Dual Sheaths)
+ - Disabled the smithy items behind the general store in Winterhold.
+ - Most of the formerly included enemy mods, except Dragon War, have been removed.
+ - Added DEAD, Humanoid Dragon Priests, and switched to the normal version of Cannibal Draugr on Solstheim.
+ - Made Dragon Priest footsteps silent from Humanoid Dragon Priests
+ - Disabled Dragon Priests dropping ash piles upon death
+ - Rearanged the tracks in the music merge, and added more silent and palette tracks.
+ - Jumping stamina cost reduced from 12 stamina to 8
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Powerofthree's Papyrus Extender
+ - Base Object Swapper
+ - Powerofthree's Tweaks
+ - Photo Mode
+ - Dragon War - A Dragon Overhaul
+ - Dynamic Random Dragons
+ - Dragon Hunting
+ - Civil War Lines Expansion
+ - Unique Towns - Base Object Swapper
+ - Armory of the Dragon Cult - Dragon Priest Armor
+ - ERM - Enhanced Rocks and Mountains
+ - Environs - The Ruined Tundra Farmhouse
+ - Environs - Hroggar's House
+ - CC Farming - Tweaks Enhancements and Quest Expansion
+ - Security Overhaul SKSE - Lock Variations
+ - Iron Armors and Weapons Retexture SE
+ - Environs - Abandoned Abodes
+ - Press H to Horse
+ - The Only Cure - Quest Expansion
+ - NPCs React To Invisibility
+ - Knight of the North - Divine Crusader Reworked
+ - Deadly Spell Impacts
+ - Description Framework
+ - The Heart of Dibella - Quest Expansion
+ - Canis Hysteria - The Werewolf Disease
+ - Merlin the Corgi
+ - Gladys the Corgi
+ - C.O.I.N
+ - Siege at Icemoth
+ - Press H to Horse
+ - True Directional Movement - Modernized Third Person Gameplay
+ - FormList Manipulator - FLM
+ - Face Sculptor Expanded
+ - More Informative Console
+ - Creation Cave (Switched to AIO version)
+ - Simplicity of Snow
+ - Orcish Armors and Weapons Retexture SE
+ - Creation Club - Adjustments Rebalancing and Variants (switched to AIO version)
+ - CoMap
+ - Nordic Snow
+ - FormList Manipulator - FLM
+ - Forsworn Armors and Weapons Retexture SE
+ - Wolf Armors and Weapons Retexture SE
+ - Iron Armors and Weapons Retexture SE
+ - East Empire Company Armor
+ - Animated Forge Water
+ - Assorted mesh fixes
+ - Extended Guard Dialogue
+ - Extended Bandit Dialogue
+ - Unofficial Skyrim Special Edition Patch
+ - Crash Logger SSE AE VR - PDB support
+ - powerofthree's Tweaks
+ - powerofthree's Papyrus Extender
+ - RUGNAROK - Special Edition
+ - Dyndolod 3.0
+ - Dyndolod Resources
+ - Dyndolod DLL SE
+ - Base Object Swapper
+ - Winds of The North Music Merge
+
+### Added
+ - Support for additional creation club items:
+    - Umbra
+    - Stendarr's Hammer
+    - Dawnfang & Duskfang
+    - Arms of Chaos
+    - The Staff of Hasedoki
+    - The Gray Cowl
+    - Bittercup
+    - Headman's Cleaver
+    - Sunder and Wraithguard
+ - Arena - Quest Requirements
+ - Winterhold - Smelt Cellar
+ - Falmer Servant Lines Expansion
+ - Extended Encounters
+ - Infiltration - Quest Expansion
+ - The Gift of Saturalia - A Quest for the Holidays
+ - Destroy The Dark Brotherhood - Quest Expansion
+ - Environs - Tundra Farmhouse - Patch Collection
+ - Environs - Hroggar's House - Patch Collection
+ - Enhanced Vanilla Mountain Textures
+ - Container Distribution Framework
+ - Currency Swapper
+ - Security Overhaul SKSE - Extra Locks - 11 New Locks
+ - Skyrim Silver - Currency Swapper for Windhelm
+ - Gibberish - Currency Swapper
+ - Elven Supremecy - Currency Swapper for Thalmor
+ - Morrowind Mint - Currency Swapper for Solstheim
+ - CC Dawnfang and Duskfang - No Forced Quest
+ - Sunder and Wraithguard - Arniel's Endeavor
+ - D.E.A.D. - Draugr Enemy Asset Diversity
+ - Ancient Nord Stalhrim
+ - 1st Person Greatsword Idle Animation Fix
+ - Local Map Upgrade
+ - dTry's Key Utils
+ - dTry Plugin Updates
+ - EVE - Power Attack Direction Fix - AE
+ - Unarmed Behaviors Expanded
+ - Stonehollow Overhaul for Wyrmstooth
+ - Destination Weddings
+ - Treasury in the Treasure House
+ - C.O.I.N. - Treasury Exchange
+ - Harvest Your Blood for Septimus
+ - HD Vanilla Landscapes
+ - Use or Take SKSE
+ - Read or Take SKSE
+ - Riften Gate Restored
+ - Erandur Dialogue Edits
+ - Taarie's Dialogue Fix
+ - Humanoid Dragon Priests
+
+### Removed
+
+ - Madness and Order
+ - Timing is Everything (Replaced with Arena - Quest Requirements Addon)
+ - Timing is Everything - Settings Loader
+ - Thugs Not Assassins - Timing is Everything Patch
+ - Skyrim Is Luminous
+ - Cathedral Landscapes
+ - Less saturated Cathedral grass for ENB complex grass
+ - Cathedral Landscapes - Swamp Grass Alternatives
+ - Cathedral - 3D Grass Library - Meshes
+ - Cathedral - 3D Solstheim Grass
+ - Landscape Fixes for Grass Mods
+ - Complementary Grass Fixes
+ - Grass Fixes for Creation Club Mods
+ - Pocket Mammoths
+ - Unique Towns Vanilla - Bubbling Brew Patch (Redundant)
+ - Seasonal Saturalia Merchant - Vanilla Seasons (replaced with The Gift of Saturalia)
+ - Dark Brotherhood Rising Revengeance
+ - Armory of the Dragon Cult - Unenchanted Robes and Armors (Redundant)
+ - Happy Little Shrubs
+ - Tamrielic Distribution
+ - Madmen - A Forsworn Overhaul (and related patches)
+ - DFNFConflictResolution.esp (Custom Patch no longer needed)
+ - Lawless - A Bandit Overhaul
+ - Verious patches for Lawless
+ - King Priest (and related patches)
+ - Hokoron (and related patches)
+ - Dragon Cult (and related patches)
+ - ERM - Enhanced Rocks and Mountains (Replaced with Enhanced Vanilla Mountain Textures)
+ - NPC reduced poison damage
+ - STAYDOWN
+ - Relics of the Crusader
+ - Swords of the Sanctum - Moved Book Addon (no longer supported)
+ - C.O.I.N. - Merchant Exchange
+ - High Poly Vanilla Hair
+ - SSEUT - Landscape
+
+</Details>
+
 
 ## 1.1.13
 
