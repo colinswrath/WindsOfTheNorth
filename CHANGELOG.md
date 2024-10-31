@@ -9,7 +9,8 @@
 ---
 
 # Changelog
-- [2.0.0](#200) October 31 2024
+- [2.0.1](#201) October 30 2024
+- [2.0.0](#200) October 30 2024
 - [1.1.13](#1113) July 22 2024
 - [1.1.12](#1112) June 28 2024
 - [1.1.11](#1111) June 15 2024
@@ -33,6 +34,10 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 2.0.1
+
+ - Recompiled to remove Scripts.zip compatibility. No other changes.
 
 ## 2.0.0 - The Treasury Update
 
