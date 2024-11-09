@@ -4,7 +4,7 @@
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/112972">Nexus</a> |
   <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/README.md">Installation</a> |
   <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="https://loadorderlibrary.com/lists/winds-of-the-north">Modlist</a> |
+  <a href="https://loadorderlibrary.com/lists/winds-of-the-north-2-0-0">Modlist</a> |
   <a href="https://ko-fi.com/colinswrath">Ko-fi</a>]
 </p>
 
@@ -28,7 +28,7 @@
 Before reading this guide, please follow the [readme](https://github.com/colinswrath/WindsOfTheNorth/blob/main/README.md) as it will answer the vast majority of technical questions related to getting the list setup and running.
 
 The following summary is not a list of every single mod in the modlist, rather a detailed overview of some of the highlights. 
-I just simply can't list everything here as much as I want to (that is what [Load Order Library](https://loadorderlibrary.com/lists/winds-of-the-north) is for). 
+I just simply can't list everything here as much as I want to (that is what [Load Order Library](https://loadorderlibrary.com/lists/winds-of-the-north-2-0-0) is for). 
 
 ## Overview
 
@@ -96,10 +96,11 @@ It's pretty important to understand the changes this mod makes when making your 
  - You will receive 20 Health, Magicka, or Stamina at level 2, based on your choice on level up
  - You will receive 2 perks for reaching level 5, 10, 15, 20, 25, 30, 35, 40, and 45
  - You will receive 3 perks for reaching level 50
- - Level 50 is the "soft cap" for character level. You will no longer receive perks for leveling up after level 50
- - The total number of perks you can receive from leveling is 60
+ - Level 50 is the "soft cap" for character level.
+ - After level 50 you will gain 1 additional perk point at level 55,60,65,70,75,etc... until level 100
+ - The total number of perks you can receive from leveling is 70
  - You will continue to receive 10 Health, Magicka, or Stamina from levels 51 to 100, based on your choice on level up
- - Level 100 is the "hard cap" for character level. You will no longer receive stat bonuses for leveling up, after level 100
+ - Level 100 is the "hard cap" for character level. You will no longer receive stat bonuses for leveling up, nor will you recieve perks after level 100
  - The total number of stats you can receive from leveling is 500 (at level 50), and 1000 (at level 100)
 
 ### Carry Weight
