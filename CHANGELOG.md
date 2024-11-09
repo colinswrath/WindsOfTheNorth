@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [2.0.2](#202) November 9 2024
 - [2.0.1](#201) October 30 2024
 - [2.0.0](#200) October 30 2024
 - [1.1.13](#1113) July 22 2024
@@ -34,6 +35,76 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 2.0.2
+
+Key Info
+ - This update is Save-Safe
+
+<Details>
+<summary>Patch Notes</summary>
+
+### About
+
+### Misc 
+
+ - Updated Modlist Update Checker and Modlist Maintenance ini files.
+ - The default starting difficulty has been changed to Adept.
+ - Leather Scout now requires steel smithing to craft.
+ - A small change to crusader has now been made. Before, you did not gain any perk points after level 50. Now, you will gain 1 additional perk point at level 55,60,65,70,75,etc... until level 100
+ - Cleaned up some unnecessary changes from the main conflict patch
+ - Disabled sleep, wait, and fast travel encounters in Extended Encounters
+ - Photo mode - reduced full screen screenshot load screen chance to 5%, set painting load screen chance to 0%
+ - Photo mode - time will now freeze by default when opening photo mode
+
+### Bug Fixes
+
+ - Fixed an issue where Stormcloak weapons were visible during the intro scene
+ - Adjusted misdirection perk description to add missing period
+ - Fixed Tall Papa Blessing experience bonus not working, and showing duplicate effects
+ - Fixed Caravan Captain's note being enabled before Arniel's Endeavour.
+ - Removed the backpack CC leveled list injection 
+   - Technically this will not take effect until a new save, as the leveled list injection would have already occured on an existing save. But this is not a big deal, it just means you will see more backpacks at vendors than you otherwise would.
+ - Redistributed backpacks in a much more tame manner. They should now be much less common, and they will be available at: 
+   - Tier 1 -> level 1
+   - Tier 2 -> level 15
+   - Tier 3 -> level 25
+ - Backpacks are now no longer craftable at level 1 with no perk investment. 
+ - Crafting bags now requires the following perks:
+   - Tier 1 -> Basic smithing
+   - Tier 2 -> Intermediate smithing
+   - Tier 3 -> Advanced Smithing
+ - Removed several changes from "The College of Mages" mod
+   - Removed edits to college boots
+   - Archmage boots have been re-enabled
+
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Photo Mode
+ - City Bag Checks
+ - Extended Guard Dialogue
+ - Skyrim Silver - Currency Swapper for Windhelm
+ - The Only Cure - Quest Expansion
+ - Unarmed Behaviors Expanded
+
+### Added
+
+ - Classic Weathers
+ - Classic Weathers Extended
+ - Perk Entry Point Extender
+ - Unarmed Weapon Speed Scaling and Unlocked Movement
+ - Mehrunes Dagon Unique Shrine - Shrine Objects Swapped - Base Object Swapper
+ - Better Atronach Forge Offering Box - No More Dwemer Dresser - High Polygon Summoning Circle
+ - Extended Encounters - Settings Loader
+
+### Removed
+
+</Details>
 
 ## 2.0.1
 
