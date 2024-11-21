@@ -260,7 +260,7 @@ Other modifications, such as regenerating LOD, will forfeit support.
 
 Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
  - `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with **NEVER** be save safe.
- - `MINOR`: Any release with a number change here will be considered a minor update, these updates will usually not be save safe, unless otherwise specified.
+ - `MINOR`: Any release with a number change here will be considered a minor update, these updates will usually be save safe, unless otherwise specified.
  - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
  - In some rare cases you may see a fourth number be used, which I will refer to as `HOTFIX`. These list "updates" will be used if the list needs to be recompiled for any reason. There will be no changes in these "updates" as they are purely for maintenance.
 Before updating, please check the [changelog](https://github.com/colinswrath/WindsOfTheNorth/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new game after certain updates.

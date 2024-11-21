@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [2.0.3](#203)
 - [2.0.2](#202) November 9 2024
 - [2.0.1](#201) October 30 2024
 - [2.0.0](#200) October 30 2024
@@ -36,6 +37,86 @@
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
 
+## 2.0.3
+
+Key Info
+ - This update is Save-Safe
+ - Not save safe if upgrading from pre 2.0.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### About
+
+ - This update brings the addition of "Staff Enchanting Plus" to the list, allowing you to enchant staves with spells that you know at new workbenches scattered around some of the various the holds with soul gems. 
+ - "Sorcerer - A Staff and Scroll Overhaul" had already provided the ability to make staves for spells you know using soul gems. However, the underlying workings of the system in "Staff Enchanting Plus" 
+  functions the same as a weapon enchanter. This means you can rename your staves, use different staff models for different enchants, and it works with mod added spells outside of simonrim (not that there is very many of those in Winds of the North).
+ - Additionally, I have added "Skyrim Every Single Texture Upscaled and Reworked" and removed the previous upscales for architecture and dungeons. This new mod covers every single Skyrim texture. I am using it as a "base coat" if you will.
+ - This patch includes some other misc bug fixes and balance changes.
+
+### Misc 
+
+ - To elaborate on the change mentioned above, staff enchanters will now be available at most hold capitals. You may also craft various staves at the staff enchanter given you have the appropriate smithing perks. (I may change this to the forge in the future)
+ - Made some adjustments to the master conflict resolution patch. Some changes were moved to new esps, or to the WOTN - Tweaks patch where appropriate
+ - NPCs will no longer sometimes refuse to talk to you while using necromancy spells
+ - Bounty reward numbers have been adjusted to be a bit lower overall, but more balanced across the board (Think ~800 Gold reward for a level 32 Giant now, instead of 2000+)
+ - Patched "Tovinaan" Dragon Priest from Siege at Icemoth with Humanoid Dragon Priests
+ - Removed gold from Candlehearth chests
+ - The "Naughty Thief" world encounter should happen less often, and only in cities rather than towns or inns
+ - Turned off Extended Encounters dragon encounters
+ - The player stat meters have been moved to the bottom left corner of the screen a la Oblivion. Is this like vanilla? No, but I found this to be much more optimal than having to look across multiple spots on the bottom of your screen to see your stats.
+  With the bars placed at the bottom left, all it takes is a single look.
+ 
+### Bug Fixes
+
+ - Reverted accidental SkyUI font size change
+ - Fixed Fists of Randagulf not being temperable
+ - Cure spell and associated scrolls will no longer show duplicate messages.
+ - Domination should no longer control dragons
+ - Modified several loading screens to align with Simonrim mechanics.
+ - Fixed Artificer Warrior's Focus perk still applying despite wearing a helmet
+ - Fixed two issues with the Blade and Blunt DLL (I backported fixes from a newer in progress version for this list)
+   - Jumping should now consistently cost stamina instead of only working sometimes for people
+   - Horses should no longer have infinite stamina when riding with your weapon drawn.
+ - Fixed an issue with Modlist Maintenance that caused a save to be falsely flagged as out of date.
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Simplicity of Settlements - Dragon Bridge - Base Object Swapper
+ - Modlist Maintenance Utility
+
+### Added
+
+ - Disable Annoying Werewolf Killmove
+ - Mementos - Morthal Barrow
+ - Mementos - Taarengrav Barrow
+ - Mementos - Destroy the Dark Brotherhood QE
+ - Flute Animation Fix
+ - Finally Non-Imperial Steel B Gauntlets and Boots for The Elder Scrolls V Skyrim Special Edition
+ - Staff Enchanting Plus
+ - Mainland Staff Enchanters
+ - Skyrim Every Single Texture Upscaled and Reworked (replaced base game BSAs in Game Root with these BSAs)
+ - Anim Object Swapper
+ - Fishermen Fish
+ - Auto Audio Switch
+ - Silent Dragon Priest Steps (Custom patch)
+ - Simonrim - Staff Enchanting Plus (Custom patch and DLL)
+ 
+### Removed
+
+ - Persistant Favorites (Due to CTD)
+ - Old custom "vanillaeyeadaptation" plugin
+ - Duplicate Artificer - YASTM patch
+ - Shadow's Upscale Revolution - Dungeons
+ - Shadow's Upscale Revolution - Architecture
+
+</Details>
+
 ## 2.0.2
 
 Key Info
@@ -43,8 +124,6 @@ Key Info
 
 <Details>
 <summary>Patch Notes</summary>
-
-### About
 
 ### Misc 
 
@@ -101,8 +180,6 @@ Key Info
  - Mehrunes Dagon Unique Shrine - Shrine Objects Swapped - Base Object Swapper
  - Better Atronach Forge Offering Box - No More Dwemer Dresser - High Polygon Summoning Circle
  - Extended Encounters - Settings Loader
-
-### Removed
 
 </Details>
 
