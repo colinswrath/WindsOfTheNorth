@@ -80,6 +80,8 @@ Key Info
    - Jumping should now consistently cost stamina instead of only working sometimes for people
    - Horses should no longer have infinite stamina when riding with your weapon drawn.
  - Fixed an issue with Modlist Maintenance that caused a save to be falsely flagged as out of date.
+ - Camera height should now match the size of the actor
+ - Moved the SkyrimUncapper.ini to be present in the actual uncapper mod folder. Which hopefully should fix a seemingly rare issue where the uncapper does not find an ini
 
 </Details>
 <Details>
@@ -89,6 +91,7 @@ Key Info
 
  - Simplicity of Settlements - Dragon Bridge - Base Object Swapper
  - Modlist Maintenance Utility
+ - Dynamic Crafting Animations
 
 ### Added
 
@@ -106,6 +109,10 @@ Key Info
  - Auto Audio Switch
  - Silent Dragon Priest Steps (Custom patch)
  - Simonrim - Staff Enchanting Plus (Custom patch and DLL)
+ - Bring Meeko to Lod
+ - Housecarls Pre-Thaneship
+ - Vittorias Alternate Wedding
+ - Bound Weapon Fix
  
 ### Removed
 
@@ -114,6 +121,7 @@ Key Info
  - Duplicate Artificer - YASTM patch
  - Shadow's Upscale Revolution - Dungeons
  - Shadow's Upscale Revolution - Architecture
+ - SSE High Quality Music (redundant. Audio files were already covered by UHDAP)
 
 </Details>
 
@@ -156,7 +164,7 @@ Key Info
  - Removed several changes from "The College of Mages" mod
    - Removed edits to college boots
    - Archmage boots have been re-enabled
-
+ - Fixed an issue where a few more of the CC Sunder and Wraithguard notes would appear before Arniel's Endeavour was completed (the skeleton's and chests will appear afterwards)
 
 </Details>
 <Details>
