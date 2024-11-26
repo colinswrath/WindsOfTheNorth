@@ -49,7 +49,7 @@ Key Info
 
 ### About
 
- - This update brings the addition of "Staff Enchanting Plus" to the list, allowing you to enchant staves with spells that you know at new workbenches scattered around some of the various the holds with soul gems. 
+ - This update brings the addition of "Staff Enchanting Plus" to the list.
  - "Sorcerer - A Staff and Scroll Overhaul" had already provided the ability to make staves for spells you know using soul gems. However, the underlying workings of the system in "Staff Enchanting Plus" 
   functions the same as a weapon enchanter. This means you can rename your staves, use different staff models for different enchants, and it works with mod added spells outside of simonrim (not that there is very many of those in Winds of the North).
  - Additionally, I have added "Skyrim Every Single Texture Upscaled and Reworked" and removed the previous upscales for architecture and dungeons. This new mod covers every single Skyrim texture. I am using it as a "base coat" if you will.
