@@ -9,7 +9,7 @@
 ---
 
 # Changelog
-- [2.0.3](#203)
+- [2.0.3](#203) November 25 2024
 - [2.0.2](#202) November 9 2024
 - [2.0.1](#201) October 30 2024
 - [2.0.0](#200) October 30 2024
@@ -113,7 +113,7 @@ Key Info
  - Housecarls Pre-Thaneship
  - Vittorias Alternate Wedding
  - Bound Weapon Fix
- 
+
 ### Removed
 
  - Persistant Favorites (Due to CTD)
