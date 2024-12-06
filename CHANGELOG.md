@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [2.0.4](#204) December 6 2024
 - [2.0.3](#203) November 25 2024
 - [2.0.2](#202) November 9 2024
 - [2.0.1](#201) October 30 2024
@@ -36,6 +37,74 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 2.0.4
+
+Key Info
+ - This update is Save-Safe
+ - Not save safe if upgrading from pre 2.0.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### About
+
+ - This update is mostly a bug fix update, with some noteworthy mod additions.
+ - I added a Trello board for better bug, tweaks, and mod addition tracking (https://trello.com/b/GGDpdYFg/winds-of-the-north-public-board)
+
+### Misc 
+
+ - Re-enabled the ability to customize value of relic coins in COIN mcm
+ - Disabled the free (and expensive) spell tomes in the hall of Attainment (sorry, too OP)
+ - Made some additional tweaks to Extended Encounters
+   - Disabled fist fight encounter. (Its a neat idea but it kinda feels like two NPCs bugged out when you see it)
+ - Dragon War - "Dragonkind" 25% flat damage reduction has been removed
+ - You should no longer automatically use spell tomes instead of picking up
+ - Disabled TrueHUD's floating enemy bars in favor of MoreHUDs enemy bars. (Floating boss bars still remain)
+ - Made the mo2 splash screen a bit smaller 1080 -> 720
+ 
+### Bug Fixes
+
+ - Fixed duplication of staff enchanters in the Arcaneaum.
+ - Fixed CC backpacks not being distributed to vendors
+ - Fixed two soul gem holders and soul gems clipping through the enchanter and staff enchanters in the Hall of Countenance (soul gems may not move on an existing save. You can use grab to move them if you want)
+ - I have shipped an updated build of SMI with the list that I haven't released to the nexus yet, it should fix some bugs such as:
+   - Fixed an issue where incorrect Seasons Multipliers were being used
+   - Fixed an issue detecting CC camping
+   - Moved Av penalty calculations to their own class which updates more frequently than the core mod
+ - Fixed errors in Coin - Hand To Hand patch
+ - Fixed "Cure" spell duplicate messages for real this time
+ - Re-enabled the hoodless Archmage's robes in the Archmage's quarters
+ - Fixed several pieces of enchanted armor having the wrong enchantment for their name
+ - Fixed errors in Dragon War - Wyrmstooth patch
+ - Update to Dragon War - Wyrmstooth patch to fix Dragons not shouting
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Fisherman Fish
+ - Currency Swapper
+ - Classic Weathers Extended
+ - Steel Armors and Weapons Retexture SE
+ - Dragon War - A Dragon Overhaul
+ - Vanilla Remastered - Every Single Texture Upscaled and Reworked
+
+### Added
+
+ - Skyrim Reworked - Hotfix
+ - Extended Encounters and Pilgrim - Vigilants Hunt True Daedra Worshippers
+ - Better Grabbing
+ - TAA Sharpen
+ - Better Esbern Voice Consistency Fix
+ - Andrealphus' Papyrus Functions (Needed for Dragon War)
+ - Knotwork
+ - Relics of the Crusader Improved
+
+</Details>
 
 ## 2.0.3
 

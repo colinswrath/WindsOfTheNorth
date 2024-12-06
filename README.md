@@ -65,9 +65,9 @@ One of this list's paramount goals is to generally maintain Skyrim's original ae
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
-Downloads: ~40 GB  
-Install: ~60 GB  
-**TOTAL:** ~100 GB  
+Downloads: ~52 GB  
+Install: ~70 GB  
+**TOTAL:** ~122 GB  
 
  > Wabbajack requires some additional space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 
@@ -260,7 +260,7 @@ Other modifications, such as regenerating LOD, will forfeit support.
 
 Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
  - `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with **NEVER** be save safe.
- - `MINOR`: Any release with a number change here will be considered a minor update, these updates will usually be save safe, unless otherwise specified.
+ - `MINOR`: Any release with a number change here will be considered a minor update, these updates will usually not be save safe, unless otherwise specified.
  - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
  - In some rare cases you may see a fourth number be used, which I will refer to as `HOTFIX`. These list "updates" will be used if the list needs to be recompiled for any reason. There will be no changes in these "updates" as they are purely for maintenance.
 Before updating, please check the [changelog](https://github.com/colinswrath/WindsOfTheNorth/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new game after certain updates.
@@ -277,6 +277,8 @@ Simply delete the entire modlist folder and you should be good to go.
 
 Please check the [FAQ](https://github.com/colinswrath/WindsOfTheNorth/blob/main/FAQ.md) first if you have any issues.   
  If you encounter any bugs or issues while playing the list, the [Lost Outpost Discord server](https://discord.gg/WF66mMu) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/colinswrath/WindsOfTheNorth/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/112972?tab=bugs)
+
+ Current bugs and their status can be viewed on the public [Trello board](https://trello.com/b/GGDpdYFg/winds-of-the-north-public-board)
 
 ## Credits
 
