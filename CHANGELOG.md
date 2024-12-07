@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [2.0.5](#205) December 6 2024
 - [2.0.4](#204) December 6 2024
 - [2.0.3](#203) November 25 2024
 - [2.0.2](#202) November 9 2024
@@ -37,6 +38,54 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 2.0.5
+
+Key Info
+ - PLEASE be sure to delete your shader cache folder in overwrite if updating
+ - This update is Save-Safe
+ - Not save safe if upgrading from pre 2.0.0 versions
+
+<Details>
+<summary>Patch Notes</summary>
+
+### About
+
+ - This update is mainly to update to the new and improved version of Community Shaders. You may see a slight performance gain. Also PLEASE be sure to delete your shader cache folder in overwrite
+   - Check out the CS 1.0 [Changelog for more details](https://www.nexusmods.com/skyrimspecialedition/articles/9415)
+
+### Misc
+
+ - Disabled character lighting. It looks good enough with this version of CS to disable. You may still notice crushed dark colors but I prefer it this way as the subsurface scattering really shines.
+ - For those of you using 20 series Nvidia cards and up, the list will use CS' DLAA anti aliasing instead of TAA. 
+   - If you are using an older card or an AMD card, it should default to using FSR 3.1 AA. If you want to adjust sharpness or use TAA, press "End" to access Community Shader's menu and navigate to "Display"
+ - "Water Caustics" is now "Water Effects". It has been reenabled by default due to reported performance improvements.
+
+### Bug Fixes
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Community Shaders
+ - Screen-Space Shadows
+ - Light Limit Fix
+ - Grass Lighting
+ - Grass Collision
+ - Subsurface Scattering
+ - Wetness Effects
+
+### Removed
+
+ - Light limit fix - Candle Glow (no longer needed)
+ - Dynamic Cubemaps (merged into base Community Shaders)
+ - Tree LOD lighting (merged into base Community Shaders)
+ - Water Blending (merged into base Community Shaders)
+ - TAA Sharpen
+
+</Details>
 
 ## 2.0.4
 
