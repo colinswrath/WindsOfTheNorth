@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [2.0.6](#206) December 9 2024
 - [2.0.5](#205) December 6 2024
 - [2.0.4](#204) December 6 2024
 - [2.0.3](#203) November 25 2024
@@ -38,6 +39,60 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 2.0.6
+
+Key Info
+ - PLEASE be sure to delete your shader cache folder in overwrite if updating
+ - This update is Save-Safe
+ - Not save safe if upgrading from pre 2.0.0 versions
+ - You can ignore prompts about missing plugins
+
+<Details>
+<summary>Patch Notes</summary>
+
+### About
+
+### Misc
+
+  - Removed the optional addon from Blade and Blunt that disabled all kill moves (I like my two handed executions, sorry)
+  - Character lighting re-enabled by default
+
+### Bug Fixes
+
+ - Fixed crashing on first fast travel attempt 
+ - Controller was accidently disabled by default in the last update
+ - The ENB light included with Arctic would sometimes cause a blue square to appear when casting spell. Disabled ENB light from Arctic.
+ - Disabled Dynamic Cubemaps - Metals addon for now as it had some problems (not to worry, armor is still pretty shiny)
+ - The Amulet of Zenithar's effect was incorrectly named "Fortify Carry Weight". It should now say "Fortify Barter"
+ - Fixed Ice Storm from NPCs hitting you with damage twice
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+  
+  - Community Shaders
+  - Light Limit Fix
+  - Custom Journeyman DLL
+  - Classic Weathers Extended
+
+### Added
+
+  - Terrain Shadows
+  - Wotn - Heightmaps
+  - Less Visually Obtrusive Cloak Spell Effects
+  - Dragon Hunting - Oblivion patch
+
+### Removed
+
+ - Iconics statues
+ - Project Clarity - Sky
+ - Sky Reflection Fix (Was merged into base CS)
+ - Blade and Blunt - No Kill Moves optional
+
+</Details>
 
 ## 2.0.5
 
