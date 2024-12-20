@@ -5,6 +5,7 @@
   <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/README.md">Installation</a> |
   <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/SUMMARY.md">Detailed Modlist Summary</a> |
   <a href="https://github.com/colinswrath/WindsOfTheNorth/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://trello.com/b/GGDpdYFg/winds-of-the-north-public-board">Bug Tracking Board</a> |
   <a href="https://loadorderlibrary.com/lists/winds-of-the-north-2-0-0">Modlist</a> |
   <a href="https://ko-fi.com/colinswrath">Ko-fi</a>] 
 </p>

@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [2.0.7](#207) December 20 2024
 - [2.0.6](#206) December 9 2024
 - [2.0.5](#205) December 6 2024
 - [2.0.4](#204) December 6 2024
@@ -39,6 +40,79 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 2.0.7
+
+Key Info
+ - This update is Save-Safe
+ - Not save safe if upgrading from pre 2.0.0 versions
+ - You can ignore prompts about missing plugins (several patches have been renamed. This is okay)
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc
+ 
+ - Siege At Icemoth Plauge Breath shout has been removed. It is redundant with Stormcrown's "Poison Breath" shout
+ - Shadowmap resolution has been changed from 2048 -> 4096. Some of you with low end systems may have a performance impact (Or you might not). This should help alot with the really bad shadow aliasing when using CS.
+ - Hid several notifications so that you won't see any when starting a new game
+ - Killmoves have been turn off by default again, but the plugin has been seperated into its own mod under "Optional Tweaks". If you want killmoves all you need to do is disable the mod and you are good to go.
+
+### Bug Fixes
+
+ - Fixed SMI applying health AV penalty from cold with Starfrost on
+ - Fix Dragon War crash with Arctic meshes
+ - Fixed issue where dragon encounters could enable before they were supposed to if you did the battle of Whiterun before "Blade in the Dark".
+ - Turned TrueHUD's boss bar off by default (disabling "Disable TrueHUD floating bars" under optional will re-enable them)
+   - I was going to keep the boss bars for boss enemies only, but there seems to be an issue with the normal bars not always disabling with the boss bars.
+ - Supply and demand perk will now affect Pilgrim priestly vendors
+ - The various Simonrim sun spells will now work on the barrier in Morthal Barrow
+ - Fixed a bug where dialogue to turn in a bounty was available when it should not be.
+ - The bounty quest redone message that showed when completing a quest did not match the standard that the rest of the game uses. It did say "Added Gold, 100". This has been changed to the usual "Gold (100) Added"
+ - Conjure Harrowstorm Gargoyle spell tome now uses the correct inventory icon
+ - Fixed a bug in CS that causes outlines around the screen in exterior locations
+ - Fixed Aetherial Crown being temperable when it shouldn't.
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Community Shaders
+ - Dragon Hunting
+ - Dragon War
+ - Better Grabbing
+ - Siege At Icemoth
+ - Catir Club - Immersive Creation Club Integration
+  
+### Added
+
+ - New Minor Quest Abilities for Simonrim - Agent of Mara - Agent of Dibella - Sailor's Repose
+ - Better Esbern Voice Consistency Fix
+ - Better Esbern Voice Consistency Fix - Dragon Hunting patch
+ - Classic Weathers Redone
+ - Favor Quests Unlocked
+ - Quickloot - IE
+ - PapyrusUtil SE - Modders Scripting Utility Functions
+ - Notification Filter - Remove unwanted notifications
+ - Jelidity - 3D Vanilla Mountain Flowers
+ - Vampire Allies Factions Fix
+ - Thalmor Don't Report To Stormcloaks
+ - Edmond's Assassin of Old - Immersive Vanilla Bug Fix
+ - Mistwatch Ending - More Options
+ - powerofthree's Tweaks
+
+### Removed
+
+ - Classic Weathers
+ - Classic Weathers - Extended
+ - True Storms
+ - True Storms - Cut
+ - True Storms patches
+ - PC Flowers
+
+</Details>
 
 ## 2.0.6
 
