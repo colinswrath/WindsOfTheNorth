@@ -92,7 +92,6 @@ Key Info
  - Better Esbern Voice Consistency Fix
  - Better Esbern Voice Consistency Fix - Dragon Hunting patch
  - Classic Weathers Redone
- - Favor Quests Unlocked
  - Quickloot - IE
  - PapyrusUtil SE - Modders Scripting Utility Functions
  - Notification Filter - Remove unwanted notifications
