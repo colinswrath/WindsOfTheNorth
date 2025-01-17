@@ -16,8 +16,6 @@
 
 **Modlist Support: [Lost Outpost Discord server](https://discord.gg/WF66mMu)**
 
-**Winds of the North requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.**
-
 **You must update Skyrim to the latest version (1.6.1170) on Steam to install this list. (GOG or Gamepass not supported)**
 
 # Contents
@@ -87,41 +85,7 @@ These steps are only required for installing the Modlist for the first time. Add
 #### Installing Microsoft Visual C++ Redistribution Package
 
  1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
- 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
- 3. Right click on Skyrim SE and click on properties, untick the "Enable Steam Overlay while in-game."
  4. You also need to start the games to the main menu in order to download all the creations. **DO NOT SKIP THIS STEP, IF YOU DO SO WABBAJACK WILL FAIL**
-
-#### Pagefile and crash prevention
-
-Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Winds of the North's size and number of files required to be handled for the list, this step is **NOT** optional, I do not care how much RAM or VRAM you have, please do this step.
-
- To set up your pagefile:
- 1. Press **Win Key + R**
- 2. Type *sysdm.cpl ,3* and hit **ENTER**
- 3. Navigate to *Performance* and click the box "Settings..."
- 4. Click the *Advanced* tab at the top
- 5. Under *Virtual Memory* click the box "Change..."
- 6. Uncheck *Automatically manage* if it is checked
- 7. Select your disk drive, ideally your fastest solid state drive
- 8. Click the **Custom size:** button
- 9. In the box next to **Initial Size (MB)** type `20480`
- 10. In the box next to **Maximum Size (MB)** type `20480`
- 11. Click the *Set* button
- 12. Click *OK*
- 13. Click *Apply*
- 14. Click *OK*
- 15. Restart your computer in order for your new pagefile to take effect.
-
-#### Setting Shader Cache Size
- Additionally, if you have an NVIDIA GeForce Graphics Card, please do the following: 
-
- 1. Right-click on your desktop and select **NVIDIA Control Panel**
- 2. Navigate and click on **Manage 3D settings**. It is the 2nd one to the top.
- 3. Scroll down in Global Settings until you see **Shader Cache Size**
- 4. Double Click **Driver Default** to the right of Shader Cache Size and select **10 GB**
- 5. Click **Apply** in the bottom right hand corner. 
- 6. You may exit out of the application.
-![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
 #### Steam Setup
 
@@ -145,7 +109,7 @@ The English Steam version of Skyrim is the only supported version. I understand 
  3. In your Steam Library, right-click on the menu entry for Skyrim, select `Properties` and then select `Local Files`. Click `Verify Integrity of Game Files` and wait.
  4. Once this is completed, launch the game once from Steam. You may receive a prompt that your settings were detected or not detected, this does not matter, nor do any options you select here. Simply open the launcher and launch the game.
  5. Once the intro logo finishes displaying and the Skyrim logo appears, you should receive a prompt to "Download All Content?" Accept this option.
- 6. If you did not receive a prompt to download, select the Creation Club option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
+ 6. If you did not receive a prompt to download, select the Creation Club option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the Anniversary Edition Upgrade. Begin again from step 1.
  7. Wait for the download process to complete. Do **NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
  8. Proceed with the rest of the installation.
 
@@ -277,7 +241,7 @@ Simply delete the entire modlist folder and you should be good to go.
 ## Issues
 
 Please check the [FAQ](https://github.com/colinswrath/WindsOfTheNorth/blob/main/FAQ.md) first if you have any issues.   
- If you encounter any bugs or issues while playing the list, the [Lost Outpost Discord server](https://discord.gg/WF66mMu) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/colinswrath/WindsOfTheNorth/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/112972?tab=bugs)
+ If you encounter any bugs or issues while playing the list, the [Lost Outpost Discord server](https://discord.gg/WF66mMu) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/112972?tab=bugs)
 
  Current bugs and their status can be viewed on the public [Trello board](https://trello.com/b/GGDpdYFg/winds-of-the-north-public-board)
 

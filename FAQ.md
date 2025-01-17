@@ -7,7 +7,3 @@
 ## Q: "Where can I find my crash logs?"
 
 **A:** `Documents\My Games\Skyrim Special Edition\SKSE`
-
-## Q: "I dont like TrueHUD's floating healthbars! How can I turn them off?!"
-
-**A:** You can either edit the TrueHUD mcm to disable them, OR in mo2 enable the "Disable TrueHUD floating bars" mod that I have included in the list under the "Optional Tweaks" seperator
