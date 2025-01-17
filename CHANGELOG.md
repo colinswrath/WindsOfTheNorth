@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k.png)
+![](./images/WindsofTheNorthLogo2k.png)
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/112972">Nexus</a> |
@@ -9,6 +9,7 @@
 ---
 
 # Changelog
+- [2.0.8](#208) January 17 2025
 - [2.0.7](#207) December 20 2024
 - [2.0.6](#206) December 9 2024
 - [2.0.5](#205) December 6 2024
@@ -40,6 +41,88 @@
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+## 2.0.8
+
+Key Info
+ - This update is Save-Safe
+ - Not save safe if upgrading from pre 2.0.0 versions
+ - You can ignore prompts about missing plugins (several patches have been renamed. This is okay)
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Misc
+
+ - New Additional Music update brings some new palette tracks to the music mix
+ - Additional bloom adjustments to imagespaces. Should take care of most instances of weathers that look very bloomy
+ - Followers should no longer automatically get a "Hunting Bow" added to their inventory. Existing followers on a save may still have one, but should not re appear after removal.
+ - Only two mods in the list were using Skypatcher, just distributing outfits to 3 NPCs. These have been manually distributed and Skypatcher has been removed.
+ - Shadow map resolution has been dropped back to 2048 for now.
+ - Grass draw distance has been changed from 7000->10000
+ - Zombie attacks encounters have been removed. They are honestly just annoying and happened way too often.
+ - Crusader - Two Handed and One Handed XP rate increased slightly
+
+### Bug Fixes
+
+ - Fixed Aylied Casks in Rielle containing every restoration tome
+ - Fixed bug that caused sun spells to not work on the barrier in Morthal Barrow
+ - Fixed East Empire Merceneries not using the East Empire Company armor
+ - Update to Xavbio Leather armor fixes gap in armor at neck
+ - Halldir's Cairn, and Forsaken Cave containers should now contain Drakr
+ - Rielle and Potema's tomb containers should no longer contain Drakr (Unfortunately for now, the Draugr in Potema's tomb will still carry drakr due to how NPC death items work)
+ - Wights in Rielle no longer carry Drakr, only Mala
+ 
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+ - Additional Music
+ - Ebony Armors and Weapons Retexture SE
+ - Photo Mode
+ - Default Face NPCs fixed
+ - The Gift of Saturalia - A Quest for the Holidays
+ - Dynamic Crafting Animations
+ - Leather armors retexture to fix neck gaps
+ - Classic Weathers Redone
+ - Better Grabbing
+ - Falmer Servant Lines Expansion
+ - Container Distribution Framework
+ - Community Shaders
+ - Run for Your Lives
+ - Morthal Barrow
+ - Simply Skin - Male
+ - Simply Skin - Female
+ - The Heart of Dibella - Quest Expansion
+ - Knotwork
+ - Mainland Staff Enchanters
+ - CC Staves - Mysticism Consistency Patch - Vendor Inventory Adjusted
+ - WotN - Custom MCM settings
+ - WotN - Custom Plugins
+ - Community Shaders
+ - Screen-space Shadows
+
+### Added
+
+ - Loading Screen Truce AE
+ - Immersive Khajiit Caravan Mules
+ - Forsworn Skinchangers
+ - Mainland Staff Enchanting - Hearthfire Addon
+ - COIN - Exclusions (Custom patch)
+ - CS Light
+ - Light Placer
+ - I'm walkin' here NG
+ - Authentic Eyes
+ 
+### Removed
+
+ - Natura - Posion crash fix (no longer needed)
+ - Skypatcher
+ - QuickLoot IE (For now, due to stutter when opening menu)
+
+</Details>
 
 ## 2.0.7
 
