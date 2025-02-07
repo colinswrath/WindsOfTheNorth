@@ -171,9 +171,9 @@ One of my main goals when making Winds of the North was to try to preserve the g
   <hr class="thin-hr">
 </div>
 
-If you would like to read more about the list, head to [Gameplay Guide](/gameplayguide)
+If you would like to read more about the list, head to [Gameplay Guide](../gameplayguide)
 
-If you would like to install Winds of the North, please head to the [Installation Guide](/installation) and follow the instructions.
+If you would like to install Winds of the North, please head to the [Installation Guide](../installation) and follow the instructions.
 
 The full load order library list can be viewed [here](https://loadorderlibrary.com/lists/winds-of-the-north-2-0-0).
 

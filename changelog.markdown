@@ -97,6 +97,8 @@ Key Info
 
 ### Removed
 
+---
+
 # 2.0.8
 
 Key Info

@@ -17,7 +17,7 @@ Some of the pages, like the <a href="{{ '/gameplayguide/leveling' | relative_url
 Also, there is no shame in turning the difficulty down to "Adept" from the default "Expert". In fact, if you are brand new to Simonrim, I would even suggest it until you get used to some of the new mechanics. 
 </div>
 
-# [Creating Your Character](./creatingyourcharacter/)
+# [Creating Your Character](./creatingyourcharacter)
 
 <div class="centerdiv">
   <hr class="thin-hr">
@@ -29,22 +29,27 @@ TODO- Screenshot of skyrim intro
 Creating your character is the first step in starting your Skyrim playthrough. Visit the <a href="{{ '/gameplayguide/creatingyourcharacter' | relative_url }}">Creating Your Character</a> page to .
 </div>
 
-# [Leveling]({{ '/gameplayguide/leveling' | relative_url }})
+# [Leveling](./leveling)
 
 <div class="centerdiv">
   <hr class="thin-hr">
 </div>
 
-Perhaps some of the most subtle but impactful changes are those to player leveling. Primarily, these are accomplished by SimonMagus's WIP mod called "Crusader" with a few additional tweaks on my end.\
-The amount of changes are rather large, and explaining every one of them requires a rather dense amount of info. If you are interested in reading that, check out the [Leveling](./gameplayguide/leveling/) page.
+<p>Perhaps some of the most subtle but impactful changes are those to player leveling. Primarily, these are accomplished by SimonMagus's WIP mod called "Crusader" with a few additional tweaks on my end.<br>
+The amount of changes are rather large, and explaining every one of them requires a rather dense amount of info. If you are interested in reading that, check out the <a href="{{ '/gameplayguide/leveling' | relative_url }}">Leveling</a> page.</p>
 
-Otherwise I will summarize here:
+<p>Otherwise I will summarize here:</p>
 
- - Leveling has been slowed down quite a bit. You will no longer blast past level 10 in a few short hours.
- - Sources of XP rate increases are now more important. Keeping your needs tended to and finding skill books (from Reading is Good) will increase the rate at which you learn skills.
- - The soft cap is now level 50. Even though the overall leveling speed is slower, you will gain 2 perk points every 5 levels and 3 perk points when reaching level 50.
-    - It should be easier to perk up your desired build without having to level other skills just to get perks.
-    - You can still level up passed level 50 and gain stat increases with every level like normal. However, you will only gain 1 perk every 5 levels after 50.
+<ul>
+    <li>Leveling has been slowed down quite a bit. You will no longer blast past level 10 in a few short hours.</li>
+    <li>Sources of XP rate increases are now more important. Keeping your needs tended to and finding skill books (from Reading is Good) will increase the rate at which you learn skills.</li>
+    <li>The soft cap is now level 50. Even though the overall leveling speed is slower, you will gain 2 perk points every 5 levels and 3 perk points when reaching level 50.
+        <ul>
+            <li>It should be easier to perk up your desired build without having to level other skills just to get perks.</li>
+            <li>You can still level up passed level 50 and gain stat increases with every level like normal. However, you will only gain 1 perk every 5 levels after 50.</li>
+        </ul>
+    </li>
+</ul>
 
 # Combat
 
@@ -80,9 +85,9 @@ Blade and Blunt encourages you to think more methodically in combat. Carefully m
     </li>
     <li>You may now parry attacks with a correctly timed block if you are using a 2 handed weapon or 1 handed weapon with an empty off-hand.</li>
 </ul>
-</div>
-
+<br>
 If you would like to read even more about how exactly combat has changed, the <a href="https://www.nexusmods.com/skyrimspecialedition/mods/34549">Blade and Blunt</a> modpage is very informative.  
+</div>
 
 # [Core Gameplay Mechanics](./coregameplay)
 
@@ -94,14 +99,14 @@ If you would like to read even more about how exactly combat has changed, the <a
 Winds of the North is packed full of changes to existing core game mechanics, as well as new mechanics to interact with.
 </div>
 
-# [Quests And New Content](./quests/)
+# [Quests And New Content](./quests)
 
 <div class="centerdiv">
   <hr class="thin-hr">
 </div>
 
 <div style="margin-left: 4%;margin-right: 4%">
-Winds of the North includes several mods that add brand new content to experience and/or change when certain quests are made available. Visit the <a href="./quests/">Quests And New Content</a> page to see what levels you should be able to start these modified quests.
+Winds of the North includes several mods that add brand new content to experience and/or change when certain quests are made available. Visit the <a href="{{ '/gameplayguide/quests' | relative_url }}">Quests And New Content</a> page to see what levels you should be able to start these modified quests.
 </div>
 
 # [Creation Club Integration](./creationclub)
@@ -111,5 +116,5 @@ Winds of the North includes several mods that add brand new content to experienc
 </div>
 
 <div style="margin-left: 4%;margin-right: 4%">
-Winds of the North includes many mods that work to improve integration for the Creation Club content. You can find a detailed list of the creations and what changes them <a href="./creationclub">here</a>.
+Winds of the North includes many mods that work to improve integration for the Creation Club content. You can find a detailed list of the creations and what changes them <a href="{{ '/gameplayguide/creationclub' | relative_url }}">here</a>.
 </div>
