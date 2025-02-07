@@ -35,21 +35,23 @@ Creating your character is the first step in starting your Skyrim playthrough. V
   <hr class="thin-hr">
 </div>
 
-<p>Perhaps some of the most subtle but impactful changes are those to player leveling. Primarily, these are accomplished by SimonMagus's WIP mod called "Crusader" with a few additional tweaks on my end.<br>
-The amount of changes are rather large, and explaining every one of them requires a rather dense amount of info. If you are interested in reading that, check out the <a href="{{ '/gameplayguide/leveling' | relative_url }}">Leveling</a> page.</p>
+<div style="margin-left: 4%;margin-right: 4%">
+  <p>Perhaps some of the most subtle but impactful changes are those to player leveling. Primarily, these are accomplished by SimonMagus's WIP mod called "Crusader" with a few additional tweaks on my end.<br>
+  The amount of changes are rather large, and explaining every one of them requires a rather dense amount of info. If you are interested in reading that, check out the <a href="{{ '/gameplayguide/leveling' | relative_url }}">Leveling</a> page.</p>
 
-<p>Otherwise I will summarize here:</p>
+  <p>Otherwise I will summarize here:</p>
 
-<ul>
-    <li>Leveling has been slowed down quite a bit. You will no longer blast past level 10 in a few short hours.</li>
-    <li>Sources of XP rate increases are now more important. Keeping your needs tended to and finding skill books (from Reading is Good) will increase the rate at which you learn skills.</li>
-    <li>The soft cap is now level 50. Even though the overall leveling speed is slower, you will gain 2 perk points every 5 levels and 3 perk points when reaching level 50.
-        <ul>
-            <li>It should be easier to perk up your desired build without having to level other skills just to get perks.</li>
-            <li>You can still level up passed level 50 and gain stat increases with every level like normal. However, you will only gain 1 perk every 5 levels after 50.</li>
-        </ul>
-    </li>
-</ul>
+  <ul>
+      <li>Leveling has been slowed down quite a bit. You will no longer blast past level 10 in a few short hours.</li>
+      <li>Sources of XP rate increases are now more important. Keeping your needs tended to and finding skill books (from Reading is Good) will increase the rate at which you learn skills.</li>
+      <li>The soft cap is now level 50. Even though the overall leveling speed is slower, you will gain 2 perk points every 5 levels and 3 perk points when reaching level 50.
+          <ul>
+              <li>It should be easier to perk up your desired build without having to level other skills just to get perks.</li>
+              <li>You can still level up passed level 50 and gain stat increases with every level like normal. However, you will only gain 1 perk every 5 levels after 50.</li>
+          </ul>
+      </li>
+  </ul>
+</div>
 
 # Combat
 
