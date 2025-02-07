@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gameplay Guide
-permalink: /gameplayguide
+permalink: /gameplayguide/
 background_image: true
 background_image_url: public/stars.png
 ---
@@ -17,7 +17,7 @@ Some of the pages, like the <a href="{{ '/gameplayguide/leveling' | relative_url
 Also, there is no shame in turning the difficulty down to "Adept" from the default "Expert". In fact, if you are brand new to Simonrim, I would even suggest it until you get used to some of the new mechanics. 
 </div>
 
-# [Creating Your Character]({{ '/gameplayguide/creatingyourcharacter' | relative_url }})
+# [Creating Your Character](./creatingyourcharacter/)
 
 <div class="centerdiv">
   <hr class="thin-hr">
