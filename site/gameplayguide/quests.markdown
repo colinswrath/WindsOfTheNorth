@@ -1,0 +1,205 @@
+---
+layout: page
+title: Quests And New Content
+permalink: /gameplayguide/quests
+background_image: true
+background_image_url: public/stars.png
+---
+
+Winds of the North includes a plethora of changes to existing quests as well as new quests and locations.
+
+# Quest Level Changes
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+Winds of the North comes with a couple of mods that change when certain quests become available. This helps better align the game with some of the balance changes made by Simonrim.
+
+## Arena Quest Requirements
+The largest of these mods is the Arena - Quest Requirements Addon.\
+This mod alters the required starting level for many quests in the game to align better with Arena's encounter zones.
+> Arena Quest Requirements is a work-in-progress mod by SimonMagus616 and DeltaRider. Do not redistribute this mod without explicit permission
+
+<div class="centerdiv">
+<table style="width: 70%;">
+    <tr>
+        <th>Quest</th>
+        <th>Level</th>
+    </tr>
+    <tr style="color: #cc4444;">
+        <td>Hearthfire Letter</td>
+        <td>15</td>
+    </tr>
+    <tr style="color: #cc4444;">
+        <td>Dungeon Delving (Markarth)</td>
+        <td>15</td>
+    </tr>
+    <tr style="color: #cc4444;">
+        <td>The Forsworn Conspiracy</td>
+        <td>15</td>
+    </tr>
+    <tr style="color: #cc4444;">
+        <td>Kill the Giant (The Pale)</td>
+        <td>15</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>Kill The Vampire (Solitude)</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>Unfathomable Depths</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>The Black Star</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>Ill Met by Moonlight</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>The Break of Dawn</td>
+        <td>Usually in Arena Quest requirements this would be level 20. But in WotN, Meredia's Beacon is available in Rielle from level 1. Getting to it before level 15 would be a difficult endevour.</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>A Night To Remember</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>The Mind of Madness</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #4a90e2;">
+        <td>Dawnguard</td>
+        <td>20</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>The Wolf Queen Awakened</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>A Daedra's Best Friend</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>The Cursed Tribe</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>The House of Horrors</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>The Taste of Death</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #66cc66;">
+        <td>Waking Nightmare</td>
+        <td>25</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>Boethiah’s Calling</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>Discerning the Transmundane</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>Pieces of the Past</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>The Only Cure</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>The Whispering Door</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>Dragonborn (Requires the completion of the Horn of Jorgen Windcaller too)</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #d4b53f;">
+        <td>Deathbrand</td>
+        <td>30</td>
+    </tr>
+    <tr style="color: #cc6699;">
+        <td>The Ebony Warrior</td>
+        <td>40</td>
+    </tr>
+</table>
+</div>
+
+## Radiant Requirements
+
+Another important mod for re-leveling quests is "Radiant Requirements" by Parapets. This mod "modifies select radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough."
+
+<div class="centerdiv">
+    <table style="width: 50%;">
+    <thead>
+        <tr>
+        <th>Dungeon Type</th>
+        <th>Min Level</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="color: #ff5555;">
+        <td>Draugr</td>
+        <td>9</td>
+        </tr>
+        <tr style="color: #ff5555;">
+        <td>Spriggan</td>
+        <td>9</td>
+        </tr>
+        <tr style="color: #ff9900;">
+        <td>Forsworn</td>
+        <td>14</td>
+        </tr>
+        <tr style="color: #ff9900;">
+        <td>Hagraven</td>
+        <td>14</td>
+        </tr>
+        <tr style="color: #ff9900;">
+        <td>Warlock</td>
+        <td>14</td>
+        </tr>
+        <tr style="color: #33cc33;">
+        <td>Dragon</td>
+        <td>19</td>
+        </tr>
+        <tr style="color: #33cc33;">
+        <td>Falmer</td>
+        <td>19</td>
+        </tr>
+        <tr style="color: #33cc33;">
+        <td>Giant</td>
+        <td>19</td>
+        </tr>
+        <tr style="color: #9966ff;">
+        <td>Vampire</td>
+        <td>24</td>
+        </tr>
+        <tr style="color: #9966ff;">
+        <td>Werewolf</td>
+        <td>24</td>
+        </tr>
+        <tr style="color: #ff4444;">
+        <td>Dragon Priest</td>
+        <td>29</td>
+        </tr>
+    </tbody>
+    </table>
+</div>
+
+# New Questlines and Locations
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+In addition to the changes mentioned above, there are a number of new quests and locations in Winds of the North.\
+Most of these have already been mentioned, but the table below will detail how exactly to start these new quests. 

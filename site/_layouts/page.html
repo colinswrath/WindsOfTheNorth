@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="page">
+  {% assign depth = page.url | split: '/' | size | minus: 1 %}
+  {% if depth > 1 %}
+    <nav class="breadcrumb">
+      {% assign parts = page.url | split: '/' %}
+      {% assign part_url = "" %}
+      {% for part in parts %}
+        {% if forloop.last == false and forloop.index > 1 %}
+          {% assign part_url = part_url | append: "/" | append: part %}
+          <a href="{{ site.baseurl }}{{ part_url }}/">{{ part | capitalize }}</a> /
+        {% endif %}
+      {% endfor %}
+      <span>{{ page.title }}</span>
+    </nav>
+  {% endif %}
+  <h1 class="page-title">
+    {% if page.title == "Home" %}
+      {{ site.title }}
+    {% else %}
+      {{ page.title }}
+    {% endif %}
+  </h1>
+  <hr class="custom-hr">
+
+  {{ content }}
+</div>

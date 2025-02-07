@@ -1,0 +1,84 @@
+.breadcrumb {
+    font-size: 0.875rem; /* Adjust the font size as needed */
+    margin-bottom: 1rem; /* Add some space below the breadcrumb */
+  }
+  
+.breadcrumb a {
+    color: #007bff; /* Adjust the link color as needed */
+    text-decoration: none;
+}
+  
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+  
+.breadcrumb span {
+  color: #6c757d; /* Adjust the color of the current page text */
+}
+
+body {
+  background-color: rgb(31, 31, 31);
+}
+
+.sidebar {
+  background-color: rgb(19, 19, 19);
+}
+
+/* Subnav styles */
+.sidebar-subnav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-subnav a {
+  color: #fff;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.sidebar-subnav-item {
+  padding-left: 2.5rem;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+}
+
+.sidebar-subnav-item.active,
+li.sidebar-subnav-item:hover,
+li.sidebar-subnav-item:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+}
+
+.borderbox {
+  margin-bottom: 30px;
+  padding: 15px;
+  border: 2px ridge #ddd;
+  border-radius: 5px;
+  background-color: rgba(24, 24, 24, 0.95);
+  box-shadow: -8px -8px 10px rgba(0, 0, 0, .3);
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+/* Misc */
+.thin-hr {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 0.75px solid #eee;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+}
+
+.dropshadow {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.centerdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
