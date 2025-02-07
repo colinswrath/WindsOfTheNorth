@@ -12,12 +12,12 @@ Winds of the North has many mods that make changes to core game mechanics. My go
 <br>
 I highly suggest at least giving this guide a brief look. Its not a completely comprehensive list at every single little change, but it should give you a good idea of what to expect. 
 <br>
-Some of the pages, like the <a href="./leveling/">Leveling</a> and Creation Club Integration pages, double as documentation to be referred to later if need be.
+Some of the pages, like the <a href="{{ '/gameplayguide/leveling' | relative_url }}">Leveling</a> and Creation Club Integration pages, double as documentation to be referred to later if need be.
 <br>
 Also, there is no shame in turning the difficulty down to "Adept" from the default "Expert". In fact, if you are brand new to Simonrim, I would even suggest it until you get used to some of the new mechanics. 
 </div>
 
-# [Creating Your Character](./creatingyourcharacter)
+# [Creating Your Character]({{ '/gameplayguide/creatingyourcharacter' | relative_url }})
 
 <div class="centerdiv">
   <hr class="thin-hr">
@@ -26,17 +26,17 @@ Also, there is no shame in turning the difficulty down to "Adept" from the defau
 TODO- Screenshot of skyrim intro
 
 <div style="margin-left: 4%;margin-right: 4%">
-Creating your character is the first step in starting your Skyrim playthrough. Visit the <a href="./creatingyourcharacter">Creating Your Character</a> page to .
+Creating your character is the first step in starting your Skyrim playthrough. Visit the <a href="{{ '/gameplayguide/creatingyourcharacter' | relative_url }}">Creating Your Character</a> page to .
 </div>
 
-# [Leveling](./leveling/)
+# [Leveling]({{ '/gameplayguide/leveling' | relative_url }})
 
 <div class="centerdiv">
   <hr class="thin-hr">
 </div>
 
 Perhaps some of the most subtle but impactful changes are those to player leveling. Primarily, these are accomplished by SimonMagus's WIP mod called "Crusader" with a few additional tweaks on my end.\
-The amount of changes are rather large, and explaining every one of them requires a rather dense amount of info. If you are interested in reading that, check out the [Leveling](./leveling/) page.
+The amount of changes are rather large, and explaining every one of them requires a rather dense amount of info. If you are interested in reading that, check out the [Leveling](./gameplayguide/leveling/) page.
 
 Otherwise I will summarize here:
 
