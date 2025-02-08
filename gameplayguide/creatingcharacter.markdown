@@ -40,13 +40,8 @@ To make up for lost XP and items that you would have acquired during the start, 
 
 Otherwise, you may select no and just continue through the normal Skyrim intro.
 
-# Deciding Your Build
----
-
 # Racial Changes
 ---
-TODO-Screenshot of character creator
-
 No matter which option you chose above, you are going to have to pick a race and create your character.
 
 Choosing your race is a big part of building your character. As in classic Skyrim fashion, you can still make do with any race work for whatever build you are wanting to do.\
@@ -185,8 +180,5 @@ While its not really imperative to select a race that has a spell you want, it m
         </tr>
     </table>
 </div>
-
-## Lower Starting Skills
----
 
 

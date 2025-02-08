@@ -1,6 +1,6 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked="true">
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked="false">
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -34,3 +34,17 @@
     </p>
   </div>
 </div>
+
+<script>
+  // Set the checkbox state based on localStorage before the page renders
+  (function() {
+    var checkbox = document.getElementById('sidebar-checkbox');
+    if (localStorage.getItem('sidebar-checkbox') === 'unchecked') {
+      localStorage.setItem('sidebar-checkbox', 'unchecked');
+      checkbox.checked = false;
+    } else {
+      localStorage.setItem('sidebar-checkbox', 'checked');
+      checkbox.checked = true;
+    }
+  })();
+</script>

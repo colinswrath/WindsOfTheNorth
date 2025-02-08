@@ -6,10 +6,10 @@
   <link rel="preload" href="{{ site.baseurl }}/public/LogoHeader.png" as="image">
   <link rel="preload" href="{{ site.baseurl }}/public/stars.png" as="image">
 
-  {% if page.background_image and page.background_image != "stars.png"%}
-    <link rel="preload" href="{{ site.baseurl }}/public/backgrounds/{{ page.background_image }}" as="image">
+  {% if page.background_image and page.background_image_url != "stars.png"%}
+    <link rel="preload" href="{{ site.baseurl }}/{{ page.background_image_url }}" as="image">
   {% endif %}
-  
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
@@ -32,4 +32,18 @@
 
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/public/apple-touch-icon-precomposed.png' | absolute_url }}">
   <link rel="shortcut icon" href="{{ '/public/favicon.ico' | absolute_url }}">
+  <script>
+    // Set the checkbox state based on localStorage before the page renders
+    document.addEventListener('DOMContentLoaded', function() {
+
+      var checkbox = document.querySelector('#sidebar-checkbox');
+      checkbox.addEventListener('change', function() {
+        if (checkbox.checked) {
+          localStorage.setItem('sidebar-checkbox', 'checked');
+        } else {
+          localStorage.setItem('sidebar-checkbox', 'unchecked');
+        }
+      });
+    });
+  </script>
 </head>

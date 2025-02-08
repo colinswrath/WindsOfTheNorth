@@ -5,6 +5,8 @@ background_image: true
 background_image_url: public/backgrounds/snowstatue.png
 ---
 
+TODO-FIX IOS LANYON ICON
+
 <div style="margin-left: 4%; margin-right: 4%;">
 Winds of the North is a modlist designed to improve Skyrim's gameplay, integrate new content into the world, and enhance its visuals while retaining the art direction of the original game.
 <br>

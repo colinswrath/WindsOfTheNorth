@@ -5,11 +5,11 @@
 
   document.addEventListener('click', function(e) {
     var target = e.target;
-    console.log(target);
-    if(!checkbox.checked ||
-       sidebar.contains(target) ||
-       (target === checkbox || target === toggle)) return;
+    if (target === checkbox || target === toggle) {
+      checkbox.checked = !checkbox.checked;
+      return;
+    }
 
-    checkbox.checked = false;
+    if (!checkbox.checked || sidebar.contains(target)) return;
   }, false);
 })(document);
