@@ -29,6 +29,16 @@ background_image_url: public/stars.png
     .woodelf { color: #66ff66; }
 </style>
 
+<div style="text-align: center;">
+While the literal process of creating your character has not changed much, there are other things to consider *while* creating your character.
+<br>
+Skyrim has always embraced the view that you should be able to just venture out and kind of do things without number crunching your character. While this is very much still true, you should at least have an idea of the type of build you want to make.
+</div>
+<br>
+
+# Starting a New Game
+---
+
 Upon starting a new game, you should see a popup asking if you would like to skip the normal introduction (courtesy of [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953)).
 
 <div class="centerdiv">
@@ -44,17 +54,17 @@ Otherwise, you may select no and just continue through the normal Skyrim intro.
 ---
 No matter which option you chose above, you are going to have to pick a race and create your character.
 
-Choosing your race is a big part of building your character. As in classic Skyrim fashion, you can still make do with any race work for whatever build you are wanting to do.\
-But some races are very obviously better geared towards certain things than others.\
-If you know you want to go with some sort of melee combat build, try picking a race that majors or at least minors in the skill that you know you want to use. (like 1 handed or 2 handed).
+Choosing your race is a big part of deciding who you want your character to be. As in classic Skyrim fashion, you can still make do with any race work for whatever build you are wanting to do.\
+But some races are obviously better geared towards certain builds than others.\
+If you know you want to go with some type of build, try picking a race that majors or at least minors in some of the skills that you know you want to use.
 
-> You would also do well to not underestimate the racial passives. For example, if you think you might want a tanky type of character, an Orc may be a good initial choice with its flat health and health regeneration rate bonuses.
+> You would also do well to not underestimate the racial passives. For example, if you think you might want a tanky type of character, an Orc may be a good initial choice with its flat health and health regeneration rate bonuses. You can read more about these below.
 
 ## Racial Skills and Abilities
 ---
 
-In vanilla Skyrim, whichever race you choose has starting skill bonuses and a racial ability. In Winds of the North (thanks to to [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686)) the starting racial skills have been altered a bit.\
-Racial Abilites have also been traded in for racial passives.
+In vanilla Skyrim, whichever race you choose has starting skill bonuses and a racial ability. In Winds of the North (thanks to to [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686)) the starting racial skills have been altered a bit and
+racial Abilites have also been traded in for racial passives.
 
 <table>
     <tr>
@@ -129,7 +139,7 @@ Racial Abilites have also been traded in for racial passives.
 ---
 
 In Winds of the North, some races start with several spells and others start with none at all. The details have been listed in the table below.\
-While its not really imperative to select a race that has a spell you want, it may be something to consider. You can still buy whatever spells you want and/or need regardless of race.
+While its not imperative to select a race that has a spell you want, it may be something to consider. You can still buy whatever spells you want and/or need in the future.
 
 
 <div class="centerdiv">

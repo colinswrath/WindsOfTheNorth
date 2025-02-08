@@ -12,7 +12,7 @@ Crusader is SimonMagus' work-in-progress skill uncapper preset, and it's pretty 
 
 ---
 
-### Overview
+## Overview
 
 <div class="centerdiv">
   <hr class="thin-hr">
@@ -24,7 +24,7 @@ Crusader is SimonMagus' work-in-progress skill uncapper preset, and it's pretty 
  - Crusader is designed to avoid forcing the player to level up "alternate" skills to reach their desired level; the soft cap (level 50) can be reached by leveling only 6 skills.
  - This mitigates some of the other-wise drastic leveling speed changes that the mod makes.
 
-### Leveling Speed
+## Leveling Speed
 
 <div class="centerdiv">
   <hr class="thin-hr">
@@ -36,7 +36,7 @@ Crusader is SimonMagus' work-in-progress skill uncapper preset, and it's pretty 
  - The general range is from 80% reduction (at skill level 5) to 50% reduction (at skill level 85)
  - Spells will now receive an XP bonus when dual casting
 
-### Character Level
+## Character Level
 
 <div class="centerdiv">
   <hr class="thin-hr">
@@ -48,7 +48,7 @@ Crusader is SimonMagus' work-in-progress skill uncapper preset, and it's pretty 
  - Leveling twelve skills to 100 will result in the character reaching level 75
  - Leveling eighteen skills to 100 will result in the character reaching level 100
 
-### Crafting Skills
+## Crafting Skills
 
 <div class="centerdiv">
   <hr class="thin-hr">
@@ -60,7 +60,7 @@ Crusader is SimonMagus' work-in-progress skill uncapper preset, and it's pretty 
  - This also protects the character from having their character level inflated by leveling a skill that contributes little to nothing to their power at low levels
  - The total contribution to your character level for reaching 100 with a crafting skill is identical to all other skills
 
-### Stats, Perks, and Level Caps
+## Stats, Perks, and Level Caps
 
 <div class="centerdiv">
   <hr class="thin-hr">
@@ -76,7 +76,7 @@ Crusader is SimonMagus' work-in-progress skill uncapper preset, and it's pretty 
  - Level 100 is the "hard cap" for character level. You will no longer receive stat bonuses for leveling up, nor will you recieve perks after level 100
  - The total number of stats you can receive from leveling is 500 (at level 50), and 1000 (at level 100)
 
-### Carry Weight
+## Carry Weight
 
 <div class="centerdiv">
   <hr class="thin-hr">
@@ -87,7 +87,7 @@ Crusader is SimonMagus' work-in-progress skill uncapper preset, and it's pretty 
  - There are many sources of Carry Weight in Simonrim; use them
  - With Candlehearth, every inn has safe storage when renting a room.
 
-### Tldr/Tips
+## Tldr/Tips
 
 <div class="centerdiv">
   <hr class="thin-hr">

@@ -15,13 +15,13 @@ I will try to give a brief overview of the larger changes.
 # New Skills
 ---
 
-Skyrim's skill trees have had a couple of pretty big changes. Primarily, the pickpocket and lockpicking trees have been combined into a singular skill tree called "Security. This also makes room for a brand new skill tree called "Hand to Hand".
+Skyrim's skill trees have had a couple of pretty big changes. You should keep these new skills in mind when creating a new character.
 
 ## Hand to Hand
 
 TODO - Screenshot of h2h skill
 
-Hopefully I shouldn't have to explain what the Hand to Hand skill. Choosing to take perks in the Hand to Hand skill tree will give you bonuses related to...you guessed it...unarmed combat. Perks include bonuses to unarmed damage, movement speed when unarmed, stamina bonuses, and more.\
+Choosing to take perks in the Hand to Hand skill tree will give you bonuses related to...you guessed it...unarmed combat. Perks include bonuses to unarmed damage, movement speed when unarmed, stamina bonuses, and more.\
 This type of build was not really viable long term in vanilla Skyrim.
 
 ## Security
