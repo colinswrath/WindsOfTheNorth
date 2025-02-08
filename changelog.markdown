@@ -18,7 +18,7 @@ h2,h3,h4,h5 {
 ![](https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k.png)
 
 - [2.0.9](#209)
-- [2.0.8](#208) January 17 2024
+- [2.0.8](#208) January 17 2025
 - [2.0.7](#207) December 20 2024
 - [2.0.6](#206) December 9 2024
 - [2.0.5](#205) December 6 2024
@@ -55,7 +55,7 @@ h2,h3,h4,h5 {
 
 # 2.0.9
 
-Key Info
+### Key Info
  - This update is Save-Safe
  - Not save safe if upgrading from pre 2.0.0 versions
  - You can ignore prompts about missing plugins (several patches have been renamed. This is okay)
@@ -102,7 +102,7 @@ Key Info
 
 # 2.0.8
 
-Key Info
+### Key Info
  - This update is Save-Safe
  - Not save safe if upgrading from pre 2.0.0 versions
  - You can ignore prompts about missing plugins (several patches have been renamed. This is okay)
@@ -185,7 +185,7 @@ Key Info
 
 # 2.0.7
 
-Key Info
+### Key Info
  - This update is Save-Safe
  - Not save safe if upgrading from pre 2.0.0 versions
  - You can ignore prompts about missing plugins (several patches have been renamed. This is okay)
@@ -258,7 +258,7 @@ Key Info
 
 # 2.0.6
 
-Key Info
+### Key Info
  - PLEASE be sure to delete your shader cache folder in overwrite if updating
  - This update is Save-Safe
  - Not save safe if upgrading from pre 2.0.0 versions
@@ -309,7 +309,7 @@ Key Info
 
 # 2.0.5
 
-Key Info
+### Key Info
  - PLEASE be sure to delete your shader cache folder in overwrite if updating
  - This update is Save-Safe
  - Not save safe if upgrading from pre 2.0.0 versions
@@ -355,7 +355,7 @@ Key Info
 
 # 2.0.4
 
-Key Info
+### Key Info
  - This update is Save-Safe
  - Not save safe if upgrading from pre 2.0.0 versions
  - You can ignore prompts about missing plugins
@@ -423,7 +423,7 @@ Key Info
 
 # 2.0.3
 
-Key Info
+### Key Info
  - This update is Save-Safe
  - Not save safe if upgrading from pre 2.0.0 versions
  - You can ignore prompts about missing plugins
@@ -511,7 +511,7 @@ Key Info
 
 ## 2.0.2
 
-Key Info
+### Key Info
  - This update is Save-Safe
 
 
@@ -581,7 +581,7 @@ Key Info
 
 ## 2.0.0 - The Treasury Update
 
-Key Info
+### Key Info
  - This update is NOT Save-Safe!!
 
 
@@ -777,7 +777,7 @@ In their place I have added BnB's "Level Based Difficulty", which scales the dif
 
 ## 1.1.13
 
-Key Info
+### Key Info
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
  - You can ignore prompts about missing plugins
@@ -821,7 +821,7 @@ Key Info
 
 ## 1.1.12
 
-Key Info
+### Key Info
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
  - You can ignore prompts about missing plugins
@@ -857,7 +857,7 @@ Key Info
 
 ## 1.1.11
 
-Key Info
+### Key Info
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
  - You can ignore prompts about missing plugins
@@ -892,7 +892,7 @@ Key Info
 
 ## 1.1.10
 
-Key Info
+### Key Info
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
  - You can ignore prompts about missing plugins
@@ -934,7 +934,7 @@ Key Info
 
 ## 1.1.9
 
-Key Info
+### Key Info
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
  - You can ignore prompts about missing plugins
@@ -980,7 +980,7 @@ Key Info
 
 ## 1.1.8
 
-Key Info
+### Key Info
  - This update is mostly a hotfix
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
@@ -1010,7 +1010,7 @@ Key Info
 
 ## 1.1.7
 
-Key Info
+### Key Info
 
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
@@ -1082,7 +1082,7 @@ Key Info
 
 ## 1.1.6
 
-Key Info
+### Key Info
 
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
@@ -1121,7 +1121,7 @@ Key Info
 
 ## 1.1.5
 
-Key Info
+### Key Info
 
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
@@ -1174,7 +1174,7 @@ Key Info
 
 ## 1.1.4
 
-Key Info
+### Key Info
 
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
@@ -1226,7 +1226,7 @@ Key Info
 
 ## 1.1.3
 
-Key Info
+### Key Info
 
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
@@ -1295,7 +1295,7 @@ Key Info
 
 ## 1.1.2
 
-Key Info
+### Key Info
 
  - This update is Save-Safe (from 1.1.0+ Only)
  - Not save safe if upgrading from pre 1.1.0 versions
@@ -1341,7 +1341,7 @@ Key Info
 
 ## 1.1.1
 
-Key Info
+### Key Info
 
  - This update is Save-Safe (from 1.1.0 Only)
  - Not save safe if upgrading from pre 1.1.0 versions
@@ -1396,7 +1396,7 @@ Key Info
 
 
 ## 1.1.0
-Key Info
+### Key Info
 
  - This update is NOT save-safe
 
@@ -1501,7 +1501,7 @@ Key Info
 
 
 ## 1.0.8
-Key Info
+### Key Info
 
  - This update is Save-Safe
 
@@ -1540,7 +1540,7 @@ Key Info
 
 ## 1.0.7
 
-Key Info
+### Key Info
 
  - This update is Save-Safe
 
@@ -1605,7 +1605,7 @@ Key Info
 
 ## 1.0.6
 
-Key Info
+### Key Info
 
  - This update is Save-Safe
 
@@ -1654,7 +1654,7 @@ Key Info
 
 ## 1.0.5
 
-Key Info
+### Key Info
 
  - This update is Save-Safe
 
@@ -1691,7 +1691,7 @@ Key Info
 
 ## 1.0.4
 
-Key Info
+### Key Info
 
  - This update is Save-Safe
 
@@ -1704,7 +1704,7 @@ Key Info
 
 ## 1.0.3
 
-Key Info
+### Key Info
 
  - This update is Save-Safe
 
@@ -1740,7 +1740,7 @@ Key Info
 
 ## 1.0.2
 
-Key Info
+### Key Info
 
  - This update is Save-Safe
 
@@ -1755,7 +1755,7 @@ Key Info
 
 ## 1.0.1
 
-Key Info
+### Key Info
 
  - This update is Save-Safe
 
@@ -1772,6 +1772,6 @@ Key Info
 
 ## 1.0.0
 
-Key Info
+### Key Info
 
  - Release

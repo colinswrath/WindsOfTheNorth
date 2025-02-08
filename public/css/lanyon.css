@@ -93,20 +93,36 @@ h5, h6 {
   .container {
     max-width: 32rem;
   }
+
+  .responsive-img {
+    width: 100%;
+  }
 }
 @media (min-width: 768px) {
   .container {
     max-width: 50rem;
+  }
+
+  .responsive-img {
+    width: 80%;
   }
 }
 @media (min-width: 56em) {
   .container {
     max-width: 60rem;
   }
+
+  .responsive-img {
+    width: 70%;
+  }
 }
 @media (min-width: 108em) {
   .container {
     max-width: 90rem;
+  }
+
+  .responsive-img {
+    width: 50%;
   }
 }
 

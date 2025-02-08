@@ -40,7 +40,7 @@ A new Hand to Hand skill has been added, magic is more useful and consistent, pe
 </div>
 
 <div class="centerdiv">
-    <img src="assets/siteImages/h2h.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="assets/siteImages/h2h.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 ### New Lands and Quests
@@ -63,7 +63,7 @@ Winds of the North includes several mods that add new lands to explore, new ques
 <br>
 
 <div class="centerdiv">
-    <img src="assets/siteImages/Wyrmstooth.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="assets/siteImages/Wyrmstooth.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 ### Skyrim Extended Cut - Saints and Seducers
@@ -74,7 +74,7 @@ Skyrim Extended Cut - Saints and Seducers (also known as "ECSS") is a fantastic 
 <br>
 
 <div class="centerdiv">
-    <img src="assets/siteImages/ECSS.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="assets/siteImages/ECSS.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 ### Siege at Icemoth
@@ -85,7 +85,7 @@ Travel to a group of small islands north of Skyrim, where you can explore new du
 <br>
 
 <div class="centerdiv">
-    <img src="assets/siteImages/SiegeAtIcemoth.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="assets/siteImages/SiegeAtIcemoth.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 ### Morthal Barrow
@@ -98,7 +98,7 @@ Travel to a group of small islands north of Skyrim, where you can explore new du
 <br>
 
 <div class="centerdiv">
-    <img src="assets/siteImages/Morthal.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="assets/siteImages/Morthal.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 ### Taarengrav Barrow
@@ -111,13 +111,13 @@ Travel to a group of small islands north of Skyrim, where you can explore new du
 <br>
 
 <div class="centerdiv">
-    <img src="assets/siteImages/Taarengrav.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="assets/siteImages/Taarengrav.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 ### Quest Expansion Series
 
 <div class="centerdiv">
-    <img src="assets/siteImages/QuestExpansion.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="assets/siteImages/QuestExpansion.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 ### Graphics
@@ -127,7 +127,7 @@ Travel to a group of small islands north of Skyrim, where you can explore new du
 </div>
 
 <div class="centerdiv">
-    <img src="assets/siteImages/CS.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="assets/siteImages/CS.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 <div style="text-align: center; margin-left: 2%">
@@ -154,7 +154,7 @@ One of my main goals when making Winds of the North was to try to preserve the g
   <br>
   <br>
   <div class="centerdiv">
-    <img src="assets/siteImages/ND.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="assets/siteImages/ND.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
   </div>
   <br>
   <br>
@@ -185,11 +185,11 @@ The full load order library list can be viewed [here](https://loadorderlibrary.c
 
 ## Screenshots
 <div class="centerdiv">
-    <img src="public/screenshots/alduin.png" width="50%" style="margin-right: 0.5%;" class="dropshadow">
-    <img src="public/screenshots/fire.png" width="50%" style="margin-left: 0.5%;" class="dropshadow">
+    <img src="public/screenshots/alduin.png" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
+    <img src="public/screenshots/fire.png" width="50%" style="margin-left: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 <div class="centerdiv">
-    <img src="public/screenshots/cyruge.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow">
-    <img src="public/screenshots/dragonsreach.png" width="50%" style="margin-left: 0.5%;" class="dropshadow">
+    <img src="public/screenshots/cyruge.webp" width="50%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
+    <img src="public/screenshots/dragonsreach.png" width="50%" style="margin-left: 0.5%;" class="dropshadow .responsive-img">
 </div>

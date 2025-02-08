@@ -51,6 +51,8 @@ I will state again to be clear, modifying the modlist forfeits support.
 
 Current known bugs, their status, planned tweaks and more can be viewed on the public [Trello board](https://trello.com/b/GGDpdYFg/winds-of-the-north-public-board)
 
+> The board is supposed to be embedded below. Some browsers block the ability to do this (like Edge). If this is happening for you just follow the link above to see the board.
+
   <iframe src="https://trello.com/b/GGDpdYFg.html" frameBorder="0" width="100%" height="600"></iframe> 
   
 ---

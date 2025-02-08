@@ -67,7 +67,7 @@ Creating your character is the first step in starting your Skyrim playthrough. V
 </div>
 
 <div class="centerdiv">
-    <img src="../assets/siteImages/combat.png" width="70%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="../assets/siteImages/combat.png" width="70%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 <div style="margin-left: 4%;margin-right: 4%">

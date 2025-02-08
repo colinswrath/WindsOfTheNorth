@@ -62,7 +62,7 @@ Mage vendors can now sell unenchanted staves. You can take these staves and ench
 ## Cooking
 
 <div class="centerdiv">
-    <img src="../assets/siteImages/cooking.png" width="70%" style="margin-right: 0.5%;" class="dropshadow">
+    <img src="../assets/siteImages/cooking.png" width="70%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
 </div>
 
 # World Leveling
@@ -73,17 +73,15 @@ Mage vendors can now sell unenchanted staves. You can take these staves and ench
 # Survival, Inns, and Fast Travel
 ---
 
-Survival based features have also recieved a pretty major overhaul.
-
 ## Survival
 
 ## Fast Travel
 
-Fast Travelling now requires a Travel Pack
+Rather than being completely disabled, fast travel now requires a "Travel Pack".
 
 todo-Screenshot of travel pack
 
-
+Travel packs
 
 
 # Magic
