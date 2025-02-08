@@ -94,6 +94,7 @@ Key Info
  - Really Seriously Improved Sparks
  - Media Keys Fix SKSE
  - Ranged Block Recoil Fix
+ - Sprint Stuttering Fix
 
 ### Removed
 

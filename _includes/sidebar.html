@@ -19,9 +19,6 @@
       <a href="{{ '/gameplayguide/leveling' | relative_url }}">
         <li class="sidebar-subnav-item{% if page.title == 'Leveling' %} active{% endif %}" >Leveling</li>
       </a>
-      <a href="{{ '/gameplayguide/#combat' | relative_url }}">
-        <li class="sidebar-subnav-item{% if page.title == 'gameplayguide' %} active{% endif %}" >Combat</li>
-      </a>
     </ul>
     <a class="sidebar-nav-item{% if page.title == 'Support' %} active{% endif %}" href="{{ '/support' | relative_url }}">Support</a>
     <a class="sidebar-nav-item{% if page.title == 'Changelog' %} active{% endif %}" href="{{ '/changelog' | relative_url }}">Changelog</a>
@@ -39,12 +36,16 @@
   // Set the checkbox state based on localStorage before the page renders
   (function() {
     var checkbox = document.getElementById('sidebar-checkbox');
-    if (localStorage.getItem('sidebar-checkbox') === 'unchecked') {
+    var storageCheckbox = localStorage.getItem('sidebar-checkbox');
+    if (storageCheckbox === 'unchecked') {
       localStorage.setItem('sidebar-checkbox', 'unchecked');
       checkbox.checked = false;
-    } else {
+    } else if (storageCheckbox === 'checked') {
       localStorage.setItem('sidebar-checkbox', 'checked');
       checkbox.checked = true;
+    } else {
+      localStorage.setItem('sidebar-checkbox', 'unchecked');
+      checkbox.checked = false;
     }
   })();
 </script>
