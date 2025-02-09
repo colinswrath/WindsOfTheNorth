@@ -42,7 +42,7 @@ Skyrim has always embraced the view that you should be able to just venture out 
 Upon starting a new game, you should see a popup asking if you would like to skip the normal introduction (courtesy of [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953)).
 
 <div class="centerdiv">
-    <img src="../assets/siteImages/popup.webp" width="20%" style="margin-right: 0.5%;" class="dropshadow">
+    <img alt="" src="../assets/siteImages/popup.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img smallimage">
 </div>
 
 As cool as Skyrim's intro is, we've all played through it probably a dozen times at this point, and it's very long. Selecting this option will start you just before exiting the cave outside of Helgen.\

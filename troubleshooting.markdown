@@ -31,7 +31,7 @@ Please open a report under the support channel in the [Lost Outpost Discord serv
 ## SKSE Plugin Loading error after launch
 
 <div class="centerdiv">
-    <img src="{{ site.baseurl }}/assets/siteImages/vccmissing.png" width="25%" style="margin-right: 0.5%;" class="dropshadow">
+    <img alt="" src="{{ site.baseurl }}/assets/siteImages/vccmissing.png" width="25%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 
 **Fix:** Its very likely that you have skipped installation step for Visual C++ Redistribution Package.\

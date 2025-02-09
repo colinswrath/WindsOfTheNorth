@@ -82,3 +82,7 @@ li.sidebar-subnav-item:focus {
   justify-content: center;
   align-items: center;
 }
+
+.smallimage {
+  max-width: 20%;
+}

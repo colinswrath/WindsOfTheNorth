@@ -20,7 +20,7 @@ Skyrim's skill trees have had a couple of pretty big changes. You should keep th
 ## Hand to Hand
 
 <div class="centerdiv">
-    <img src="../assets/siteImages/h2h.webp" width="70%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
+    <img alt="" src="../assets/siteImages/h2h.webp" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 
 Choosing to take perks in the Hand to Hand skill tree will give you bonuses related to...you guessed it...unarmed combat. Perks include bonuses to unarmed damage, movement speed when unarmed, stamina bonuses, and more.\
@@ -29,7 +29,7 @@ This type of build was not really viable long term in vanilla Skyrim.
 ## Security
 
 <div class="centerdiv">
-    <img src="../assets/siteImages/security.webp" width="70%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
+    <img alt="" src="../assets/siteImages/security.webp" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 
 Lockpicking and Pickpocket have been combined into a singualar skill called "Security". Perks in this tree are a much better investment than they were before.
@@ -49,14 +49,14 @@ In Winds of the North, there is a new type of crafting called "Scroll Crafting".
 ## Scroll Crafting
 
 <div class="centerdiv">
-    <img src="../assets/siteImages/scrollenchant.png" width="70%" style="margin-right: 0.5%;" class="dropshadow">
+    <img alt="" src="../assets/siteImages/scrollenchant.png" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 <br>
 
 ## Staff Enchanting
 
 <div class="centerdiv">
-    <img src="../assets/siteImages/staffenchant.png" width="70%" style="margin-right: 0.5%;" class="dropshadow">
+    <img alt="" src="../assets/siteImages/staffenchant.png" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 <br>
 
@@ -66,7 +66,7 @@ Mage vendors can now sell unenchanted staves. You can take these staves and ench
 ## Cooking
 
 <div class="centerdiv">
-    <img src="../assets/siteImages/cooking.png" width="70%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
+    <img alt="" src="../assets/siteImages/cooking.png" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 
 # World Leveling

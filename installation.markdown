@@ -117,7 +117,7 @@ Downloading and installing Winds of the North can take a while depending on your
 - Press the download button on Winds of the North and wait for it to download.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="../assets/siteImages/WotnInstallWJ.png" width="70%" style="margin-right: 0.5%;" class="dropshadow">
+    <img alt="" src="../assets/siteImages/WotnInstallWJ.png" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 
 - Set the installation folder to be somewhere like C:\Games\Winds of the North. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
@@ -125,7 +125,7 @@ Downloading and installing Winds of the North can take a while depending on your
 - Press the play button to begin.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="../assets/siteImages/WotnWJDownload.png" width="70%" style="margin-right: 0.5%;" class="dropshadow">
+    <img alt="" src="../assets/siteImages/WotnWJDownload.png" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 
 - Wabbajack will proceed to download and install all of the mods in the list.
@@ -155,7 +155,7 @@ Other modifications, such as regenerating LOD, will forfeit support.
  - Make sure "SKSE" is selected, then click the "Run" button in MO2.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="../assets/siteImages/mo2.png" width="70%" style="margin-right: 0.5%;" class="dropshadow">
+  <img alt="" src="../assets/siteImages/mo2.png" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 
  - Click "New Game".
