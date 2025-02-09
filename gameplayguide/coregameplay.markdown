@@ -19,14 +19,18 @@ Skyrim's skill trees have had a couple of pretty big changes. You should keep th
 
 ## Hand to Hand
 
-TODO - Screenshot of h2h skill
+<div class="centerdiv">
+    <img src="../assets/siteImages/h2h.webp" width="70%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
+</div>
 
 Choosing to take perks in the Hand to Hand skill tree will give you bonuses related to...you guessed it...unarmed combat. Perks include bonuses to unarmed damage, movement speed when unarmed, stamina bonuses, and more.\
 This type of build was not really viable long term in vanilla Skyrim.
 
 ## Security
 
-TODO - Screenshot of security skill
+<div class="centerdiv">
+    <img src="../assets/siteImages/security.webp" width="70%" style="margin-right: 0.5%;" class="dropshadow .responsive-img">
+</div>
 
 Lockpicking and Pickpocket have been combined into a singualar skill called "Security". Perks in this tree are a much better investment than they were before.
 
@@ -79,25 +83,6 @@ Mage vendors can now sell unenchanted staves. You can take these staves and ench
 
 Rather than being completely disabled, fast travel now requires a "Travel Pack".
 
-todo-Screenshot of travel pack
+TODO-Screenshot of travel pack
 
-Travel packs
-
-
-# Magic
-
----
-
-<div class="centerdiv">
-  <hr class="thin-hr">
-</div>
-
-
-# Alchemy
----
-
-Apotheocary and potions restoring over time instead of instantly.
-
-<div class="centerdiv">
-  <hr class="thin-hr">
-</div>
+>  Travel packs can be crafted from any blacksmith's forge, purchased from general merchants, and found occasionally in "clutter" type loot.

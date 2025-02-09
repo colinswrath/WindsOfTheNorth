@@ -26,8 +26,6 @@ Also, there is no shame in turning the difficulty down to "Adept" from the defau
   <hr class="thin-hr">
 </div>
 
-TODO- Screenshot of skyrim intro
-
 <div style="margin-left: 4%;margin-right: 4%">
 Creating your character is the first step in starting your Skyrim playthrough. Visit the <a href="{{ '/gameplayguide/creatingyourcharacter' | relative_url }}">Creating Your Character</a> page to learn more about what has changed.
 </div>
