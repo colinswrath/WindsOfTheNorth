@@ -7,7 +7,7 @@ background_image_url: public/stars.png
 ---
 
 <div style="margin-left: 4%;margin-right: 4%">
-Winds of the North makes meany changes to core gameplay mechanics. My goal with this guide is to highlight some of the most important ones, and prepare newcomers for their first few hours in game.
+Winds of the North makes many changes to the game. My goal with this guide is to highlight some of the most important ones, and prepare newcomers for their first few hours in game.
 <br>
 <br>
 I highly suggest giving this guide a brief look at the very least. Its not a completely comprehensive list of every single change, but it should give you a good idea of what to expect. 
@@ -98,7 +98,7 @@ If you would like to read even more about how exactly combat has changed, the <a
 </div>
 <br>
 
-# [Core Gameplay Mechanics](./coregameplay)
+# [Core Gameplay](./coregameplay)
 
 <div class="centerdiv">
   <hr class="thin-hr">

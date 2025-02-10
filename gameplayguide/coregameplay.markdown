@@ -6,7 +6,7 @@ background_image: true
 background_image_url: public/stars.png
 ---
 <div style="text-align: center;">
-There are many mods in Winds of the North that affect the core gameplay mechanics, and most of these come from the excellent "Simonrim" Gameplay Suite.
+Most of the mods that affect the core gameplay mechanics come from the excellent "Simonrim" Gameplay Suite.
 <br>
 I will try to give a brief overview of the larger changes.
 
@@ -38,8 +38,18 @@ Lockpicking and Pickpocket have been combined into a singualar skill called "Sec
 
 ## Dragonborn
 
-TODO - Screenshot of dragonborn skill
+<div class="centerdiv">
+    <img alt="" src="../assets/siteImages/dragonborn.webp" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
+</div>
 
+Dragonborn is a new perk tree thats not part of the main perk menu (think like there Werewolf perks or Vampire Lord)
+
+Once you bring the horn back to High Hrothgar to complete your training, you will recieve a new power called "Meditate".
+Using this power will cause your character to kneel to meditate, and the new perk tree will appear.
+
+> You acquire new perks for the Dragonborn perk tree by killing dragons and absorbing their souls.
+
+These perks will give bonuses such as reduced shout cooldown, increased power, and more. Investing into this skill tree will enable your shouts to pack a harder punch.
 
 # Crafting Changes
 ---

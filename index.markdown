@@ -129,7 +129,9 @@ Travel to a group of small islands north of Skyrim, where you can explore new du
 </div>
 
 <div style="text-align: center; margin-left: 2%">
-One of my main goals when making Winds of the North was to try to preserve the general art direction of Skyrim. Therefore, I rely heavily on mods like "Community Shaders" and "Vanilla Remastered" to enhance to visuals.
+One of the primary goals when making Winds of the North was to try to improve upon the general art direction of Skyrim rather than replace it. Therefore, I rely heavily on mods like "Community Shaders" and "Vanilla Remastered" to enhance to visuals.
+<br>
+There are also many other mods that touch up the game in all sorts of ways, from armor retextures by Xavbio (https://next.nexusmods.com/profile/xavbio/mods), to overhauled weathers from "Classic Weathers".
 </div>
 
 ### Audio and Music

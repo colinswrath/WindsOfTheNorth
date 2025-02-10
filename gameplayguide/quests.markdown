@@ -5,8 +5,10 @@ permalink: /gameplayguide/quests
 background_image: true
 background_image_url: public/stars.png
 ---
-
+<div style="text-align: center;">
 Winds of the North includes a plethora of changes to existing quests as well as new quests and locations.
+</div>
+<br>
 
 # Quest Level Changes
 

@@ -87,6 +87,7 @@ h2,h3,h4,h5 {
  - Optional Quick Start - SE
  - Housecarls Pre-Thaneship
  - Additional Music
+ - Knotwork
 
 ### Added
 
