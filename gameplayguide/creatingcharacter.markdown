@@ -30,16 +30,16 @@ background_image_url: public/stars.png
 </style>
 
 <div style="text-align: center;">
-While the literal process of creating your character has not changed much, there are other things to consider *while* creating your character.
+While the literal process of creating your character has not changed much, there are other things to consider while creating your character.
 <br>
-Skyrim has always embraced the view that you should be able to just venture out and kind of do things without number crunching your character. While this is very much still true, you should at least have an idea of the type of build you want to make.
+Skyrim has always embraced the idea that you should be able to venture out and do things without meticulously number-crunching your character. While this is still very much true, you should at least have a general idea of the type of build you want to make.
 </div>
 <br>
 
 # Starting a New Game
 ---
 
-Upon starting a new game, you should see a popup asking if you would like to skip the normal introduction (courtesy of [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953)).
+Upon starting a new game, you will see a popup asking if you would like to skip the normal introduction (courtesy of [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953)).
 
 <div class="centerdiv">
     <img alt="" src="../assets/siteImages/popup.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img smallimage">
@@ -138,7 +138,7 @@ racial Abilites have also been traded in for racial passives.
 ## Starting Spells
 ---
 
-In Winds of the North, some races start with several spells and others start with none at all. The details have been listed in the table below.\
+Some races start with several spells and others start with none at all. The details have been listed in the table below.\
 While its not imperative to select a race that has a spell you want, it may be something to consider. You can still buy whatever spells you want and/or need in the future.
 
 

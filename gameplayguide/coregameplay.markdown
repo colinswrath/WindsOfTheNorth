@@ -54,7 +54,7 @@ These perks will give bonuses such as reduced shout cooldown, increased power, a
 # Crafting Changes
 ---
 
-In Winds of the North, there is a new type of crafting called "Scroll Crafting". Staff Enchanting and Cooking have also recieved major reworks. (thanks to <a href="https://www.nexusmods.com/skyrimspecialedition/mods/95196">Sorcerer</a> and <a href="https://www.nexusmods.com/skyrimspecialedition/mods/132680">Staff Enchanting Plus</a>)
+In Winds of the North, there is a new type of crafting called "Scroll Crafting" and a major overhaul of Staff Enchanting (thanks to <a href="https://www.nexusmods.com/skyrimspecialedition/mods/95196">Sorcerer</a> and <a href="https://www.nexusmods.com/skyrimspecialedition/mods/132680">Staff Enchanting Plus</a>). Cooking has also recieved a major overhaul. 
 
 ## Scroll Crafting
 
@@ -70,7 +70,8 @@ In Winds of the North, there is a new type of crafting called "Scroll Crafting".
 </div>
 <br>
 
-In vanilla, the staff enchanting system functioned sort of like a forge. You had preset recipes that you "crafted". Staff Enchanting Plus allows staff enchanting at the new tables to function like normal enchanting would.\
+In vanilla, the staff enchanting system functioned sort of like a forge. You had preset recipes that you "crafted". Sorcerer and Staff Enchanting Plus allows staff enchanting at the new tables to function like normal enchanting would.
+
 Mage vendors can now sell unenchanted staves. You can take these staves and enchant them at one of the new tables placed around the game world.
 
 ## Cooking
@@ -84,10 +85,25 @@ Mage vendors can now sell unenchanted staves. You can take these staves and ench
 
 ## Arena
 
+Even though Arena may seem inconspicious, it actually has a very large effect on the game's difficulty and progression.
+
 # Survival, Inns, and Fast Travel
 ---
 
-## Survival
+## Inns
+
+TODO - Screenshot of inn dialogue
+
+Inns now function a little differently than you may be used to. You may now rent an Inn room for an extended amount of time. This can serve as a cheaper alternative to a home until you save enough to buy one.
+
+- One night (for 50 gold) 
+- One week (for 250 gold) 
+- One month (for 750 gold) 
+
+> Inns in major cities, such as the Bannered Mare, Candlehearth Hall, the Silver-Blood Inn, the Winking Skeever, and the Bee and Barb charge more (75 gold for a night, 350 gold for a week, and 1000 gold for a month).
+
+In addition, when you rent a room in an inn you will gain access to safe storage for that duration of the rental.\
+When the rental expires, the chest will simply lock and your goods will remain safe inside. To get your items back you can renew your stay and everything will still be there.
 
 ## Fast Travel
 

@@ -150,48 +150,48 @@ Another important mod for re-leveling quests is "Radiant Requirements" by Parape
     </thead>
     <tbody>
         <tr style="color: #ff5555;">
-        <td>Draugr</td>
-        <td>9</td>
+            <td>Draugr</td>
+            <td>9</td>
         </tr>
         <tr style="color: #ff5555;">
-        <td>Spriggan</td>
-        <td>9</td>
+            <td>Spriggan</td>
+            <td>9</td>
         </tr>
         <tr style="color: #ff9900;">
-        <td>Forsworn</td>
-        <td>14</td>
+            <td>Forsworn</td>
+            <td>14</td>
         </tr>
         <tr style="color: #ff9900;">
-        <td>Hagraven</td>
-        <td>14</td>
+            <td>Hagraven</td>
+            <td>14</td>
         </tr>
         <tr style="color: #ff9900;">
-        <td>Warlock</td>
-        <td>14</td>
+            <td>Warlock</td>
+            <td>14</td>
         </tr>
         <tr style="color: #33cc33;">
-        <td>Dragon</td>
-        <td>19</td>
+            <td>Dragon</td>
+            <td>19</td>
         </tr>
         <tr style="color: #33cc33;">
-        <td>Falmer</td>
-        <td>19</td>
+            <td>Falmer</td>
+            <td>19</td>
         </tr>
         <tr style="color: #33cc33;">
-        <td>Giant</td>
-        <td>19</td>
+            <td>Giant</td>
+            <td>19</td>
         </tr>
         <tr style="color: #9966ff;">
-        <td>Vampire</td>
-        <td>24</td>
+            <td>Vampire</td>
+            <td>24</td>
         </tr>
         <tr style="color: #9966ff;">
-        <td>Werewolf</td>
-        <td>24</td>
+            <td>Werewolf</td>
+            <td>24</td>
         </tr>
         <tr style="color: #ff4444;">
-        <td>Dragon Priest</td>
-        <td>29</td>
+            <td>Dragon Priest</td>
+            <td>29</td>
         </tr>
     </tbody>
     </table>
@@ -204,4 +204,8 @@ Another important mod for re-leveling quests is "Radiant Requirements" by Parape
 </div>
 
 In addition to the changes mentioned above, there are a number of new quests and locations in Winds of the North.\
-Most of these have already been mentioned, but the table below will detail how exactly to start these new quests. 
+Below I will detail how exactly to start these new quests. 
+
+Wyrmstooth:
+
+TODO - Finish this part dood, Quit being lazy

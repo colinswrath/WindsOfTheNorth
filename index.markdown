@@ -6,7 +6,7 @@ background_image_url: public/backgrounds/snowstatue.png
 ---
 
 <div style="margin-left: 4%; margin-right: 4%;">
-Winds of the North is a modlist designed to improve Skyrim's gameplay, integrate new content into the world, and enhance its visuals while retaining the art direction of the original game.
+Winds of the North is a modlist designed to improve Skyrim's gameplay, integrate new content into the world, and enhance its visuals while retaining that nostalgic feel of the original game.
 <br>
 There is lots of new content to explore, carefully curated in game music, Creation Club integration, and improved graphics from upscaled textures and Community Shaders.
 <br>
@@ -15,10 +15,6 @@ I have tried my best to make a list that I feel is consistent, challenging, and 
 
 ## What to Expect
 ---
-
-<div style="margin-left: 4%; margin-right: 4%;">
-When choosing which mods to include in Winds of the North I’m pretty selective when it comes to deciding what makes the cut.
-</div>
 
 ### Gameplay Suite
 
@@ -114,6 +110,11 @@ Travel to a group of small islands north of Skyrim, where you can explore new du
 
 ### Quest Expansion Series
 
+<div style="text-align: center; margin-left: 2%">
+Winds of the North includes most of the excellent "quest expansion" mods by Jayserpa. These mods add new ways to complete some of the vanilla quests that we are all familiar with.
+</div>
+<br>
+
 <div class="centerdiv">
     <img alt="" src="assets/siteImages/QuestExpansion.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
@@ -173,11 +174,13 @@ There are also many other mods that touch up the game in all sorts of ways, from
   <hr class="thin-hr">
 </div>
 
-If you would like to read more about the list, head to [Gameplay Guide](../gameplayguide)
-
-If you would like to install Winds of the North, please head to the [Installation Guide](../installation) and follow the instructions.
-
-The full load order library list can be viewed [here](https://loadorderlibrary.com/lists/winds-of-the-north-2-0-0).
+<div style="margin-left: 4%; margin-right: 4%;">
+  If you would like to read more about the list, head to <a href="../gameplayguide">"Gameplay Guide"</a>
+<br>
+  If you would like to install Winds of the North, please head to the <a href="../installation">"Installation Guide"</a> and follow the instructions.
+<br>
+  The full load order library list can be viewed <a href="https://loadorderlibrary.com/lists/winds-of-the-north-2-0-0">"here"</a>.
+</div>
 
 <div class="centerdiv">
   <hr class="thin-hr">
