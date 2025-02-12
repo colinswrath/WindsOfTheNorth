@@ -31,7 +31,7 @@ Crusader is SimonMagus' work-in-progress skill uncapper preset, and it's pretty 
 </div>
 
  - Leveling will be much slower throughout the game, but especially in the early game
- - You will no longer rocket past your fist ten levels faster than you can blink
+ - You will no longer rocket past your first ten levels faster than you can blink
  - The reduction to leveling speed will be lessened as the player levels up (to prevent getting stuck at level 81 for 6 days)
  - The general range is from 80% reduction (at skill level 5) to 50% reduction (at skill level 85)
  - Spells will now receive an XP bonus when dual casting

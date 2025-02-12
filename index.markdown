@@ -5,7 +5,7 @@ background_image: true
 background_image_url: public/backgrounds/snowstatue.png
 ---
 
-<div style="margin-left: 4%; margin-right: 4%;">
+<div class="midmargin">
 Winds of the North is a modlist designed to improve Skyrim's gameplay, integrate new content into the world, and enhance its visuals while retaining that nostalgic feel of the original game.
 <br>
 There is lots of new content to explore, carefully curated in game music, Creation Club integration, and improved graphics from upscaled textures and Community Shaders.
@@ -22,7 +22,7 @@ I have tried my best to make a list that I feel is consistent, challenging, and 
   <hr class="thin-hr">
 </div>
 
-<div style="margin-left: 4%; margin-right: 4%;">
+<div class="midmargin">
 Almost every aspect of gameplay has been overhauled in some form, primarily by the "Simonrim" mod suite.
 <br>
 At Simonrim's core is the perk overhaul called "Adamant". Adamant rebalances the entire perk system to allow for more meaningful perks, while at the same time, avoiding bloating the skill menu with a massive amount of extra perks.
@@ -43,13 +43,13 @@ A new Hand to Hand skill has been added, magic is more useful and consistent, pe
   <hr class="thin-hr">
 </div>
 
-<div class="centerdiv">
+<div class="midmargin">
 Winds of the North includes several mods that add new lands to explore, new quests to complete, and exciting new dungeons to delve into.
 </div>
 
 ### Wyrmstooth
 
-<div style="text-align: center; margin-left: 2%">
+<div class="midmargin">
   <span style="font-style: italic;">
     "Wyrmstooth adds a new quest that takes the Dragonborn to the island of Wyrmstooth situated north of Solitude across the Sea of Ghosts. Battle across new landscapes and through new dungeons in this expansion-sized mod. The task may seem simple enough: slay a dragon that's stirring up trouble. But things never quite go that easily..."
   </span>
@@ -62,7 +62,7 @@ Winds of the North includes several mods that add new lands to explore, new ques
 
 ### Skyrim Extended Cut - Saints and Seducers
 
-<div style="text-align: center; margin-left: 2%">
+<div class="midmargin">
 Skyrim Extended Cut - Saints and Seducers (also known as "ECSS") is a fantastic mod that overhauls the existing quest for the "Saints and Seducers" Creation, replacing it with a fully voiced, entirely new questline in which you return to part of the Shivering Isles.
 </div>
 <br>
@@ -73,7 +73,7 @@ Skyrim Extended Cut - Saints and Seducers (also known as "ECSS") is a fantastic 
 
 ### Siege at Icemoth
 
-<div style="text-align: center; margin-left: 2%">
+<div class="midmargin">
 Travel to a group of small islands north of Skyrim, where you can explore new dungeons, fight new enemies, and complete a questline where you search of a powerful ring called the Band of the Wraith.
 </div>
 <br>
@@ -84,7 +84,7 @@ Travel to a group of small islands north of Skyrim, where you can explore new du
 
 ### Morthal Barrow
 
-<div class="centerdiv">
+<div class="midmargin">
   <span style="font-style: italic;">
     "Morthal Barrow is a lore-friendly dungeon mod, intended to feel like vanilla content, and is based on its appearance in the The Elder Scrolls Online. It can be found close to the town of Morthal, turning the already existing unmarked ruin (named "Black Arts Ritual Site") into a fully-fledged dungeon. "
   </span>
@@ -97,7 +97,7 @@ Travel to a group of small islands north of Skyrim, where you can explore new du
 
 ### Taarengrav Barrow
 
-<div class="centerdiv">
+<div class="midmargin">
   <span style="font-style: italic;">
     "Taarengrav Barrow is a lore-friendly dungeon mod that is supposed to feel very much like vanilla content and as if it's been there from the start. It is based on its appearance in The Elder Scrolls Online. The dungeon can be found close to the Rift Imperial Camp (see map screenshot) and is also fully Radiant Quest enabled."
   </span>
@@ -110,7 +110,7 @@ Travel to a group of small islands north of Skyrim, where you can explore new du
 
 ### Quest Expansion Series
 
-<div style="text-align: center; margin-left: 2%">
+<div class="midmargin">
 Winds of the North includes most of the excellent "quest expansion" mods by Jayserpa. These mods add new ways to complete some of the vanilla quests that we are all familiar with.
 </div>
 <br>
@@ -129,7 +129,7 @@ Winds of the North includes most of the excellent "quest expansion" mods by Jays
     <img alt="" src="assets/siteImages/CS.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 
-<div style="text-align: center; margin-left: 2%">
+<div class="midmargin">
 One of the primary goals when making Winds of the North was to try to improve upon the general art direction of Skyrim rather than replace it. Therefore, I rely heavily on mods like "Community Shaders" and "Vanilla Remastered" to enhance to visuals.
 <br>
 There are also many other mods that touch up the game in all sorts of ways, from armor retextures by Xavbio (https://next.nexusmods.com/profile/xavbio/mods), to overhauled weathers from "Classic Weathers".
@@ -141,7 +141,7 @@ There are also many other mods that touch up the game in all sorts of ways, from
   <hr class="thin-hr">
 </div>
 
-<div style="margin-left: 4%; margin-right: 4%;">
+<div class="midmargin">
   Game audio in Winds of the North is touched up by a fantastic mod called "Audio Overhaul for Skyrim SE" by DylanJames. 
   <br>
   A quote from the modpage describes this mod better than I ever could, 
@@ -174,10 +174,10 @@ There are also many other mods that touch up the game in all sorts of ways, from
   <hr class="thin-hr">
 </div>
 
-<div style="margin-left: 4%; margin-right: 4%;">
-  If you would like to read more about the list, head to <a href="../gameplayguide">"Gameplay Guide"</a>
+<div class="midmargin">
+  If you would like to read more about the list, head to <a href="./gameplayguide">Gameplay Guide</a>
 <br>
-  If you would like to install Winds of the North, please head to the <a href="../installation">"Installation Guide"</a> and follow the instructions.
+  If you would like to install Winds of the North, please head to the <a href="./installation">Installation Guide</a> and follow the instructions.
 <br>
   The full load order library list can be viewed <a href="https://loadorderlibrary.com/lists/winds-of-the-north-2-0-0">"here"</a>.
 </div>
@@ -188,11 +188,17 @@ There are also many other mods that touch up the game in all sorts of ways, from
 
 ## Screenshots
 <div class="centerdiv">
-    <img alt="" src="public/screenshots/alduin.png" style="margin-right: 0.5%;" class="dropshadow responsive-img">
-    <img alt="" src="public/screenshots/fire.png" style="margin-left: 0.5%;" class="dropshadow responsive-img">
+    <img alt="" src="public/screenshots/alduin.png" style="width: 100%;" class="dropshadow responsive-img">
 </div>
 
 <div class="centerdiv">
-    <img alt="" src="public/screenshots/cyruge.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img">
-    <img alt="" src="public/screenshots/dragonsreach.png" style="margin-left: 0.5%;" class="dropshadow responsive-img">
+    <img alt="" src="public/screenshots/fire.png" style="width: 100%;" class="dropshadow responsive-img">
+</div>
+
+<div class="centerdiv">
+    <img alt="" src="public/screenshots/cyruge.webp" style="width: 100%;" class="dropshadow responsive-img">
+</div>
+
+<div class="centerdiv">
+    <img alt="" src="public/screenshots/dragonsreach.png" style="width: 100%;" class="dropshadow responsive-img">
 </div>

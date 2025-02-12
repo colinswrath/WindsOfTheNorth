@@ -86,3 +86,8 @@ li.sidebar-subnav-item:focus {
 .smallimage {
   max-width: 20%;
 }
+
+.midmargin {
+  margin-left: 4%; 
+  margin-right: 4%;
+}
