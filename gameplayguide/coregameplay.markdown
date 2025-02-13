@@ -85,7 +85,25 @@ Mage vendors can now sell unenchanted staves. You can take these staves and ench
 
 ## Arena
 
-Even though Arena may seem inconspicious, it actually has a very large effect on the game's difficulty and progression.
+Even though Arena may seem inconspicious, it actually has a very large affect on the game's difficulty and progression.\
+Mostly, its main direct changes is modifying the level of enemies via encounter zone and spawn difficulty multiplier changes.
+
+What this means is that certain types of dungeons will spawn with enemies being a minimum level, and the difficulty of a spawn has a multiplier on top of that. There is a clear distinction between which type of enemies you can expect to be difficult vs not.\
+Simon words the end result much better than I can:
+
+> The result of these Encounter Zones is that the player is able to combine the freedom of an open world game with the progression you experience in a leveled one. If you’re level 8, you can walk into any Bandit dungeon and know that with good play and a few potions, you’ll be able to complete it. However, if you stumble into a Vampire den, you may want to turn around. However, once you’re closer to level 25, you’ll be able to return and complete the dungeon--in fact, by level 25, you’ll largely be equipped to tackle any encounter in the game.
+
+- 0.75x: Easy
+- 1.00x: Normal
+- 1.25x: Hard
+- 1.50x: Very Hard
+
+- Level 05: Bandits 
+- Level 10: Draugr, Animals, Spriggans
+- Level 15: Mages, Forsworn
+- Level 20: Falmer, Dwarves, Giants, Dragon Lairs
+- Level 25: Vampires
+- Level 30: Dragon Priest Dungeons, Daedra 
 
 # Survival, Inns, and Fast Travel
 ---
