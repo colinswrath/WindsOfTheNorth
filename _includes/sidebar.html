@@ -43,14 +43,11 @@
     </div>
   </div>
 
-  <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-  <script src='{{ site.baseurl }}/public/{{ site.version }}/js/script.js'></script>
+  <label for="sidebar-checkbox" class="sidebar-toggle" tabindex="-1"></label>
 
 </div>
 
 <script>
-  // Set the checkbox state based on localStorage before the page renders
   (function() {
     var checkbox = document.getElementById('sidebar-checkbox');
     var storageCheckbox = localStorage.getItem('sidebar-checkbox');
