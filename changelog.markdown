@@ -88,7 +88,8 @@ h2,h3,h4,h5 {
  - Housecarls Pre-Thaneship
  - Additional Music
  - Knotwork
-
+ - Hunters not Bandits
+ 
 ### Added
 
  - QuickLoot IE

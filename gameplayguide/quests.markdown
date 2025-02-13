@@ -206,6 +206,46 @@ Another important mod for re-leveling quests is "Radiant Requirements" by Parape
 In addition to the changes mentioned above, there are a number of new quests and locations in Winds of the North.\
 Below I will detail how exactly to start these new quests. 
 
-Wyrmstooth:
 
-TODO - Finish this part dood, Quit being lazy
+<div class="centerdiv">
+    <table style="width: 50%;">
+    <thead>
+        <tr>
+        <th>Quest</th>
+        <th>Requirementsa</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="color:rgb(149, 80, 228);">
+            <td>Extended Cut - Saints and Seducers</td>
+            <td>
+                Complete "Mind of Madness"
+                <br>
+                level 20
+            </td>
+        </tr>
+        <tr style="color:rgb(80, 161, 228);">
+            <td>Wyrmstooth</td>
+            <td>Complete "Rise in the East"</td>
+        </tr>
+        <tr style="color:rgb(80, 127, 228);">
+            <td>Siege at Icemoth</td>
+            <td>Read a journal at the Old Wooden Jetty, just west of Northwatch Keep</td>
+        </tr>
+        <tr style="color:rgb(80, 228, 100);">
+            <td>Taarengrav Barrow</td>
+            <td>
+                The barrow is available at any time in the western rift.
+                <br>
+                As a draugr dungeon, enemies will start at level 10
+            </td>
+        </tr>
+        <tr style="color:rgb(228, 80, 80);">
+            <td>Morthal Barrow</td>
+            <td>
+                Morthal Barrow is available at any time, but I suggest being at least level 25, as its a vampire dungeon.
+            </td>
+        </tr>
+    </tbody>
+    </table>
+</div>
