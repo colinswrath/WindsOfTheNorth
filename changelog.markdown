@@ -15,9 +15,9 @@ h2,h3,h4,h5 {
 
 </style>
 
-![](https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k.png)
+![](images/WindsofTheNorthLogo2k.png)
 
-- [2.0.9](#209)
+- [2.0.9](#209) February 14 2025
 - [2.0.8](#208) January 17 2025
 - [2.0.7](#207) December 20 2024
 - [2.0.6](#206) December 9 2024
@@ -65,10 +65,6 @@ h2,h3,h4,h5 {
 
 <hr class="thin-hr">
 
-### Misc
-
- - 
-
 ### Bug Fixes
 
  - Fixed a bug that could cause the player to get downed on death instead of killed.
@@ -82,14 +78,17 @@ h2,h3,h4,h5 {
 ### Updated
 
  - Community Shaders
- - CS Light
+ - CS Lights
  - NPCs Take Cover
  - Optional Quick Start - SE
  - Housecarls Pre-Thaneship
  - Additional Music
  - Knotwork
  - Hunters not Bandits
- 
+ - Container Distribution Framework
+ - Elven Supremacy - Currency Swapper for Thalmor
+ - Morrowind Mint
+
 ### Added
 
  - QuickLoot IE

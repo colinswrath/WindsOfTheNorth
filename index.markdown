@@ -202,3 +202,7 @@ There are also many other mods that touch up the game in all sorts of ways, from
 <div class="centerdiv">
     <img alt="" src="public/screenshots/dragonsreach.png" style="width: 100%;" class="dropshadow responsive-img">
 </div>
+
+<div class="centerdiv">
+    <img alt="" src="public/screenshots/mage.png" style="width: 100%;" class="dropshadow responsive-img">
+</div>
