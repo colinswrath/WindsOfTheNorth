@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<style>
+  body.has-background {
+    background-image: url('{{ site.baseurl }}/{{ page.background_image_url }}');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .logo-container {
+    position: relative;
+    display: block;
+    width: fit-content;
+  }
+
+  .logo-container .background-image {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+  }
+
+  .logo-container img:not(.background-image) {
+      position: relative;
+      z-index: 1;
+  }
+</style>
+
+  {% include head.html %}  
+  <body class="{% if page.background_image %}has-background{% endif %}">
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          {% if page.title_background_image %}
+            <img alt="Background Image" class="background-image">
+          {% endif %}
+
+          {% unless page.disable_title_header %}
+            <img src="{{ site.baseurl }}/public/LogoHeader.png" alt="Site Title Image">
+          {% endunless %}
+
+        </div>
+      </div>
+
+      <div class="container content borderbox">
+        {{ content }}
+      </div>
+    </div>
+    <script src='{{ site.baseurl }}/public/{{ site.version }}/js/script.js'></script>
+  </body>
+</html>

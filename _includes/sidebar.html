@@ -1,0 +1,65 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<div class="sidebar-overlay">
+
+  <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked="false">
+  
+  <!-- Toggleable sidebar -->
+  <div class="sidebar" id="sidebar">
+    <div class="sidebar-item">
+      <p>{{ site.description }}</p>
+    </div>
+    
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+      <a class="sidebar-nav-item{% if page.title == 'Installation Guide' %} active{% endif %}" href="{{ '/installation' | relative_url }}">Installation</a>
+      <a class="sidebar-nav-item{% if page.title == 'Gameplay Guide' %} active{% endif %}" href="{{ '/gameplayguide' | relative_url }}">Gameplay Guide</a>
+      <ul class="sidebar-subnav">
+        <a href="{{ '/gameplayguide/creatingyourcharacter' | relative_url }}">
+          <li class="sidebar-subnav-item{% if page.title == 'Creating Your Character' %} active{% endif %}" >Creating Your Character</li>
+        </a>
+        <a href="{{ '/gameplayguide/leveling' | relative_url }}">
+          <li class="sidebar-subnav-item{% if page.title == 'Leveling' %} active{% endif %}" >Leveling</li>
+        </a>
+        <a href="{{ '/gameplayguide/coregameplay' | relative_url }}">
+          <li class="sidebar-subnav-item{% if page.title == 'Core Gameplay Changes' %} active{% endif %}" >Core Gameplay</li>
+        </a>
+        <a href="{{ '/gameplayguide/quests' | relative_url }}">
+          <li class="sidebar-subnav-item{% if page.title == 'Quests And New Content' %} active{% endif %}" >Quests</li>
+        </a>
+        <a href="{{ '/gameplayguide/creationclub' | relative_url }}">
+          <li class="sidebar-subnav-item{% if page.title == 'Creation Club Integration' %} active{% endif %}" >Creation Club</li>
+        </a>
+      </ul>
+      <a class="sidebar-nav-item{% if page.title == 'Support' %} active{% endif %}" href="{{ '/support' | relative_url }}">Support</a>
+      <a class="sidebar-nav-item{% if page.title == 'Changelog' %} active{% endif %}" href="{{ '/changelog' | relative_url }}">Changelog</a>
+      <span class="sidebar-nav-item">{{ site.version }}</span>
+    </nav>
+  
+    <div class="sidebar-item">
+      <p>
+        &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      </p>
+    </div>
+  </div>
+
+  <label for="sidebar-checkbox" class="sidebar-toggle" tabindex="-1"></label>
+
+</div>
+
+<script>
+  (function() {
+    var checkbox = document.getElementById('sidebar-checkbox');
+    var storageCheckbox = localStorage.getItem('sidebar-checkbox');
+    if (storageCheckbox === 'unchecked') {
+      localStorage.setItem('sidebar-checkbox', 'unchecked');
+      checkbox.checked = false;
+    } else if (storageCheckbox === 'checked') {
+      localStorage.setItem('sidebar-checkbox', 'checked');
+      checkbox.checked = true;
+    } else {
+      localStorage.setItem('sidebar-checkbox', 'unchecked');
+      checkbox.checked = false;
+    }
+  })();
+</script>
