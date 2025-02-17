@@ -36,3 +36,12 @@ Please open a report under the support channel in the [Lost Outpost Discord serv
 
 **Fix:** Its very likely that you have skipped installation step for Visual C++ Redistribution Package.\
 It can be found here: [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+
+## "Unable to download Data_ccbgssse037-curios"
+
+1. Navigate to your Steam Skyrim Data folder
+2. Within the data folder, delete the 2 curios files "ccbgssse037-curios.bsa" and "ccbgssse037-curios.esl"
+3. Launch Skyrim through Steam and click the Creations button on the main menu
+4. Find and download the Rare Curios CC files
+5. Exit the game
+6. Rerun the Wabbajack installer
