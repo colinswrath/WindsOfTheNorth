@@ -212,7 +212,7 @@ Below I will detail how exactly to start these new quests.
     <thead>
         <tr>
         <th>Quest</th>
-        <th>Requirementsa</th>
+        <th>Requirements</th>
         </tr>
     </thead>
     <tbody>
