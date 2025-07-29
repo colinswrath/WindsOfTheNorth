@@ -224,10 +224,6 @@ Below I will detail how exactly to start these new quests.
                 level 20
             </td>
         </tr>
-        <tr style="color:rgb(80, 161, 228);">
-            <td>Wyrmstooth</td>
-            <td>Complete "Rise in the East"</td>
-        </tr>
         <tr style="color:rgb(80, 127, 228);">
             <td>Siege at Icemoth</td>
             <td>Read a journal at the Old Wooden Jetty, just west of Northwatch Keep</td>
@@ -243,7 +239,7 @@ Below I will detail how exactly to start these new quests.
         <tr style="color:rgb(228, 80, 80);">
             <td>Morthal Barrow</td>
             <td>
-                Morthal Barrow is available at any time, but I suggest being at least level 25, as its a vampire dungeon.
+                Morthal Barrow is available at any time, but I suggest being at least level 25 as its a vampire dungeon.
             </td>
         </tr>
     </tbody>

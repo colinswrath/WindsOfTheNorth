@@ -45,3 +45,7 @@ It can be found here: [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x6
 4. Find and download the Rare Curios CC files
 5. Exit the game
 6. Rerun the Wabbajack installer
+
+## "Game hangs up at compiling shaders when launching"
+
+This list includes "Community Shaders". These shaders do not support intel integrated graphics. If you are not using an Nvidia, AMD, or Intel ARC gpu then you need to disable all mods under the "Shaders" separator.

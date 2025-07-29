@@ -113,16 +113,24 @@ These steps are only required for installing the Modlist for the first time.
  
 Downloading and installing Winds of the North can take a while depending on your internet connection and computer. To install Winds of the North, complete the following steps.
 
-- Open Wabbajack and click `Browse Modlists`. Be sure to click the `Show Unofficial Lists` checkbox at the top of the Wabbajack UI.\
-- Press the download button on Winds of the North and wait for it to download.
+- Open Wabbajack and click `Browse Modlists`.
+- Search for "Winds of the North", then click on the list when it shows up.
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img alt="" src="../assets/siteImages/WotnInstallSearch.png" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
+</div>
+
+- Press the install button on Winds of the North.
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img alt="" src="../assets/siteImages/WotnInstallWJ.png" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 
+- After clicking the install button as instructed above, a new screen will appear where you can choose the download and install locations.
+
 - Set the installation folder to be somewhere like C:\Games\Winds of the North. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
 > The download location does not need to be on a SSD, but it makes installing faster.
-- Press the play button to begin.
+- Click the install button in the lower right-hand corner to begin installing the list.
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img alt="" src="../assets/siteImages/WotnWJDownload.png" width="70%" style="margin-right: 0.5%;" class="dropshadow responsive-img">
