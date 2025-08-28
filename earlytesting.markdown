@@ -45,6 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
 </div>
 
 [Winds of the North - 3.0.0 Alpha 1](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0a1/Winds.of.the.North.wabbajack)
+[Winds of the North - 3.0.0 Alpha 2](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0a2/Winds.of.the.North.wabbajack)
 
 ## How to Install
 
@@ -87,6 +88,57 @@ I will list these here to assist in focusing testing efforts.
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-3.0.0.png)
+
+# 3.0.0 Alpha 2
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+ - This update is not save safe from 3.0.0 Alpha 1. This is because I had to regenerate LOD. 
+
+## Patch Notes
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+ - Skylighting CS module has been disabled by default, but still included in the list as an optional enable
+ - SSGI (AO only) remains on for its improved AO. 
+ - Fixed some errors with Misc Bugfix Compilation and USSEP
+ - Fixed an issue where the Dremora bosses in the Deadlands did not have any weapons
+
+## Changes (from previous 3.0.0 alpha version)
+
+### Updated
+
+ - QuickLoot IE Vanilla Skin - Updated for QLIE 3.3.0 and above
+ - Community Shaders
+ - Light Limit Fix
+ - Inverse Square Lighting
+ - Vittorias Alternate Wedding
+ - Light Placer
+ - Unofficial Skyrim Special Edition Patch
+ - Andrealphus' Papyrus Functions
+ - Bring Meeko To Lod
+ - The Gildergreen Grows
+ - Imperial Armors and Weapons Retexture SE
+ - Load Screen Shading Fix
+ - Mundus - A Standing Stone Overhaul
+ - Blade and Blunt - A Combat Overhaul
+ - Skyrim Misc Bugfix compilation
+
+
+### Added
+
+ - Terrain Variation
+ - Sky Sync
+ - Cloud Shadows
+ - Fancy Fishing
+ - Vanilla Style UI for Fancy Fishing
+ - Load Screen Shading Fix: Optional Purple Argonian Barkeep
+ - See Through Portals and Oblivion Gates
+ - Terrain Blending
 
 # 3.0.0 Alpha 1
 
