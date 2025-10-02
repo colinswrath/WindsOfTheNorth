@@ -6,8 +6,9 @@ background_image: true
 background_image_url: public/backgrounds/riften.png
 ---
 
-<div class="midmargin">
-This page is where you may find pre-releases of Winds of the North. Please be sure to read the disclaimer below before downloading and playing any pre-release.
+<div class="centerdiv">
+This page is where you may find pre-releases of Winds of the North.
+Please be sure to read the disclaimer below before downloading and playing any pre-release.
 <br>
 
 </div>
@@ -18,10 +19,10 @@ This page is where you may find pre-releases of Winds of the North. Please be su
   <hr class="thin-hr">
 </div>
 
-Before going any futher, there are a few very important things to keep in mind.
+Before going any futher, please read the following disclaimer:
 
-- Disclaimer: Any versions of the modlist linked on this page are TEST VERSIONS. You may encounter bugs. you may encounter issues. Pre-releases are not intended for very long term stable use.
-- The purpose of these pre-releases is to assist with identifying any issues ahead of a full release, hopefully resulting in releases that contain fewer glaring bugs and issues.
+- Any versions of the modlist linked on this page are TEST VERSIONS. You may encounter bugs. You may encounter issues. Pre-releases are not intended for very long term stable use.
+- The purpose of these pre-releases is to assist with identifying any issues ahead of a full release. My hopeis that this brings polished full releases that contain fewer glaring bugs and issues.
 - I cannot guarantee that any save made on a pre-release of the modlist will be compatible with the future full release or other pre-releases. You should assume that saves will not be compatible with the next release unless I state otherwise here on this page.
 - Please keep in mind that any information outside of this page may not hold true for pre-releases. ie. Details on the Creation Club Integration page, or the gameplay guide will only ever be correct for full releases.
 - Finally, please do not modify pre-releases. These are meant to help identify bugs and other issues with the list. They are not intended for long term play. Its a waste of my time, and yours, to install other mods on top of a pre-release and then make posts reporting issues. 
@@ -48,15 +49,18 @@ You should open a support post there detailing as much about the bug as you can.
 
 [Winds of the North - 3.0.0 Alpha 2](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0a2/Winds.of.the.North.wabbajack)
 
+[Winds of the North - 3.0.0 R.C. 1](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0rc1/WindsoftheNorth.wabbajack)
+
+
 ## How to Install
 
 <div class="centerdiv">
   <hr class="thin-hr">
 </div>
 
-Because this is an early test version, its not the same version that you would get directly through the Wabbajack UI.
+Because these are early test versions, its not the same list that you would get directly through the Wabbajack UI.
 
-You can install this test version by following the steps below:
+You can install test versions by following the steps below:
 
 1. Download the test version linked above.
 2. If you don't have Wabbajack installed, download it [here](https://www.nexusmods.com/site/mods/403) and install it. Otherwise, open Wabbajack.
@@ -74,8 +78,6 @@ You can install this test version by following the steps below:
 </div>
 
 Beyond looking for general bugs and the like, there are a few things that I am specifically looking to test. 
-<br>
-I will list these here to assist in focusing testing efforts.
 
 - Wedding locations with destination weddings
 - The Civil Questline. Specifically the fort takover quests.
@@ -89,6 +91,108 @@ I will list these here to assist in focusing testing efforts.
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-3.0.0.png)
+
+# 3.0.0 RC 1
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+### Key Info
+
+ - This update is NOT Save-Safe with previous alphas:
+ - I did want to keep this version save compatible with the previous alpha version, but I was unable to do so for a few reasons. I do not want to make any compromises on the full 3.0.0 release.
+   - I removed Staff of Hasedoki Creation. To be honest, I thought I had already done this.
+   - The esl cell edit bug was fixed properly by Engine Fixes. Support for Myrwatch TnE has transitioned to using that fix instead of the workaround mod that it used to depend on. This is a safe unsafe change, but best in the long run.
+   - Please do keep in mind these test versions were meant for this kind of thing. They were not intended for long term play as the disclaimer says on this page. While I have put some effort into attempting to make these test versions save safe when I can, I will not put off important updates to make an alpha or RC save safe (I only do this for full releases).
+
+ - Given that the update was save unsafe now anyway, I took the opportunity to make a few adjustments. 
+   - In earlier alphas of WotN 3.0.0, Wyrmstooth and some other content mods were removed because I wanted the list to focus on providing a more cohesive and polished experience rather than provide lots of extra content. As development on 3.0.0 has gone on and I have inched closer and closer to that goal, I found it counterintuitive that Siege at Icemoth and the dungeon mods remained in the list. As much as I like them, they have been removed.
+
+
+## Upscaling
+
+   - A very large and welcome change has been the addition of the latest version of Community Shaders, which now has upscaling and frame generation. 
+     - After some rigerous testing on multiple different systems on my part, I have landed on the default settings of DLSS/FSR quality and frame gen OFF.  
+  - If you would like to configure these settings you can press the "End" key. The CS menu should show up, and then you can navigate to the "Upscaling" option on the sidebar to change settings.
+    - DLAA/FSR-AA is more taxing than using DLSS/FSR quality or TAA. However, it tends to look quite a bit better, especially FSR-AA vs FSR quality.
+    - For some people, TAA may perform much better than even DLSS. I believe this can happen when you are CPU bound instead of GPU bound.
+    - Feel free to enable Frame Gen if you need to. In my experience it has worked decently well. There is a little input lag. You may also get some slight ghosting in some situations, like looking at running water. However, if you need the performance then I think its very much worth it.
+    - Everyone's system is different. Play around with the settings if you want and choose what works best for you.
+  - Unfortunately, it doesn't look like I can specify a default sharpness value in the CS settings for the list. I use a sharpness value of 0.0 with DLSS. FSR defaults to a sharpness of 1.0 (on a scale of 0 to 1.0) and I think that is way to much. I find I get best results with a sharpness value of either 0 or 0.1 with FSR-AA, and maybe 0.3 with FSR quality.
+  
+
+## Patch Notes
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+### Bug Fixes
+
+ - Fixed a problem where many lights were extra bright and bloomy
+ - Fixed an issue where the dragonclaws were still showing up on player's body when in inventory
+ - In my quest to address issues with extremely over-leveled dragons, I have adjusted the most common dragon encounter to spawn at (hopefully) lower levels. Ideally, you should now encounter standard dragons that are at most about 10 levels higher than you, rather than running into level 75 dragons when you’re around level 40. I am still working to pinpoint exactly why this was happening, but I’m hoping this change will do the trick.
+
+ - I have overhauled the armor equipping system from Horse Whistle key to use misc items instead of armor items, like how Press H to Horse works. When you place them in your horse's inventory they should equip the corresponding armor. This will fix a couple of problems that were present in the normal armor system from Horse Whistle Key like being able to equip horses armor on yourself.
+ - You now need the Basic Smithing perk to create Steel Horse armor
+ - You now need the Rare Smithing perk to create Elven Horse Armor
+
+## Changes (from previous 3.0.0 alpha version)
+
+### Updated
+
+ - Description Framework
+ - powerofthree's Tweaks7
+ - Skyrim Misc Bugfix Compilation
+ - SSE Engine Fixes (skse64 plugin)
+ - Elven Armors and Weapons Retexture SE
+ - Mysticism (from simonrim discord)
+ - Adamant (from simonrim discord)
+ - Blade and Blunt (from simonrim discord)
+ - Hand to Hand (from simonrim discord)
+ - Photo Mode
+ - Thalmor Don't Report To Stormcloaks
+ - Magic Fixes and Tweaks SKSE
+ - Masterwork
+ - Skyrim Misc Bugfix Compilation
+ - Community Shaders
+ - Wetness Effects - Community Shaders
+ - Subsurface Scattering - Community Shaders
+ - Screen Space Shadows - Community Shaders
+ - Screen Space Global Illumination (SSGI) - Community Shaders
+ - Grass Collision - Community Shaders
+ - Skylighting - Community Shaders
+ - Terrain Variation - Community Shaders
+ - Spell Knight Armors Retexture SE
+ - Unique Armors and Weapons Retexture SE
+ - Simplicity of Sea (Formerly known as Water Mod)
+ - Steel Armors and Weapons Retexture SE
+ - Mysterium Xarxes
+
+### Added
+
+ - Scion - Custom I4 Icons
+ - Upscaling - Community Shaders
+
+### Removed
+
+ - Chapter 2 - Jeremey Soule Inspired Music
+ - The Northern Diaries
+ - Winds of the North - Music Merge
+ - Staff of Hasedoki CC (I honestly thought I had already removed it in earlier 3.0.0 alphas)
+ - Myrwatch - Editable Home Cells (Cell Bug Workaround) 
+ - Light Limit Fix (now integrated into the main CS mod)
+ - Magic Fixes and Tweaks SKSE
+ - Siege at Icemoth
+ - Morthal Barrow
+ - Morthal Barrow - SImonrim Patch
+ - Mementos - Morthal Barrow
+ - Taarengrav Barrow
+ - Mementos - Taarengrav Barrow
+ - Extended Encounters
+ - Extended Encounters - Settings Loader
+ - Extended Encounters and Pilgrim - Vigilants Hunt True Daedra Worshippers
 
 # 3.0.0 Alpha 2
 
