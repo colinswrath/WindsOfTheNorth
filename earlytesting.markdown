@@ -107,7 +107,7 @@ Beyond looking for general bugs and the like, there are a few things that I am s
    - Please do keep in mind these test versions were meant for this kind of thing. They were not intended for long term play as the disclaimer says on this page. While I have put some effort into attempting to make these test versions save safe when I can, I will not put off important updates to make an alpha or RC save safe (I only do this for full releases).
 
  - Given that the update was save unsafe now anyway, I took the opportunity to make a few adjustments. 
-   - In earlier alphas of WotN 3.0.0, Wyrmstooth and some other content mods were removed because I wanted the list to focus on providing a more cohesive and polished experience rather than provide lots of extra content. As development on 3.0.0 has gone on and I have inched closer and closer to that goal, I found it counterintuitive that Siege at Icemoth and the dungeon mods remained in the list. As much as I like them, they have been removed.
+   - In earlier alphas of WotN 3.0.0, Wyrmstooth and some other content mods were removed because I wanted the list to focus on providing a more cohesive and polished experience rather than provide lots of extra content. As development on 3.0.0 has gone on, and I have inched closer and closer to that goal, I found it counterintuitive that Siege at Icemoth and the dungeon mods remained in the list. As much as I like them, they have been removed.
 
 
 ## Upscaling
