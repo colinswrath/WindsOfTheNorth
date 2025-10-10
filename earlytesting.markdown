@@ -51,6 +51,8 @@ You should open a support post there detailing as much about the bug as you can.
 
 [Winds of the North - 3.0.0 R.C. 1](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0rc1/WindsoftheNorth.wabbajack)
 
+[Winds of the North - 3.0.0 R.C. 2](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0rc2/WindsoftheNorth.wabbajack)
+
 
 ## How to Install
 
@@ -91,6 +93,88 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-3.0.0.png)
+
+# 3.0.0 RC 2
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+### Key Info
+
+ - A new optional "Expanded" profile has been added to Winds of the North 3.0.0. The expanded profile contains much of the new content that was included in earlier versions of Winds of the North. It has new quests, new lands, music, and more. The default Winds of the North profile still remains the much more thinned down version of the list. 
+ - You can select the profile at the top left of the screen in mo2.
+ - RC 1 saves are compatible with the Default profile only.
+ - Hopefully this should go without saying, but "Expanded" profile saves and "Default" profile saves are not cross compatible with each other.
+ - In addition, the total install size of the list has been reduced to around 92GB or so (down from just at 99ish).
+ - There are some additional small bugfixes and tweaks I am working on, but I did not want to wait any longer to put out the Expanded profile for testing.
+ 
+## Patch Notes
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+### Bug Fixes and Balance Changes
+
+ - Balance Change: Dragons have had their physical and spell damaged reduced by 25%. This combined with the spawn difficulty change in the previous patch should hopefully result in less problematic dragons. They are still going to be hard, and they should be.
+ - Balance Change: The enchanted Telvanni Robes in the Archmage's quarters have been replaced with an unenchanted version.
+ - Balance Change: The extra set of unhooeded Archmage's Robes in the Archmage's quarters has been swapped with an unenchanted version. This should prevent anyone..acquiring them too early 
+ - Balance Change: Partially filled soul gems from YASTM have had their values adjusted to more closely match the standard set by Sorcerer.
+ - Fix: I forgot to forward conflicts from Artificer to the Bow Speed normalization plugin
+ - Fix: There should now be default sharpening values for Community Shaders upscaling (DLSS -> 0.1, FSR -> 0.7)
+ - Fix: The global bloom threshold has been raised by 100 (effectively disabling it). This should get rid of items that are glowing super bright when they shouldnt.
+ - Fix: Crusader Faster is now disabled by default. If you were enjoying it feel free to re-enable.
+ - Fix: Disabled a newer setting in the Engine Fixes ini that I believe was the source of some crashing.
+ - Fix: Graphical issue with ice rocks
+
+## Changes (from previous 3.0.0 RC)
+
+### Updated
+
+ - Community Shaders
+ - Skylighting
+ - Grass Collision
+ - Upscaling
+ - Crash Logger SSE AE VR - PDB support
+ - CS Lights
+ - Survival Mode Improved - SKSE
+
+### Added
+
+Both Profiles
+ - Comprehensive Attack Rate Patch - SKSE
+ - Dragon War - Rebalanced
+
+
+Expanded Profile
+ - Forgotten Seasons
+ - Wyrmstooth
+ - Siege at Icemoth
+ - Morthal Barrow
+ - Taarengrav Barrow
+ - Mementos - Morthal Barrow
+ - Mementos - Taarengrav Barrow
+ - Open for Business - Lawbringer for Fort Icemoth (used for the tweaks)
+ - Unique Red Wave
+ - Wyrmstooth - The Cause Patch
+ - Wyrmstooth - Rare Curios Patch
+ - Wyrmstooth - Mysticism Consistency
+ - Stonehollow Overhaul for Wyrmstooth
+ - Caught Red Handed - Quest Expansion
+ - The Innocence Lost - Quest Expansion
+ - Infiltration - Quest Expansion
+ - The Heart of Dibella - Quest Expansion
+ - The Whispering Door - Quest Expansion
+ - The Only Cure - Quest Expansion
+ - House of Horrors - Quest Expansion
+ - Nilheim - Quest Expansion
+ - Sensible Quest Prerequisites - Rise of Wyrmstooth
+
+### Removed
+
+ - Animated Filled Soul Gems
+ - Animated Filled Soul Gems - Sorcerer Patch
 
 # 3.0.0 RC 1
 
