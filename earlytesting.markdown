@@ -45,13 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 3.0.0 Alpha 1](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0a1/Winds.of.the.North.wabbajack)
-
-[Winds of the North - 3.0.0 Alpha 2](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0a2/Winds.of.the.North.wabbajack)
-
-[Winds of the North - 3.0.0 R.C. 1](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0rc1/WindsoftheNorth.wabbajack)
-
-[Winds of the North - 3.0.0 R.C. 2](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0rc2/WindsoftheNorth.wabbajack)
+[Winds of the North - 3.0.0 R.C. 3](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0rc3/WindsoftheNorth.wabbajack)
 
 
 ## How to Install
@@ -93,6 +87,91 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-3.0.0.png)
+
+# 3.0.0 RC 3
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+### Key Info
+
+ - Skylighting has been re-enabled, and I have tweaked it to turn down how dark it makes things. It is a pretty important CS module, and helps make other features like water effects and dynamic cubemaps better.
+ - Thank you to all those who have been testing and reporting bugs. Special thanks to Aerin who did really thorough testing, reported a lot of bugs, and even provided fixes for some of them.
+ - I am still working through other bug fixes and changes, but I wanted to release the ones I have so far in a more incremental fashion for testing. 
+
+## Patch Notes
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+## Changes (from previous 3.0.0 RC)
+
+### Bug Fixes and Balance Changes
+ 
+ - Removed most of the factional vampire variants that were present. (no more chef, stormcloak, imperial, vigilant, etc vampires)
+ - Balance Change: High level Draugr no longer have Ebony weapons. 
+   - This didn't make much sense lore wise and the abundance of Ebony gear broke the economy. 
+   - Instead, they have been swapped to Honed Ancient Nord weapons, and the formerly Ebony weilding Draugr have been given a version of the corresponding mastery perk from Adamant that gives them a 20% boost to damage. 
+   - This should bring their damage output roughly in line with Ebony except you now dont get cracked loot from them.
+ - Change: Tolfdir now gives you the original enchanted Arch Mage boots with the robes. The un-enchanted boots are in the arch mage quarters.
+ - Change: Several forts should no longer have the orc stronghold icon on them.
+ - Change: Shalidor's Insights scrolls have been updated to be either a 25% magnitude buff (Restoration, Destruction, Illusion) or a 50% duration buff (Alteration, Conjuration) (Plugin provided by Aerin)
+ - Change: A new WIP plugin for Arena has been added that dynamically adjusts the modifier used for hard and very hard spawns to more smoothly maintain their difficulty relative to you. 
+   - For example, lets say you go to a bandit camp in vanilla Arena. Once you become level 10 a very hard enemy may be up to level 15. At level 20 they could be up to level 30. Once you hit level 40 the enemies could theoretically be up to level 60 (there are no level 60 bandits but hopefully you get the point)
+   - As you can see the scaling could quickly grow out of hand. This plugin will adjust the modifier to try to maintain a 10 level gap after level 20.
+ - Fix: Fixed Inverse Kinematics bug with walking (ie, walking down a slope was not causing character's feet/knees/etc to adjust their position)
+ - Fix: When in default profile, all extended profile mods were at the bottom, not in their seperators
+ - Fix: Unicorn horse armor recipes were showing at forge. That has been fixed. (they shouldnt be, there is no unicorn)
+ - Fix: The "Book Door" leading backwards from Chapter V to Chapter IV of Untold Legends was incorrectly listed as leading to Chapter III. (Thanks Aerin for the file)
+ - Fix: Fixed a bug where the Blade of Woe dropped by Astrid in the Abandoned Shack does not have the Artificer enchant. (Thanks again Aerin)
+ - Fix: Fix floating plants outside of Fellglow Keep
+ - Fix: Installed the Dragon War patch for Wyrmstooth (whoopsie)
+ - Fix: There was certain scenarios where dynamically placed lights from magic effects could "flashbang" the player. Since it seems to be some sort of light/shader issue lights on magic effects from CS Lights have been disabled.
+ - Fix: The Hawking Horker now carries Gourmet food items
+ - Fix: Morthal Lairs Wares now carries Gourmet food items
+ - Fix: Fixed a typo in Environs. "You must have head about the vampires." -> "You must have heard about the vampires."
+ - Fix: Morthal Lairs Wares door had no sound when opening 
+ - Fix: The Red Wave wasnt getting swapped for its unique model in Wyrsmtooth
+ - Fix: Attacking the "On the way to the wedding" encounter bodyguard would cause the "Nobles traveling with bodyguard" guard to aggro on sight
+ - Fix: Forwarded a butt load of conflicts in the bow normalization plugin that I somehow missed before.
+ - Fix: Removed the Dissallow Enchanting keyword on the unenchanted archmage boots. The base value has also been lowered.
+ - Fix: Runoff caverns map marker is no longer visible by default (again)
+
+
+### Updated
+
+ - Community Shaders
+ - Skylighting
+ - Grass Collision
+ - Upscaling
+ - Crash Logger SSE AE VR - PDB support
+ - CS Lights
+ - Survival Mode Improved - SKSE
+ - Robber's Gorge Fixes
+ - Light Placer
+ - SkyPatcher
+
+### Added
+
+Both Profiles
+ - Skyrim Freeze Fix
+ (Thank you Aerin for the following plugins)
+ - Artificer - Astrid Blade of Woe Fix
+ - Blood of the Ancients Fix
+ - Fixed Enthir TG Vendor Chest
+ - Mysticism - Sun Spell Fix
+ - Untold Legends - Chapter Door Fix
+ - WotN - Colovian Brandy Consistency
+ - Cannibal Draugr on Solstheim
+ - Shalidor's Insights - Simonrim Integration
+ - Slightly Better Civil War - Reward Tweaks
+
+Expanded
+ - Dragon War - Wyrmstooth Patch
+
+### Removed
 
 # 3.0.0 RC 2
 
