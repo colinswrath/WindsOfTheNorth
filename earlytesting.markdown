@@ -97,6 +97,8 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 
 ### Key Info
 
+ - This RC is save safe with RC3
+ 
 ## Patch Notes
 
 <div class="centerdiv">
