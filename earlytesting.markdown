@@ -45,8 +45,9 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 3.0.0 R.C. 3](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0rc3/WindsoftheNorth.wabbajack)
+[Winds of the North - 3.0.0 R.C. 4](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0rc4/WindsoftheNorth.wabbajack)
 
+[Winds of the North - 3.0.0 R.C. 3](https://github.com/colinswrath/WindsOfTheNorth/releases/download/3.0.0rc3/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
@@ -87,6 +88,75 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-3.0.0.png)
+
+# 3.0.0 RC 4
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+### Key Info
+
+## Patch Notes
+
+<div class="centerdiv">
+  <hr class="thin-hr">
+</div>
+
+## Changes (from previous 3.0.0 RC)
+
+### Bug Fixes and Balance Changes
+
+ - New Feature: In encounter zones higher than your level, the new Arena DLL will limit the evaluated level of hard and very hard spawns to +5 and +10 levels higher than the encounter zone. 
+   - Please note that this does not mean that enemies that are higher level than that can't spawn. Because sometimes entries in leveled lists at X level will have a higher level NPC actually tied to them.
+   - For example, the level 18 list entry for Mikrul Gauldurson is actually a level 24 NPC.
+ - Fix: Actually enabled Skylighting in the Default profile (whoopsie and sorry).
+ - Change: Disabled the bReplaceImports option in Engine Fixes.
+ - Fix: Some of the wardrobes in Wintersand manor (Tundra Homestead) were spawning dozens of black briar mead bottles
+ - Fix: Jonquil's corpse did not have proper template assignment, causing dark face bug
+ - Fix: Vampires had a chance of spawning with hooded robes and a circlet, causing them to appear naked. The jewelry has been limited to rings and necklaces so that should no longer happen
+ - Fix (Expanded profile): You should no longer recieve radiant quests to the Word Walls in Siege At Icemoth
+ - Fix: Fixed an issue with SMI that would cause the health bar to flicker when injured
+ - Fix: Fixed some ownership flags on some soulgems in the Hall of Countenance
+ - Fix: Fixed a bug with Scion where hitting your followers with Vampire's Seduction would break them once the effect went away (Kudos to bressingham for reporting and providing a save file to make this bug easier to track down)
+
+### Updated
+
+ - Community Shaders
+ - Grass Collision
+ - SkyPatcher
+ - Papyrus Tweaks NG
+ - Survival Mode Improved - SKSE
+ - CC Tundra Homestead - Tweaks and Enhancements (THTE)
+ - THTE - CC Fishing Patch
+ - THTE - USSEP Patch
+ - Skyrim Cell load Freeze fix NG
+
+### Added
+
+Both Profiles
+ - Sorcerer - Saints & Sedurcer's Patch
+ - Sorcerer - YASTM + Saints & Seducer's Patch
+ - ECSS - Simonrim Helmet Rebalance
+ - THTE - USSEP Patch
+ - Vanilla Skies Enhanced (Sun and Night Sky upscales)
+ 
+New Optionals for both Profiles
+  - Sovngarde - Mist's Font Replacer (Light)
+  - 12th century Bookfont
+  - Sovngarde - 12th Century Bookfont patch
+
+Expanded
+ - East Empire Company Armor
+ - DEAD - Draugr Enemy Asset Diversity
+ - Draugr Enemy Asset Diversity Bugfix
+
+### Removed
+
+Both Profiles
+ - Light Placer
+ - CS Lights
+
 
 # 3.0.0 RC 3
 
@@ -157,7 +227,6 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 
 Both Profiles
  - Skyrim Freeze Fix
- (Thank you Aerin for the following plugins)
  - Artificer - Astrid Blade of Woe Fix
  - Blood of the Ancients Fix
  - Fixed Enthir TG Vendor Chest
