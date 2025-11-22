@@ -108,7 +108,7 @@ h2,h3,h4,h5 {
 #### Misc List Tweaks
 
  - Updated Mo2 to version 2.5.2
- - The size of the list has been substantially reduced by almost 30 gigabytes.
+ - The size of the list has been substantially reduced
  - Switched Mo2 Theme to vs15 Dark
  - Optimized LOD generation for better performance and size
  - You can now block/bash with a staff (Staff Blocking and Bashing by Asrak)
