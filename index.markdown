@@ -44,7 +44,7 @@ A new Hand to Hand skill has been added, magic is more useful and consistent, pe
 </div>
 
 <div class="midmargin">
-Winds of the North includes several mods that add new lands to explore, new quests to complete, and exciting new dungeons to delve into.
+If you are using the "Expanded" profile, Winds of the North includes several mods that add new lands to explore, new quests to complete, and exciting new dungeons to delve into. The only exception to this is Extended Cut - Saints and Seducers, which is present on both profiles.
 </div>
 
 ### Skyrim Extended Cut - Saints and Seducers
@@ -125,9 +125,9 @@ There are also many other mods that touch up the game in all sorts of ways, from
     </span>
   <br>
   <br>
-  Aside from modified game audio, Winds of the North also includes a custom music mix to breath new like into Skyrim's soundtrack. I am VERY careful when selecting new tracks to add to this mix. 
+  Aside from modified game audio, If you are using the "Expanded" profile, Winds of the North also includes a custom music mix to breath new like into Skyrim's soundtrack. I am VERY careful when selecting new tracks to add to this mix. 
   <br>
-  It is essential to me that new tracks fit in seamlessly with the existing OST. This isn't the kind of list that you will hear Witcher 3 music in.
+  It is essential to me that they fit in seamlessly with the existing OST. You wont be hearing any Witcher 3 music in Winds of the North.
   <br>
   <br>
   <div class="centerdiv">
@@ -135,13 +135,11 @@ There are also many other mods that touch up the game in all sorts of ways, from
   </div>
   <br>
   <br>
-  Music for the mix is mostly from:
+  Music for the mix is from:
   <br>
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/28108">"The Northerner Diaries - Immersive Edition (music by Jeremy Soule)"</a> (the composer for Skyrim)
   <br>
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/37792">"Chapter II - Jeremy Soule Inspired Music"</a> by DreymaComposer
-  <br>
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/80277">"Additional Music"</a> by Leon van der Stadt (the composer that made the Wyrmstooth music)
 </div>
 
 ## More Info

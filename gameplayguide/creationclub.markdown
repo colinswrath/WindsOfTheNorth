@@ -12,14 +12,15 @@ Although Winds of the North requires the Anniversary Edition of Skyrim, not ever
 
 As of version 3.0.0, this list has been narrowed down to a select few curated creations. I'm sure some of you might be asking questions like "If you are going to require the Anniversary Edition, why not just use all of the creations?" or "Why not only use the free creations included with the vanilla game?".
 
-Well, there are a couple of reasons for this. I don't want to just cram in creations because they are available to use. There are some, like the crossbows or alternative armors, that I feel bring a lot of value to the game once they are re-integrated via mods. If I were to only use the free creations, the list would miss out on the benefits that mods like these bring. Some of the other creations feel like they are just kind of there, or even out of place in the context of this modlist. Therefore, I have chosen to integrate only the ones I feel are the most important.
+Well, there are a couple of reasons for this. I don't want to just cram in creations because they are available to use. There are some, like the crossbows or alternative armors, that I feel bring a lot of value to the game once they are re-integrated via mods. If I were to only use the free creations, the list would miss out on the benefits that mods like these bring. Some of the other creations feel out of place in the context of this modlist. Therefore, I have chosen to integrate only the ones I feel are the most important.
 
-- Integration for many of the Creation Club items.
 - Survival Mode has been completely overhauled by "Survival Mode Improved" by...me! and Starfrost by SimonMagus.
 - The Alternative Armors creations have all been integrated into most of the leveled lists by a very heavily modified version of Oreo's [CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/75904)
-- Many of the Creation Club houses have been overhauled to some degree
+- Some of the Creation Club houses have been overhauled to some degree
 - Crossbows are integrated using a combination of "Tamrielic Distribution", "Kachunk", "Thwack" and "Rare Curious Bolts Expanded".
-- "Press H to Horse" overhauls vanilla horses as well as the Creation Club's "Wild Horses" and Horse Armors.
+- "Horse Whistle Key" overhauls vanilla horses as well as the Creation Club's "Wild Horses" and Horse Armors.
+
+> As of 3.0.0, this table is currently being worked on. If something seems incorrect, feel free to ask about it in Discord.
 
 > Items that are labeled as "NOT SUPPORTED" simply means that the creation will not be enabled in the list, but the list still requires the Anniversary Edition content to be installed.
 
@@ -55,15 +56,15 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Chrysamere">Chrysamere</a></td>
-      <td>Original Quest Removed</td>
-      <td>Creation Cave:<br>Chrysamere has been given to Blakull Bullblood, a Forsworn Briarheart guarding the prison tower of Broken Tower Redoubt.</td>
-      <td>Masterwork: Enchantment<br>Your Health is increased by 50, and your Magic Resistance is increased by 25%</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Divine_Crusader">Divine Crusader</a></td>
-      <td>Knight of the North - Divine Crusader Reworked</td>
-      <td></td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Plague_of_the_Dead">Plague of the Dead</a></td>
@@ -89,17 +90,20 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Dwarven_Armored_Mudcrab">Dwarven Armored Mudcrab</a></td>
       <td style="color: #cc4444;">NOT SUPPORTED</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Lord%27s_Mail">Lord's Mail</a></td>
-      <td>Morihaus' Refuge</td>
-      <td>1. The quest involving Redguard thieves has been completely removed.<br>2. A new dungeon, amongst some Ancient Imperial ruins.<br>3. A moderately challenging boss who will use the full force of both their armor and their weapon against you</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Adventurer%27s_Backpack">Adventurer's Backpack</a></td>
-      <td>Schoolsacks of Simonrim - A CC Backpack Overhaul</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Camping">Camping</a></td>
@@ -109,11 +113,12 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Nix-Hound">Nix-hound</a></td>
       <td style="color: #cc4444;">NOT SUPPORTED</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Shadowrend">Shadowrend</a></td>
-      <td>ECSS</td>
+      <td>Extended Cut: Saints and Seducers</td>
       <td>Moved to the Grove of Reflection</td>
     </tr>
     <tr>
@@ -135,7 +140,8 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Pets_of_Skyrim">Pets of Skyrim</a></td>
       <td style="color: #cc4444;">NOT SUPPORTED</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Rare_Curios">Rare Curious</a></td>
@@ -145,17 +151,20 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Bone_Wolf">Bone Wolf</a></td>
       <td style="color: #cc4444;">NOT SUPPORTED</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Staff_of_Hasedoki">Staff of Hasedoki</a></td>
-      <td>Creation Cave</td>
-      <td>The Staff of Hasedoki was once wielded by the Gilgar's of Vvardenfell before being claimed by the Nerevarine. Over the years, it has had many wielders, with the current holder being the Dunmer necromancer Vals Varen.</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Wild_Horses">Wild Horses</a></td>
-      <td>Press H to Horse</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Civil_War_Champions">Civil War Champions</a></td>
@@ -177,15 +186,15 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Saturalia_Holiday_Pack">Saturalia Holiday Pack</a></td>
-      <td>The Gift of Saturalia</td>
-      <td></td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Sunder_and_Wraithguard">Sunder and Wraithguard</a></td>
-      <td>Sunder and Wraithguard - Arniel's Endeavor</td>
-      <td></td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set">Vigil Enforcer Armor Set</a></td>
@@ -200,18 +209,20 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum">Shadowfoot Sanctum</a></td>
-      <td>Homes under the Hammer</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor">Spell Knight Armor</a></td>
-      <td>Warmage of Shornhelm, Swords of the Sanctum</td>
+      <td>Masterwork, Swords of the Southfringe</td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Umbra">Umbra</a></td>
-      <td>Unchanged</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail">Alternative Armors - Dwarven Mail</a></td>
@@ -225,18 +236,20 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Dawnfang_%26_Duskfang">Dawnfang & Duskfang</a></td>
-      <td>Bloodthirst - Creation Cave, CC Dawnfang and Duskfang - No Forced Quest</td>
-      <td>1. Bloodthirst: This bloody sword of the Tsaecsi, once thought lost, has been claimed by the Vampire Ancient Vighar, arisen ancestor of Dengeir of Stuhn.<br>2. Dawnfang/Duskfang quest no longer automatically starts upon entering the ratway</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack">Expanded Crossbow Pack</a></td>
-      <td>CC Crossbows Thaum patch, Kachunk, Thwack, TD</td>
+      <td>CC Crossbows Thaum patch, Kachunk, Thwack</td>
       <td>Crossbows are distributed into the world in a similar fashion as vanilla bows.</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor">Netch Leather Armor</a></td>
-      <td>Morrowind Threads</td>
-      <td>1. Jenessa and Ralis Sedarys start with netch leather<br>2. Netch Leather may spawn on Solstheim instead of normal Leather</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Mail">Alternative Armors - Daedric Mail</a></td>
@@ -265,8 +278,9 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread">Dead Man's Dread</a></td>
-      <td>Pirate's Life for Me</td>
-      <td>Original quest removed. Gear is distributed to various NPCs.</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Goblins">Goblins</a></td>
@@ -281,13 +295,15 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Hendraheim">Hendraheim</a></td>
-      <td>Hendraheim - Tweaks and Enhancements</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:The_Gray_Cowl_Returns!">The Gray Cowl Returns!</a></td>
-      <td>Creation Cave</td>
-      <td>The Gray Cowl has been lost since the end of the Third Era; however, cultists of Nocturnal believe that Her Nightingales have reclaimed the cowl and placed it within the Twilight Sepulcher.</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Plate">Alternative Armors - Daedric Plate</a></td>
@@ -311,7 +327,7 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Leather">Alternative Armors - Leather</a></td>
-      <td>Tamrielic Distribution</td>
+      <td>WotN Custom Distribution</td>
       <td></td>
     </tr>
     <tr>
@@ -331,18 +347,21 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Bittercup">Bittercup</a></td>
-      <td>Creation Cave</td>
-      <td>The Bittercup has been squirreled away by a former follower of Clavicus Vile within Rimerock Burrow; meanwhile, a former champion of the Imperial City Arena has been reduced to a drunken mess of a bandit chief within Lost Knife Cave.</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Bloodchill_Manor">Bloodchill Manor</a></td>
-      <td>Homes under the Warhammer</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Bow_of_Shadows">Bow of Shadows</a></td>
-      <td>Bow of Shadows - Reduced Cut</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Farming">Farming</a></td>
@@ -352,7 +371,8 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Fearsome_Fists">Fearsome Fists</a></td>
       <td style="color: #cc4444;">NOT SUPPORTED</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Fishing">Fishing</a></td>
@@ -362,12 +382,14 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Gallows_Hall">Gallows Hall</a></td>
       <td style="color: #cc4444;">NOT SUPPORTED</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Ghosts_of_the_Tribunal">Ghosts of the Tribunal</a></td>
-      <td>Ghost of the Tribunal - Reduced Cut</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Goldbrand">Goldbrand</a></td>
@@ -376,38 +398,43 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Headman%27s_Cleaver">Headman's Cleaver</a></td>
-      <td>Creation Cave</td>
-      <td>The Headman's Cleaver has been lost since the dissolution of the kingdom of Bloodfall; it has since found its way into the hands of Ghunzul, leader of the Orcish marauders of Cracked Tusk Keep.</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Elven">Horse Armor - Elven</a></td>
-      <td>Press H to Horse</td>
+      <td>Horse Whistle Key</td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Steel">Horse Armor - Steel</a></td>
-      <td>Press H to Horse</td>
+      <td>Horse Whistle Key</td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Nchuanthumz:_Dwarven_Home">Nchuanthumz: Dwarven Home</a></td>
       <td style="color: #cc4444;">NOT SUPPORTED</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Necromantic_Grimoire">Necromantic Grimoire</a></td>
       <td style="color: #cc4444;">NOT SUPPORTED</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Redguard_Elite_Armaments">Redguard Elite Armaments</a></td>
-      <td>Redguard Elite Reintegration</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Staves_(Creation)">Staves</a></td>
-      <td>CC Staves - Mysticism Consistency Patch, Vendor Inventory Adjusted</td>
-      <td></td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td style="color: #cc4444;">NOT SUPPORTED</td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:The_Cause">The Cause</a></td>

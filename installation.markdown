@@ -15,6 +15,7 @@ background_image_url: public/backgrounds/riverwood.png
 - [Post-Installation](#post-installation-info)
   - [Game Folder](#game-folder)
   - [Widescreen Fixes](#widescreen-fixes)
+- [Profile Selection](#profile-selection)
 - [Playing the List](#playing-the-list)
 - [Updating the modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
@@ -35,9 +36,9 @@ The English Steam version of Skyrim is the only supported version.
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version. I highly recommend installing the list on a Solid State Drive, not a traditional HDD.
 
-Downloads: ~50 GB  
-Install: ~70 GB  
-**TOTAL:** ~120 GB  
+Downloads: ~31 GB  
+Install: ~61 GB  
+**TOTAL:** ~92 GB  
 
  > Wabbajack requires some additional space on your main OS drive for temporary and working files during the installation, this space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 
@@ -155,6 +156,20 @@ Winds of the North offers some mods to provide Ultrawide and Widescreen Support.
 
 Should you find yourself lacking in performance, you may trade in some of the list's visual fidelity for performance by disabling the mods under the "shaders" seperator. If you have a support request, just please mention you have done this in the request. 
 Other modifications, such as regenerating LOD, will forfeit support.
+
+# Profile Selection
+---
+
+ - Winds of the North comes with two profiles.
+   - The "default" profile
+     - A streamlined version of the list that no new lands, quests, or music mods (other than ECSS) 
+   - The "Expanded" profile
+     - The expanded profile contains carefully selected new lands, quests, and music mods. (any new music added was very carefully picked to fit with Skyrim's OST)
+
+ - Select the desired profile on the top left of Mod Organizer, then follow the next step to play the list.
+
+ - PS. - This should go without saying, but saves made in one profile are not compatible with the other profile.
+
 
 # Playing the List
 ---
