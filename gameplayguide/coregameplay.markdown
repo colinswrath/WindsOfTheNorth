@@ -54,7 +54,7 @@ These perks will give bonuses such as reduced shout cooldown, increased power, a
 # Crafting Changes
 ---
 
-In Winds of the North, there is a new type of crafting called "Scroll Crafting" and a major overhaul of Staff Enchanting (thanks to <a href="https://www.nexusmods.com/skyrimspecialedition/mods/95196">Sorcerer</a> and <a href="https://www.nexusmods.com/skyrimspecialedition/mods/132680">Staff Enchanting Plus</a>). Cooking has also recieved a major overhaul. 
+In Winds of the North, there is a new type of crafting called "Scroll Crafting" and a major overhaul of Staff Enchanting (thanks to <a href="https://www.nexusmods.com/skyrimspecialedition/mods/95196">Sorcerer</a>). Cooking has also recieved a major overhaul via <a href="https://www.nexusmods.com/skyrimspecialedition/mods/96876">Gourmet</a>. 
 
 ## Scroll Crafting
 
@@ -70,9 +70,9 @@ In Winds of the North, there is a new type of crafting called "Scroll Crafting" 
 </div>
 <br>
 
-In vanilla, the staff enchanting system functioned sort of like a forge. You had preset recipes that you "crafted". Sorcerer and Staff Enchanting Plus allows staff enchanting at the new tables to function like normal enchanting would.
+In vanilla, the staff enchanting system was limited to a single table locked behind DLC content. Sorcerer places staff and scroll enchanting tables at the College of Winterhold (with custom assets), which serves as an interesting "guild service". 
 
-Mage vendors can now sell unenchanted staves. You can take these staves and enchant them at one of the new tables placed around the game world.
+You can use these tables to craft scroll and staff items that were not available for crafting before.
 
 ## Cooking
 
