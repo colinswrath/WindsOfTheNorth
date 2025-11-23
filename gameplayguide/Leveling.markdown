@@ -70,8 +70,8 @@ Crusader is SimonMagus' work-in-progress skill uncapper preset, and it's pretty 
  - You will receive 2 perks for reaching level 5, 10, 15, 20, 25, 30, 35, 40, and 45
  - You will receive 3 perks for reaching level 50
  - Level 50 is the "soft cap" for character level.
- - After level 50 you will gain 1 additional perk point at level 55,60,65,70,75,etc... until level 100
- - The total number of perks you can receive from leveling is 70
+ - After level 50 you will gain no additional perk points
+ - The total number of perks you can receive from leveling is 60 (+2 from Ogma Infinium)
  - You will continue to receive 10 Health, Magicka, or Stamina from levels 51 to 100, based on your choice on level up
  - Level 100 is the "hard cap" for character level. You will no longer receive stat bonuses for leveling up, nor will you recieve perks after level 100
  - The total number of stats you can receive from leveling is 500 (at level 50), and 1000 (at level 100)
