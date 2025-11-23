@@ -153,7 +153,7 @@ There are also many other mods that touch up the game in all sorts of ways, from
 <br>
   If you would like to install Winds of the North, please head to the <a href="./installation">Installation Guide</a> and follow the instructions.
 <br>
-  The full load order library list can be viewed <a href="https://loadorderlibrary.com/lists/winds-of-the-north-2-0-0">"here"</a>.
+  The full load order library list can be viewed <a href="https://loadorderlibrary.com/lists/winds-of-the-north-3">"here"</a>.
 </div>
 
 <div class="centerdiv">
