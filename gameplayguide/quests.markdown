@@ -23,11 +23,23 @@ The largest of these mods is the Arena - Quest Requirements Addon.\
 This mod alters the required starting level for many quests in the game to align better with Arena's encounter zones.
 > Arena Quest Requirements is a work-in-progress mod by SimonMagus616 and DeltaRider. Do not redistribute this mod without explicit permission
 
+## Elite Sellsword
+This mod adjusts the starting level of "In My Time of Need", as well as re-integrating the Elite Sellsword armor into the game
+
+
+## Quest Levels
+
+> Below are the details of quests that have had their starting levels altered from the vanilla game
+
 <div class="centerdiv">
 <table style="width: 70%;">
     <tr>
         <th>Quest</th>
         <th>Level</th>
+    </tr>
+    <tr style="color: #cc4444;">
+        <td>In My Time of Need</td>
+        <td>15</td>
     </tr>
     <tr style="color: #cc4444;">
         <td>Hearthfire Letter</td>

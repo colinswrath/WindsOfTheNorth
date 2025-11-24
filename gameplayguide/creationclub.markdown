@@ -426,9 +426,9 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Redguard_Elite_Armaments">Redguard Elite Armaments</a></td>
-      <td style="color: #cc4444;">NOT SUPPORTED</td>
-      <td style="color: #cc4444;">NOT SUPPORTED</td>
-      <td style="color: #cc4444;">NOT SUPPORTED</td>
+      <td>Elite Sellsword - Redguard Elite Armaments Rebalance and Reintegration</td>
+      <td>Gear has been rebalanced and distributed into the quest "In My Time of Need", which now starts at level 15</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Staves_(Creation)">Staves</a></td>
