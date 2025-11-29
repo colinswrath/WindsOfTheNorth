@@ -13,6 +13,13 @@ There is lots of new content to explore, carefully curated in game music, Creati
 I have tried my best to make a list that I feel is consistent, challenging, and fun to play.
 </div>
 
+<br>
+If you are interested in seeing what the modlist looks like, feel free to check out my playthrough series where I am working on a 100% completion run of the modlist. Otherwise, you can continue reading for more information.
+
+<div class="centerdiv">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=uMF3hdBMxfF_t105&amp;list=PLQUNbK_oSRkVVGyOEHrEPPgfGTSECkiD7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## What to Expect
 ---
 

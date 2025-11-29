@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k.png)
 
+- [3.0.1](#301) November 28 2025
 - [3.0.0](#300) November 22 2025
   - [3.0.0 Release Candidate 4](#300-rc-4)
   - [3.0.0 Release Candidate 3](#300-rc-3)
@@ -59,6 +60,58 @@ h2,h3,h4,h5 {
 - [1.0.0](#100) March 8 2024
 
 ---
+
+# 3.0.1
+
+### Key Info
+ - This update is save safe with 3.0.0+
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Character lighting has been disabled
+
+### Bug Fixes
+
+ - Fix: Fixed an issue where Stormcloak weapons were visible during the intro scene
+ - Fix: Fixed an issue where sneak attack killmoves could still happen (one of the moves in the disable killmoves mod weren't conditioned off correctly)
+ - Fix: I THINK I fixed the issue with the IED profile not sticking upon creating a new game. 
+     - This was hard for me to diagnose on my end in the first place, which makes it hard to test as well. 
+     - I think this would only work for new saves. For existing saves, I think you will still need to import the default profile to get it to stick (press backspace -> import -> default -> ok)
+ - Fix: Added a patch for Misc Bugfix Compilation and Thaumaturgy so that new Thaumaturgy Stalhrim Gauntlets and Bracers share the mesh changes from Misc Bugfix Compilation
+
+## Mod Changes
+
+### Updated
+
+ - Perk Entry Point Extender
+ - Use or Take SKSE
+ - Death Idle Fix
+ - Skyrim Misc Bugfix Compilation
+ - Simple Immersive Civil War Soldiers
+ - Regional Sounds Expansion (SRD - Wilds Dungeons Towns Ambience Birds - Fixes)
+ - ImGui Icons
+ - Simplicity of Snow
+ - Saints and Seducers Retexture SE
+ - powerofthree's Papyrus Extender
+ - Fishermen Fish
+ - Optional Quick Start - SE
+
+Expanded
+ - Siege at Icemoth
+
+### Added
+
+ - Vanilla CS
+ - XP32 True Ragdoll Physics
+
+### Removed
+
+ - Twilight
+ - True Storms - Cut (Vanilla CS handles this)
 
 # 3.0.0
 
