@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k.png)
 
+- [3.0.2](#302) December 4 2025
 - [3.0.1](#301) November 28 2025
 - [3.0.0](#300) November 22 2025
   - [3.0.0 Release Candidate 4](#300-rc-4)
@@ -58,6 +59,84 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+---
+# 3.0.2
+
+### Key Info
+
+ - This update is save safe with 3.0.0+
+ - When loading a save it will inform you a couple of plugins are missing. That is okay in this case, just hit yes to continue playing
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Hid all executables in the mo2 UI except for SKSE (the one you'd want to launch the game with)
+ - There were a couple of issues with interior lighting that I noticed. 
+   - One was Relighting Skyrim indirectly causing odd darkness issues 
+   - Using the CS Tonemapper (Vanilla CS needs it) was causing inconsistencies in interiors
+   - Both problems could mostly be addressed by replacing relighting Skyrim with Skyrim is Luminous (The lighting mod I used in Winds of the North up until version 2) so thats what I am doing for now. 
+   - I may eventually work on my own interior imagespace adjustments to try to conform better to vanilla visuals with the CS Tonemapper, but for now this is the best solution and still quite "Vanilla+".
+ - Add an optional plugin to remove copyright music. Apparently Northern Diaries music being detected in your video will get it copywrite claimed. If you make youtube videos or stream turn this on. Load order does not matter.
+ - Enchanting now has a perk called Overcharge (conduit is no longer an enchanting perk). Overcharge increases the damage and cost of staves if you have an empty offhand. This is meant to be paired with the staff blocking mod in Winds of the North.
+ - The ini files have been reworked/reorganized based off of BethIni PIE medium with some tweaks to ensure I maintained the performance that we had before (Thanks D1ZASTR). My brief testing of frame times indicates it should actually be a bit better on performance, if only marginally. Below are the changes according to BethIni PIE output
+   - **Decals – uMaxDecals:** 1000 → 100  
+   - **Decals – uMaxSkinDecals:** 100 → 35  
+   - **Display – bUse64bitsHDRRenderTarget:** 0 → 1  
+   - **Display – fMeshLODLevel1FadeDist:** 99999 → 8192  
+   - **Display – fMeshLODLevel1FadeTreeDistance:** 2844 → 8192  
+   - **Display – fMeshLODLevel2FadeDist:** 99999 → 4096  
+   - **Display – fMeshLODLevel2FadeTreeDistance:** 2048 → 4096
+   - **Display – fTreesMidLODSwitchDist:** 999999999 → 8192  
+   - **Display – iMaxDecalsPerFrame:** 100 → 60  
+   - **Display – iMaxSkinDecalsPerFrame:** 25 → 35  
+   - **Display – iNumFocusShadow:** 4 → 2
+   - **Display – fDynamicDOFBlurMultiplier:** 0.5000 → 0.5  
+   - **Display – fGamma:** 1.0 → 0.96
+   - **Grass – iGrassStartFadeDistance:** 8000 → 7000
+   - **LOD – fLODFadeOutMultActors:** 30 → 18 
+   - **LOD – fLODFadeOutMultItems:** 15 → 5  
+   - **LOD – fLODFadeOutMultObjects:** 30 → 17  
+   - **MAIN – fSkyCellRefFadeDistance:** 150000 → 261244  
+   - **MAIN – fHUDOpacity:** 1.0000 → 1.0  
+   - **TerrainManager – fBlockLevel0Distance:** 60000 → 53248  
+   - **TerrainManager – fBlockLevel1Distance:** 81000 → 81920  
+   - **TerrainManager – fBlockMaximumDistance:** 250000 → 262144  
+   - **TerrainManager – fSplitDistanceMult:** 1.5000 → 1.0 
+   - **Controls – fMouseHeadingSensitivity:** 0.0220 → 0.022  
+   - **Interface – fMouseCursorSpeed:** 1.0000 → 1.0  
+
+### Bug Fixes
+
+ - Fix: Fixed dark fog in Sovengarde (Thanks Bottle)
+ - Fix: Some Audio Overhaul spell sounds were being reverted to vanilla due to conflicts with Deadly Spell Impacts
+ - Fix: NPCs you are following should now walk/run the same speed as you
+ - Fix: When choosing the quick start, you should no longer start with a bunch of items on your player 
+
+## Mod Changes
+
+### Updated
+
+ - CC Farming - Tweaks Enhancements and Quest Expansion
+ - Actor Value Generator
+ - SkyPatcher
+ - Ancient Nord Armors and Weapons Retexture SE
+ - Unarmed Behaviors Expanded
+
+### Added
+
+ - Skyrim is Luminous
+ - Geirmund's Hall Pull Chain
+ - Lexicon SKSE
+ - Durak's Crossbow Conversation 2 RETRIBUTION - The Player Has Seen a Crossbow Before
+
+### Removed
+
+ - Relighting Skyrim
+ - WotN - Relighting Skyrim Patch
 
 ---
 
