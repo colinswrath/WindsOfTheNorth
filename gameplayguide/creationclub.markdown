@@ -174,7 +174,7 @@ Well, there are a couple of reasons for this. I don't want to just cram in creat
     </tr>
     <tr>
       <td><a href="https://en.uesp.net/wiki/Skyrim:Elite_Crossbows">Elite Crossbows</a></td>
-      <td>CC Crossbows Thaum patch, Kachunk, Thwack, TD</td>
+      <td>CC Crossbows Thaum patch, Kachunk, Thwack</td>
       <td>Crossbows are distributed into the world in a similar fashion as vanilla bows.</td>
       <td></td>
     </tr>
