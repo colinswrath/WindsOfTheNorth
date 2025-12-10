@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k.png)
 
+- [3.0.3](#303) December 10 2025
 - [3.0.2](#302) December 4 2025
 - [3.0.1](#301) November 28 2025
 - [3.0.0](#300) November 22 2025
@@ -59,6 +60,49 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+---
+# 3.0.3
+
+### Key Info
+
+ - This update is save safe with 3.0.0+
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Balance Change: The chance of bandits spawning with crossbows instead of bows has been reduced slightly. They were spawning far too often in my experience
+ - Inverse Square Lighting has been removed. we dont have any mods that make use of it in the list
+
+### Bug Fixes
+
+ - XPMSE True Ragdoll Physics has been replaced with the body lifting fix. Despite what the modpage says, it does not fix the body lifting bug with XPMSE skeletons. 
+   - There is a way for me to fix it but it involves much more tedium than I have time for right now. I added that mod specifically to fix the lifting bug. Since it does not, but XPMSE Body Lifting Fix does, then I am simply switching to that for now.
+   - Please keep in mind that this does NOT fix not being able to move bodies when their weapons are still "attached". If you want to lift a body you need to remove the weapons from its inventory first.
+ - Fix: There were several SIL conflicts that I missed forwarding before, this has now been remedied.
+ - Fix: Daedric Cure and Call Summon spell tomes should now have the proper Conjuration inventory icons. If you find others feel free to report.
+ - Fix: Paralyze spell tome now has the correct Illusion inventory icon
+ - Fix: "The Blighted Task" from the Cultist of Peryite bonus should no longer show up twice in the active effects menu
+ - Fix: Ahzidal's Gauntlets not working (Thanks August)
+ - Fix: Fixed issue where snow bridges were all kinds of messed up looking
+
+## Mod Changes
+
+### Updated
+ - The Whispering Door - Quest Expansion
+
+### Added
+
+ - XPMSE Body Lifting Fix
+
+### Removed
+
+ - XPMSE True Ragdoll Physics
+ - FYX - Alpha Blood Blending Bug - NG (not needed)
+ - Inverse Square Lighting
 
 ---
 # 3.0.2
