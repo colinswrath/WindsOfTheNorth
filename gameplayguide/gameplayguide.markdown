@@ -51,7 +51,7 @@ Creating your character is the first step in starting your Skyrim playthrough. V
       <li>The soft cap is now level 50. Even though the overall leveling speed is slower, you will gain 2 perk points every 5 levels and 3 perk points when reaching level 50.
           <ul>
               <li>It should be easier to perk up your desired build without having to level other skills just to get perks.</li>
-              <li>You can still level up passed level 50 and gain stat increases with every level like normal. However, you will only gain 1 perk every 5 levels after 50.</li>
+              <li>You can still level up passed level 50 and gain stat increases with every level like normal.</li>
           </ul>
       </li>
   </ul>

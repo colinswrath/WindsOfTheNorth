@@ -99,5 +99,5 @@ There are a couple of things I think are worth keeping in mind when playing this
  - Maintaining your needs to keep experience gain up can be a huge boon to leveling up more quickly. 
      - Keep your Rested/Well Rested/Lover's Comfort (5%/10%/15%) bonuses up to increase your experience gain.
      - Fed/Well Fed/Lover's Cooking will grant you 5%/10%/15% extra experience gain.
- - Level 50 is effectively a new "soft cap". After which you will gain 1 perk point evert 5 levels.
+ - Level 50 is effectively a new "soft cap".
  - The soft cap (level 50) can be reached by leveling only 6 skills
