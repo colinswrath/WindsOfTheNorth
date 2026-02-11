@@ -35,7 +35,7 @@ Please open a report under the support channel in the [Lost Outpost Discord serv
 </div>
 
 **Fix:** Its very likely that you have skipped installation step for Visual C++ Redistribution Package.\
-It can be found here: [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+It can be found here: [Visual C++ x64](https://aka.ms/vc14/vc_redist.x64.exe)
 
 ## "Unable to download Data_ccbgssse037-curios"
 

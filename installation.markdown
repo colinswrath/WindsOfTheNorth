@@ -70,7 +70,7 @@ These steps are only required for installing the Modlist for the first time.
   <hr class="thin-hr">
 </div>
 
- 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe). **Do not skip this step or the game will crash on startup**
+ 1. Install [Visual C++ x64](https://aka.ms/vc14/vc_redist.x64.exe). **Do not skip this step or the game will crash on startup**
 
 ## Steam Setup
 
