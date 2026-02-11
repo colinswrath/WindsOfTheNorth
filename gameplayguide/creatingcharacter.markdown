@@ -30,6 +30,7 @@ background_image_url: public/stars.png
     .skill.warrior { color: #e73d3d; }
     .skill.mage    { color: #6fa8dc; }
     .skill.thief   { color: #6aa84f; }
+    
 </style>
 
 **Note: This whole page has currently been updated for Winds of the North 4.0.0 RC 1. As I prepare for the full release I will be updating documentation**
@@ -121,6 +122,8 @@ After 4.0.0, your race dictates a racial passive and nothing else. Starting skil
 
 >Selecting a class will grant you an additional passive. It will also determine what your starting skills are.
 
+> Major skills are underlined and start at 20. Other skills are minor skills and start at 15.
+
 <table>
     <tr>
         <th>Class</th>
@@ -131,198 +134,198 @@ After 4.0.0, your race dictates a racial passive and nothing else. Starting skil
         <td class="skill warrior">Archer</td>
         <td>You draw your bow 20% faster.</td>
         <td>
-            <span class="skill warrior"><u>Archery</u></span>, 
-            <span class="skill thief"><u>Alchemy</u></span>, 
-            <span class="skill thief"><u>Light Armor</u></span>, 
-            <span class="skill warrior"><u>One-handed</u></span>, 
-            <span class="skill warrior"><u>Smithing</u></span>
+            <span class="skill warrior"><b><u>Archery</u></b></span>, 
+            <span class="skill thief">Alchemy</span>, 
+            <span class="skill thief">Light Armor</span>, 
+            <span class="skill warrior">One-handed</span>, 
+            <span class="skill warrior">Smithing</span>
         </td>
     </tr>
     <tr class="barbarian">
         <td class="skill warrior">Barbarian</td>
         <td>Power attacks deal 50% extra damage to enemies who are power attacking, drawing a bow, or casting a spell.</td>
         <td>
-            <span class="skill warrior"><u>Two-handed</u></span>, 
-            <span class="skill warrior"><u>Archery</u></span>, 
-            <span class="skill thief"><u>Hand to Hand</u></span>, 
-            <span class="skill thief"><u>Light Armor</u></span>, 
-            <span class="skill warrior"><u>Smithing</u></span>
+            <span class="skill warrior"><b><u>Two-handed</u></b></span>, 
+            <span class="skill warrior">Archery</span>, 
+            <span class="skill thief">Hand to Hand</span>, 
+            <span class="skill thief">Light Armor</span>, 
+            <span class="skill warrior">Smithing</span>
         </td>
     </tr>
     <tr class="crusader">
         <td class="skill warrior">Crusader</td>
         <td>You resist 50% of incoming spell damage when blocking with a shield.</td>
         <td>
-            <span class="skill warrior"><u>Block</u></span>, 
-            <span class="skill mage"><u>Enchanting</u></span>, 
-            <span class="skill warrior"><u>Heavy Armor</u></span>, 
-            <span class="skill mage"><u>Restoration</u></span>, 
-            <span class="skill warrior"><u>One-handed</u></span>
+            <span class="skill warrior"><b><u>Block</u></b></span>, 
+            <span class="skill mage">Enchanting</span>, 
+            <span class="skill warrior">Heavy Armor</span>, 
+            <span class="skill mage">Restoration</span>, 
+            <span class="skill warrior">One-handed</span>
         </td>
     </tr>
     <tr class="knight">
         <td class="skill warrior">Knight</td>
         <td>You resist 10% of all incoming weapon and spell damage.</td>
         <td>
-            <span class="skill warrior"><u>Smithing</u></span>, 
-            <span class="skill warrior"><u>Block</u></span>, 
-            <span class="skill warrior"><u>Heavy Armor</u></span>, 
-            <span class="skill warrior"><u>Two-handed</u></span>, 
-            <span class="skill thief"><u>Speech</u></span>
+            <span class="skill warrior"><b><u>Smithing</u></b></span>, 
+            <span class="skill warrior">Block</span>, 
+            <span class="skill warrior">Heavy Armor</span>, 
+            <span class="skill warrior">Two-handed</span>, 
+            <span class="skill thief">Speech</span>
         </td>
     </tr>
     <tr class="spellsword">
         <td class="skill mage">Spellsword</td>
         <td>Destruction spells cost 20% less while you have a weapon equipped.</td>
         <td>
-            <span class="skill warrior"><u>One-handed</u></span>, 
-            <span class="skill mage"><u>Destruction</u></span>, 
-            <span class="skill mage"><u>Enchanting</u></span>, 
-            <span class="skill warrior"><u>Heavy Armor</u></span>, 
-            <span class="skill mage"><u>Restoration</u></span>
+            <span class="skill warrior"><b><u>One-handed</u></b></span>, 
+            <span class="skill mage">Destruction</span>, 
+            <span class="skill mage">Enchanting</span>, 
+            <span class="skill warrior">Heavy Armor</span>, 
+            <span class="skill mage">Restoration</span>
         </td>
     </tr>
     <tr class="warrior">
         <td class="skill warrior">Warrior</td>
         <td>Your Health Regeneration is increased by 50%.</td>
         <td>
-            <span class="skill warrior"><u>Heavy Armor</u></span>, 
-            <span class="skill warrior"><u>Archery</u></span>, 
-            <span class="skill warrior"><u>Block</u></span>, 
-            <span class="skill warrior"><u>One-handed</u></span>, 
-            <span class="skill warrior"><u>Two-handed</u></span>
+            <span class="skill warrior"><b><u>Heavy Armor</u></b></span>, 
+            <span class="skill warrior">Archery</span>, 
+            <span class="skill warrior">Block</span>, 
+            <span class="skill warrior">One-handed</span>, 
+            <span class="skill warrior">Two-handed</span>
         </td>
     </tr>
     <tr class="battlemage">
         <td class="skill mage">Battlemage</td>
         <td>Your Armor Rating is increased by 100 while under the effect of an armor spell.</td>
         <td>
-            <span class="skill mage"><u>Destruction</u></span>, 
-            <span class="skill mage"><u>Alteration</u></span>, 
-            <span class="skill mage"><u>Enchanting</u></span>, 
-            <span class="skill warrior"><u>Heavy Armor</u></span>, 
-            <span class="skill warrior"><u>Two-handed</u></span>
+            <span class="skill mage"><b><u>Destruction</u></b></span>, 
+            <span class="skill mage">Alteration</span>, 
+            <span class="skill mage">Enchanting</span>, 
+            <span class="skill warrior">Heavy Armor</span>, 
+            <span class="skill warrior">Two-handed</span>
         </td>
     </tr>
     <tr class="healer">
         <td class="skill mage">Healer</td>
         <td>Restoration spells cost 20% less when dual cast.</td>
         <td>
-            <span class="skill mage"><u>Restoration</u></span>, 
-            <span class="skill mage"><u>Alteration</u></span>, 
-            <span class="skill mage"><u>Enchanting</u></span>, 
-            <span class="skill mage"><u>Illusion</u></span>, 
-            <span class="skill thief"><u>Speech</u></span>
+            <span class="skill mage"><b><u>Restoration</u></b></span>, 
+            <span class="skill mage">Alteration</span>, 
+            <span class="skill mage">Enchanting</span>, 
+            <span class="skill mage">Illusion</span>, 
+            <span class="skill thief">Speech</span>
         </td>
     </tr>
     <tr class="mage">
     <td class="skill mage">Mage</td>
     <td>Your Magicka Regeneration is increased by 50%.</td>
     <td>
-        <span class="skill mage"><u>Alteration</u></span>, 
-        <span class="skill mage"><u>Conjuration</u></span>, 
-        <span class="skill mage"><u>Destruction</u></span>, 
-        <span class="skill mage"><u>Illusion</u></span>, 
-        <span class="skill mage"><u>Restoration</u></span>
+        <span class="skill mage"><b><u>Alteration</u></b></span>, 
+        <span class="skill mage">Conjuration</span>, 
+        <span class="skill mage">Destruction</span>, 
+        <span class="skill mage">Illusion</span>, 
+        <span class="skill mage">Restoration</span>
     </td>
     </tr>
     <tr class="nightblade">
         <td class="skill mage">Nightblade</td>
         <td>Illusion spells are twice as strong while you are undetected.</td>
         <td>
-            <span class="skill mage"><u>Illusion</u></span>, 
-            <span class="skill mage"><u>Conjuration</u></span>, 
-            <span class="skill mage"><u>Destruction</u></span>, 
-            <span class="skill warrior"><u>One-handed</u></span>, 
-            <span class="skill thief"><u>Sneak</u></span>
+            <span class="skill mage"><b><u>Illusion</u></b></span>, 
+            <span class="skill mage">Conjuration</span>, 
+            <span class="skill mage">Destruction</span>, 
+            <span class="skill warrior">One-handed</span>, 
+            <span class="skill thief">Sneak</span>
         </td>
     </tr>
     <tr class="sorcerer">
         <td class="skill mage">Sorcerer</td>
         <td>You have a 10% chance to absorb the Magicka from incoming spells.</td>
         <td>
-            <span class="skill mage"><u>Enchanting</u></span>, 
-            <span class="skill thief"><u>Alchemy</u></span>, 
-            <span class="skill mage"><u>Conjuration</u></span>, 
-            <span class="skill mage"><u>Destruction</u></span>, 
-            <span class="skill warrior"><u>Heavy Armor</u></span>
+            <span class="skill mage"><b><u>Enchanting</u></b></span>, 
+            <span class="skill thief">Alchemy</span>, 
+            <span class="skill mage">Conjuration</span>, 
+            <span class="skill mage">Destruction</span>, 
+            <span class="skill warrior">Heavy Armor</span>
         </td>
     </tr>
     <tr class="witchhunter">
         <td class="skill thief">Witchhunter</td>
         <td>Your potions last 50% longer.</td>
         <td>
-            <span class="skill mage"><u>Conjuration</u></span>, 
-            <span class="skill thief"><u>Alchemy</u></span>, 
-            <span class="skill warrior"><u>Archery</u></span>, 
-            <span class="skill mage"><u>Restoration</u></span>, 
-            <span class="skill thief"><u>Light Armor</u></span>
+            <span class="skill mage"><b><u>Conjuration</u></b></span>, 
+            <span class="skill thief">Alchemy</span>, 
+            <span class="skill warrior">Archery</span>, 
+            <span class="skill mage">Restoration</span>, 
+            <span class="skill thief">Light Armor</span>
         </td>
     </tr>
     <tr class="agent">
         <td class="skill thief">Agent</td>
         <td>Your poisons last for 50% more hits.</td>
         <td>
-            <span class="skill thief"><u>Alchemy</u></span>, 
-            <span class="skill warrior"><u>Archery</u></span>, 
-            <span class="skill mage"><u>Illusion</u></span>, 
-            <span class="skill thief"><u>Sneak</u></span>, 
-            <span class="skill thief"><u>Speech</u></span>
+            <span class="skill thief"><b><u>Alchemy</u></b></span>, 
+            <span class="skill warrior">Archery</span>, 
+            <span class="skill mage">Illusion</span>, 
+            <span class="skill thief">Sneak</span>, 
+            <span class="skill thief">Speech</span>
         </td>
     </tr>
     <tr class="assassin">
         <td class="skill thief">Assassin</td>
         <td>You deal 25% extra sneak attack damage.</td>
         <td>
-            <span class="skill thief"><u>Sneak</u></span>, 
-            <span class="skill thief"><u>Alchemy</u></span>, 
-            <span class="skill thief"><u>Light Armor</u></span>, 
-            <span class="skill warrior"><u>One-handed</u></span>, 
-            <span class="skill thief"><u>Security</u></span>
+            <span class="skill thief"><b><u>Sneak</u></b></span>, 
+            <span class="skill thief">Alchemy</span>, 
+            <span class="skill thief">Light Armor</span>, 
+            <span class="skill warrior">One-handed</span>, 
+            <span class="skill thief">Security</span>
         </td>
     </tr>
     <tr class="monk">
         <td class="skill thief">Monk</td>
         <td>Your Armor Rating is increased by 100 while unarmed.</td>
         <td>
-            <span class="skill thief"><u>Hand to Hand</u></span>, 
-            <span class="skill mage"><u>Alteration</u></span>, 
-            <span class="skill mage"><u>Restoration</u></span>, 
-            <span class="skill thief"><u>Security</u></span>, 
-            <span class="skill thief"><u>Speech</u></span>
+            <span class="skill thief"><b><u>Hand to Hand</u></b></span>, 
+            <span class="skill mage">Alteration</span>, 
+            <span class="skill mage">Restoration</span>, 
+            <span class="skill thief">Security</span>, 
+            <span class="skill thief">Speech</span>
         </td>
     </tr>
     <tr class="rogue">
         <td class="skill thief">Rogue</td>
         <td>You deal 25% extra power attack damage while you have an empty offhand.</td>
         <td>
-            <span class="skill thief"><u>Speech</u></span>, 
-            <span class="skill thief"><u>Alchemy</u></span>, 
-            <span class="skill warrior"><u>One-handed</u></span>, 
-            <span class="skill thief"><u>Light Armor</u></span>, 
-            <span class="skill thief"><u>Security</u></span>
+            <span class="skill thief"><b><u>Speech</u></b></span>, 
+            <span class="skill thief">Alchemy</span>, 
+            <span class="skill warrior">One-handed</span>, 
+            <span class="skill thief">Light Armor</span>, 
+            <span class="skill thief">Security</span>
         </td>
     </tr>
     <tr class="scout">
         <td class="skill warrior">Scout</td>
         <td>Your Stamina Regeneration is increased by 50%.</td>
         <td>
-            <span class="skill thief"><u>Light Armor</u></span>, 
-            <span class="skill warrior"><u>Archery</u></span>, 
-            <span class="skill warrior"><u>Block</u></span>, 
-            <span class="skill warrior"><u>One-handed</u></span>, 
-            <span class="skill warrior"><u>Smithing</u></span>
+            <span class="skill thief"><b><u>Light Armor</u></b></span>, 
+            <span class="skill warrior">Archery</span>, 
+            <span class="skill warrior">Block</span>, 
+            <span class="skill warrior">One-handed</span>, 
+            <span class="skill warrior">Smithing</span>
         </td>
     </tr>
     <tr class="thief">
         <td class="skill thief">Thief</td>
         <td>You move 20% faster while sneaking.</td>
         <td>
-            <span class="skill thief"><u>Security</u></span>, 
-            <span class="skill thief"><u>Hand to Hand</u></span>, 
-            <span class="skill thief"><u>Light Armor</u></span>, 
-            <span class="skill thief"><u>Sneak</u></span>, 
-            <span class="skill thief"><u>Speech</u></span>
+            <span class="skill thief"><b><u>Security</u></b></span>, 
+            <span class="skill thief">Hand to Hand</span>, 
+            <span class="skill thief">Light Armor</span>, 
+            <span class="skill thief">Sneak</span>, 
+            <span class="skill thief">Speech</span>
         </td>
     </tr>
 </table>
