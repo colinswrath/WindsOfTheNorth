@@ -45,7 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 4.0.0 R.C. 1](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc1/WindsoftheNorth.wabbajack)
+[Winds of the North - 4.0.0 R.C. 2](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc2/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
@@ -89,6 +89,39 @@ Known Issues
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-4.0.0.png)
+
+# 4.0.0 RC 2
+
+### Key Info
+
+ - This is save safe with other 4.0.0 pre-releases only
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Actually updated to the most recent Simonrim betas. Whoopsie
+ - Inverse Square Lighting and Extended Translucency have been disabled at boot
+
+### Bug Fixes
+
+ - Going forward, hostlers should no longer sell the wild horses location map
+
+## Mod Changes
+
+### Updated
+
+ - Simonrim - Beta
+
+### Added
+
+ - First Person FOV and Tween Menu Fix SKSE
+ - Alt-Tab Stuck Key Fix NG
+ - SKSE Menu Framework
+
+---
 
 # 4.0.0 RC 1
 
