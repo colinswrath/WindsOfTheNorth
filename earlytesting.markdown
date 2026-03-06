@@ -45,7 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 4.0.0 R.C. 3](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc3/WindsoftheNorth.wabbajack)
+[Winds of the North - 4.0.0 R.C. 4](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc4/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
@@ -85,6 +85,41 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-4.0.0.png)
+
+# 4.0.0 RC 4
+
+### Key Info
+
+ - This is save safe with other 4.0.0 pre-releases only
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Addition: I have modifed Character Menu SE further to display your chosen trait from Apprentice.
+
+### Bug Fixes and Tweaks
+
+ - Fix: Fixed a bug where NPCs could go into a down state after closing the Character Menu
+ - Fix: Fixed a bug where NPCs would stop their walking/running animation and restart it (instead of freezing in place) upon open/close of the Character Menu.
+
+## Mod Changes
+
+### Updated
+
+ - Unofficial Skyrim Special Edition Patch - USSEP
+ - CC Farming - Tweaks Enhancements and Quest Expansion
+
+### Added
+
+ - Persistent Favorites
+ - Stuck Underwater Visuals and Sounds Fix SKSE
+
+### Removed
+
+ - Unstack Stolen Items (No source available)
 
 # 4.0.0 RC 3
 
