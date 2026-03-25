@@ -45,7 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 4.0.0 R.C. 4](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc4/WindsoftheNorth.wabbajack)
+[Winds of the North - 4.0.0 R.C. 5](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc5/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
@@ -85,6 +85,57 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-4.0.0.png)
+
+# 4.0.0 RC 5
+
+### Key Info
+
+ - This is save safe with other 4.0.0 pre-releases only
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - I removed Simplicity of Sea - Water Color and Transparency Tweaks, because normal "Water Mod" matched LOD much much better. The tweaks did look nice, but matching LOD is much more important to me. Plus normal Water Mod still looks nice anyway (nicer than vanilla)
+
+### Bug Fixes and Tweaks
+
+ - Fix: Fixed bloated man's grotto being treated as being in Oblivion
+ - Fix: Fixed an issue where healing your injury would actually kill you instead (oopsy)
+ - Fix: Fixed debug notifications showing when hitting someone while having the armor breaker perk
+ - Fix: Fixed injuries not being applied to the player when Survival Mode was off
+ - Fix: Fixed second rank of the block perk "Defensive Stance" being at level 30 (it should have been level 70)
+ - Fix: Fixed second rank of the two-handed perk "Perfect Parry" being at level 40 (it should have been level 70)
+ - Fix: Fixed a bug where carriages to hearthfire homes no longer worked
+ - Fix: Fixed debug notification on armor breaker perk
+ - Fix: Corrected bound bow damage in bow speed normalize plugin
+ - Tweaks: hid loadingmenu.swf and tweenmenu.swf in complete widescreen fix
+
+## Mod Changes
+
+### Updated
+
+ - Imperial Thalmor Stormcloak Patrols Fixes - Soldiers and Prisoners World Encounters
+ - Simplicity of Splatter - High-Res Blood Textures
+ - Survival Mode Improved - SKSE
+ - Siege at Icemoth
+ - Granite Hill - Cut Content Restoration
+ - Unofficial Skyrim Special Edition Patch - USSEP
+ - Myrwatch - Tweaks and Enhancements
+ - SkyUI
+
+### Added
+
+ - Item Stacking Tweaks
+ - Widescreen Scale Removed for 1-6-1130 and higher
+
+### Removed
+
+ - Simplicity of Sea - Water Color and Transparency Tweaks
+ - Wider MCM Menu for SkyUI
+ - Quest Journal Fix for SkyUI (no longer needed)
 
 # 4.0.0 RC 4
 
