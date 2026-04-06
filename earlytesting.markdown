@@ -45,7 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 4.0.0 R.C. 5](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc5/WindsoftheNorth.wabbajack)
+[Winds of the North - 4.0.0 R.C. 6](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc6/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
@@ -85,6 +85,44 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-4.0.0.png)
+
+# 4.0.0 RC 6
+
+### Key Info
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Bug Fixes and Tweaks
+
+ - Fix: Updating SkyUI fixed a display issue in the magic menu
+ - Fix: Empowered Strike (Enchanting perk) should now function with the Dragonborn Respec
+ - Fix: Mystic Bound Greatsword effect doesn't have the MAG_MagicSummonWeapon keyword
+ - Fix: Blackreach map was appearing as covered with rocks, this has been fixed
+
+## Mod Changes
+
+### Updated
+
+ - SkyUI
+ - Chitin Armors and Weapons Retexture SE
+ - Survival Mode Improved - SKSE
+ - Why I Came to Skyrim
+ - Iron Armors and Weapons Retexture SE
+ - Andrealphus' Papyrus Functions
+ - Myrwatch - Tweaks and Enhancements
+ - First Person FOV and Tween Menu Fix SKSE
+ - HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+ - Complete Widescreen Fix for Vanilla and SkyUI
+ - Stuck Underwater Visuals and Sounds Fix SKSE
+
+### Added
+
+### Removed
+
+ - Bonemold Armors and Weapons Retexture SE (No longer needed)
+ - Falmer Armors and Weapons Retexture SE (No longer needed)
 
 # 4.0.0 RC 5
 
