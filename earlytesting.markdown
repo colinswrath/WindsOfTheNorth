@@ -45,7 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 4.0.0 R.C. 6](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc6/WindsoftheNorth.wabbajack)
+[Winds of the North - 4.0.0 R.C. 7](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc7/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
@@ -85,6 +85,57 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-4.0.0.png)
+
+# 4.0.0 RC 7
+
+### Key Info
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - With this update, I would like to test the waters with Precision. August's new mod "Precision - Attack Collision Fixes" fixed some of the largest issues I had with it. I have been playing around, and I think with these fixes and some tweaked settings, it will be a really good addition to the list.
+   - Combat has quite a bit more...oomph to it with Precision. Hits feel like they have a lot of punch behind them.
+   - As expected, It may feel a bit different than vanilla in regards to when you think attacks should or should not have it you. Attempts have been made to make the reach feel similar to before, but collisions being tied to weapons now  means that individual animations do have an affect on things.
+ - Chapter 2 had a massive update that adds tons of new palette tracks.
+ - Included a default ini for FirstPersonFOV in the "Wotn - Custom MCM Settings and Scripts" mod
+ - CS Grass Collision has been disabled by default. It is causing repeatable and consistant crashes in the intro (on my end and others). Looking at the CS code repo it seems it has been addressed, but that has not been released yet to nexus. I am choosing to disable this module. While it is cool its not worth the instability.
+ - Removed Persistant Favorites due to instability
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: Fixed rank 1 of Perfect Parry requiring level 70 (rank 1 should be level 40 and rank 2 should be level 70)
+
+## Mod Changes
+
+### Updated
+
+ - SkyUI
+ - MCM Helper
+ - SkyPatcher
+ - Auto Input Switch
+ - Chapter II - Jeremy Soule Inspired Music
+ - Spell Perk Item Distributor (SPID)
+ - First Person FOV and Tween Menu Fix SKSE
+ - Siege at Icemoth
+ - Granite Hill - Cut Content Restoration
+
+
+### Added
+
+ - Precision
+ - Precision Creatures
+ - Nemesis Creatures BEHAVIOUR compatibility
+ - Nemesis Creature Behaivour - WereWolf Addon
+ - Precision - Attack Collision Fixes
+ - WotN - Precision - Settings
+
+### Removed
+
+ - Persistent Favorites
+
 
 # 4.0.0 RC 6
 
