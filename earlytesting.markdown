@@ -45,7 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 4.0.0 R.C. 7](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc7/WindsoftheNorth.wabbajack)
+[Winds of the North - 4.0.0 R.C. 8](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc8/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
@@ -85,6 +85,54 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-4.0.0.png)
+
+# 4.0.0 RC 8
+
+### Key Info
+
+ - This update is save safe with previous 4.0.0 RCs, just click okay when it says there is missing plugins.
+ 
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Well there was a reason the last update was a "test the waters" update. August did a ton of work to fix some things wrong with precision, but I ended up running into a couple of other bugs, one of which was a major dealbreaker for using precision. (hit impulses can and do completely break NPC animations on occasion). So...I kind of have to remove Precision once again. I can't say we didn't try lol.
+ - Xavbio's Ebony armor retexture has recieved a cool new update that restores the vanilla style patterns on the ebony armor (it was the amidianborn style)
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: The SkyUI X offset is no longer needed and has been removed.
+ - Fix: The Soul Cairn locations should all now be treated as in Oblivion
+
+## Mod Changes
+
+### Updated
+
+ - Alchemy Plus
+ - Run For Your Lives
+ - Alt-Tab Stuck Key Fix
+ - Engine Fixes SSE
+ - Crash Logger SSE AE VR - PDB support
+ - Robber's Gorge Fixes
+ - Why I Came to Skyrim - Origin Stories
+ - First Person FOV and Tween Menu Fix SKSE
+ - SkyUI
+ - Ebony Armors and Weapons Retexture SE
+
+
+### Added
+ 
+ - Comap - Local
+
+### Removed
+
+ - Precision
+ - Precision Creatures
+ - Nemesis Creatures
+ - Nemesis Creatures - Werewolf addon
+ - Precision Attack Collision Fixes
 
 # 4.0.0 RC 7
 
