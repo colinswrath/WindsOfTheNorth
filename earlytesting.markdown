@@ -45,7 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 4.0.0 R.C. 8](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc9/WindsoftheNorth.wabbajack)
+[Winds of the North - 4.0.0 R.C. 9](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc9/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
