@@ -45,7 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 4.0.0 R.C. 8](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc8/WindsoftheNorth.wabbajack)
+[Winds of the North - 4.0.0 R.C. 8](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc9/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
@@ -85,6 +85,70 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 </div>
 
 ![](../images/WindsofTheNorthLogo2k-4.0.0.png)
+
+# 4.0.0 RC 9
+
+### Key Info
+
+ - This update is save safe with previous 4.0.0 RCs, just click okay when it says there is missing plugins.
+ - If you experience issues with shaders, please go into your overwrite folder in Mo2, and delete the ShaderCache, and the "CommunityShaders" folder in SKSE/Plugins. Again, both of these folders are in overwrite, at the bottom of the left hand panel in Mo2.
+ 
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Re-added better dialogue and messagebox controls because SkyUI does not actually integrate them, despite saying it does.
+ - Pinepeak Crypt has been added, which is another dungeon by the author of Morthal Barrow and Taarangrav Barrow.
+ - HDR - Community Shaders has been added as an optional
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: The starter chest for Spellswords should now include iron armor instead of fur
+ - Fix: (Manbeast) You will no longer be force transformed while riding on a mount. It will instead happen within the next hour that you are dismounted.
+ - Fix: When riding a horse, you should no longer be able to sweep attack your horse
+ - Tweak: Journeyman's bEnableOnlyOnSurvivalEnabled has been toggled on. This means that Journeyman functionality will only be active when Survival Mode is active.
+ - Fix: Loading menu and tween menu files in the optional widescreen fix have been hidden to keep them from conflicting with mods that overhaul those menus (and have widescreen compatibility+)
+ - Fix: TGFenceMerchantChestEndon chest has had compatibilty with master trader perk restored.
+
+## Mod Changes
+
+### Updated
+
+ - SkyUI
+ - MCM Helper
+ - Knotwork
+ - Crash Logger SSE AE VR - PDB support
+ - Skypatcher
+ - Enhanced Worldspace Maps
+ - Siege at Icemoth
+ - Artificer - Xavbio Textures Addon
+ - First Person FOV and Tween Menu Fix SKSE
+ - Community Shaders
+ - Wetness Effects
+ - Terrain Blending
+ - Upscaling
+ - Cloud Shadows
+ - Screen Space Global Illumination (SSGI) (Still disabled by default)
+ - Skylighting
+ - Sky Sync
+ - Open Animation Replacer
+
+### Added
+ 
+ - Better Dialogue Controls
+ - Better Messagebox Controls
+ - Pinepeak Crypt
+ - HDR - Community Shaders (optional)
+ - Crossbow Reload Speed Perk Fix
+
+### Removed
+
+ - Grass Collision (Now integrated into core CS)
+ - Screenspace Shadows (Now integrated into core CS)
+ - Grass Lighting (Now integrated into core CS)
+ - Subsurface Scattering (Now integrated into core CS)
 
 # 4.0.0 RC 8
 
