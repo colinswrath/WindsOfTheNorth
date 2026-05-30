@@ -23,25 +23,65 @@ If you are interested in seeing what the modlist looks like, feel free to check 
 ## What to Expect
 ---
 
-### Gameplay Suite
+### Gameplay Additions and Changes
 
 <div class="centerdiv">
   <hr class="thin-hr">
 </div>
 
 <div class="midmargin">
-Almost every aspect of gameplay has been overhauled in some form, primarily by the "Simonrim" mod suite.
+A great deal of effort has gone into making sure that any new gameplay mechanic changes or additions fit nicely into the game, rather than simply being stapled on.
 <br>
-At Simonrim's core is the perk overhaul called "Adamant". Adamant rebalances the entire perk system to allow for more meaningful perks, while at the same time, avoiding bloating the skill menu with a massive amount of extra perks.
-I like to think of Adamant as simply what the vanilla game *should* have been.
-<br>
-A new Hand to Hand skill has been added, magic is more useful and consistent, perks are more meaningful, combat is challenging but rewarding, and much more.
-<br>
+Almost every aspect of gameplay has been overhauled in some form, primarily by the "Simonrim" mod suite, but many other mods contribute as well. My goal is to provide a "refreshed" version of Skyrim with a cohesive vision and fun, challenging mechanics, while still remaining true to Skyrim's original art style and feel.
 <br>
 </div>
 
+<br>
 <div class="centerdiv">
+    Experience a new and improved perk system, which includes a brand new "Hand to Hand" skill.
+</div>
+<div class="centerdiv image-row">
     <img alt="" src="assets/siteImages/h2h.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img">
+</div>
+<br>
+<div class="centerdiv">
+New crafting options for staves and scrolls
+</div>
+<div class="centerdiv image-row">
+    <img alt="" src="assets/siteImages/scrollenchant.png" class="dropshadow responsive-img">
+    <img alt="" src="assets/siteImages/staffenchant.png" class="dropshadow responsive-img">
+</div>
+
+<br>
+<div class="centerdiv">
+A new weapon type in the form of one and two handed spears, with new animations and full integration as if they were there the whole time.
+</div>
+<div class="centerdiv image-row">
+    <img alt="" src="assets/siteImages/longspear.png" class="dropshadow responsive-img">
+    <img alt="" src="assets/siteImages/shortspear.png" class="dropshadow responsive-img">
+</div>
+
+<br>
+<div class="centerdiv">
+A new class and trait system has been added. Many things that were dictated by choosing race in the character creator are now dependent on your chosen class.
+</div>
+
+<div class="centerdiv image-row">
+    <img alt="" src="assets/siteImages/class.png" class="dropshadow responsive-img">
+    <img alt="" src="assets/siteImages/trait.png" class="dropshadow responsive-img">
+</div>
+
+<br>
+<div class="centerdiv">
+To go along with that, there is a new character menu that allows you to see things such as your chosen class, trait, skills, faction rank, and more in one singular menu.
+</div>
+
+<div class="centerdiv image-row">
+    <img alt="" src="assets/siteImages/CharacterMenu.png" class="dropshadow responsive-img">
+</div>
+
+<div class="centerdiv">
+And much more...
 </div>
 
 ### New Lands and Quests
@@ -50,56 +90,17 @@ A new Hand to Hand skill has been added, magic is more useful and consistent, pe
   <hr class="thin-hr">
 </div>
 
-<div class="midmargin">
-If you are using the "Expanded" profile, Winds of the North includes several mods that add new lands to explore, new quests to complete, and exciting new dungeons to delve into. The only exception to this is Extended Cut - Saints and Seducers, which is present on both profiles.
-</div>
-
-### Skyrim Extended Cut - Saints and Seducers
-
-<div class="midmargin">
-Skyrim Extended Cut - Saints and Seducers (also known as "ECSS") is a fantastic mod that overhauls the existing quest for the "Saints and Seducers" Creation, replacing it with a fully voiced, entirely new questline in which you return to part of the Shivering Isles.
-</div>
-<br>
-
 <div class="centerdiv">
-    <img alt="" src="assets/siteImages/ECSS.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img">
+Winds of the North includes several mods that add new lands to explore, new quests to complete, and exciting new dungeons to delve into.
 </div>
 
-### Siege at Icemoth
-
-<div class="midmargin">
-Travel to a group of small islands north of Skyrim, where you can explore new dungeons, fight new enemies, and complete a questline where you search of a powerful ring called the Band of the Wraith.
-</div>
-<br>
-
-<div class="centerdiv">
-    <img alt="" src="assets/siteImages/SiegeAtIcemoth.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img">
-</div>
-
-### Morthal Barrow
-
-<div class="midmargin">
-  <span style="font-style: italic;">
-    "Morthal Barrow is a lore-friendly dungeon mod, intended to feel like vanilla content, and is based on its appearance in the The Elder Scrolls Online. It can be found close to the town of Morthal, turning the already existing unmarked ruin (named "Black Arts Ritual Site") into a fully-fledged dungeon. "
-  </span>
-</div>
-<br>
-
-<div class="centerdiv">
-    <img alt="" src="assets/siteImages/Morthal.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img">
-</div>
-
-### Taarengrav Barrow
-
-<div class="midmargin">
-  <span style="font-style: italic;">
-    "Taarengrav Barrow is a lore-friendly dungeon mod that is supposed to feel very much like vanilla content and as if it's been there from the start. It is based on its appearance in The Elder Scrolls Online. The dungeon can be found close to the Rift Imperial Camp (see map screenshot) and is also fully Radiant Quest enabled."
-  </span>
-</div>
-<br>
-
-<div class="centerdiv">
-    <img alt="" src="assets/siteImages/Taarengrav.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img">
+<div class = "image-row">
+    <img alt="" src="assets/siteImages/ECSS.webp" class="dropshadow responsive-img">
+    <img alt="" src="assets/siteImages/SiegeAtIcemoth.webp" class="dropshadow responsive-img">
+    <img alt="" src="assets/siteImages/Morthal.webp" class="dropshadow responsive-img">
+    <img alt="" src="assets/siteImages/Taarengrav.webp" class="dropshadow responsive-img">
+    <img alt="" src="assets/siteImages/ppc.webp" class="dropshadow responsive-img">
+    <img alt="" src="assets/siteImages/GraniteHill.webp" class="dropshadow responsive-img">
 </div>
 
 ### Graphics
@@ -115,7 +116,7 @@ Travel to a group of small islands north of Skyrim, where you can explore new du
 <div class="midmargin">
 One of the primary goals when making Winds of the North was to try to improve upon the general art direction of Skyrim rather than replace it. Therefore, I rely heavily on mods like "Community Shaders" and "Vanilla Remastered" to enhance to visuals.
 <br>
-There are also many other mods that touch up the game in all sorts of ways, from armor retextures by Xavbio (https://next.nexusmods.com/profile/xavbio/mods), to overhauled weathers from "Classic Weathers".
+There are also many other mods that touch up the game in all sorts of ways, from armor retextures by <a href="https://next.nexusmods.com/profile/xavbio/mods">Xavbio</a>, to overhauled weathers from "Classic Weathers".
 </div>
 
 ### Audio and Music
@@ -132,13 +133,14 @@ There are also many other mods that touch up the game in all sorts of ways, from
     </span>
   <br>
   <br>
-  Aside from modified game audio, If you are using the "Expanded" profile, Winds of the North also includes a custom music mix to breath new like into Skyrim's soundtrack. I am VERY careful when selecting new tracks to add to this mix. 
+  Aside from modified game audio, Winds of the North also includes a custom music mix to breath new like into Skyrim's soundtrack. I am VERY careful when selecting new tracks to add to this mix. 
   <br>
   It is essential to me that they fit in seamlessly with the existing OST. You wont be hearing any Witcher 3 music in Winds of the North.
   <br>
   <br>
-  <div class="centerdiv">
+  <div class="image-row centerdiv">
     <img alt="" src="assets/siteImages/ND.webp" class="dropshadow responsive-img">
+    <img alt="" src="assets/siteImages/chapter2.webp" class="dropshadow responsive-img">
   </div>
   <br>
   <br>
@@ -160,7 +162,7 @@ There are also many other mods that touch up the game in all sorts of ways, from
 <br>
   If you would like to install Winds of the North, please head to the <a href="./installation">Installation Guide</a> and follow the instructions.
 <br>
-  The full load order library list can be viewed <a href="https://loadorderlibrary.com/lists/winds-of-the-north-3">"here"</a>.
+  The full load order library list can be viewed <a href="https://loadorderlibrary.com/lists/winds-of-the-north-4">"here"</a>.
 </div>
 
 <div class="centerdiv">
@@ -168,22 +170,45 @@ There are also many other mods that touch up the game in all sorts of ways, from
 </div>
 
 ## Screenshots
+
+### Winds of the North 4.0.0
 <div class="centerdiv">
-    <img alt="" src="public/screenshots/alduin.png" style="width: 100%;" class="dropshadow responsive-img">
+  <hr class="thin-hr">
 </div>
 
-<div class="centerdiv">
-    <img alt="" src="public/screenshots/fire.png" style="width: 100%;" class="dropshadow responsive-img">
+<div class="image-row">
+  {% for file in site.static_files %}
+    {% if file.path contains 'public/screenshots4.0.0/' %}
+      {% if file.extname == '.png' or file.extname == '.webp' %}
+        <img src="{{ file.path | relative_url }}"
+             class="dropshadow responsive-img">
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 </div>
 
-<div class="centerdiv">
-    <img alt="" src="public/screenshots/cyruge.webp" style="width: 100%;" class="dropshadow responsive-img">
+### Winds of the North 3.0.0
+
+<div class="image-row">
+  {% for file in site.static_files %}
+    {% if file.path contains 'public/screenshots3.0.0/' %}
+      {% if file.extname == '.png' or file.extname == '.webp' %}
+        <img src="{{ file.path | relative_url }}"
+             class="dropshadow responsive-img">
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 </div>
 
-<div class="centerdiv">
-    <img alt="" src="public/screenshots/dragonsreach.png" style="width: 100%;" class="dropshadow responsive-img">
-</div>
+### Winds of the North 2.0.0
 
-<div class="centerdiv">
-    <img alt="" src="public/screenshots/mage.png" style="width: 100%;" class="dropshadow responsive-img">
+<div class="image-row">
+  {% for file in site.static_files %}
+    {% if file.path contains 'public/screenshots2.0.0/' %}
+      {% if file.extname == '.png' or file.extname == '.webp' %}
+        <img src="{{ file.path | relative_url }}"
+             class="dropshadow responsive-img">
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 </div>

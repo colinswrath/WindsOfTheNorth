@@ -52,7 +52,7 @@ Upon starting a new game, you will see a popup asking if you would like to skip 
 </div>
 
 As cool as Skyrim's intro is, we've all played through it probably a dozen times at this point, and it's very long. Selecting this option will start you just before exiting the cave outside of Helgen.\
-To make up for lost XP and items that you would have acquired during the start, there will be a starter chest just outside where you can select some starting items for your adventure.
+To make up for lost XP and items that you would have acquired during the start, gear will be automatically added to your inventory depending on which class you choose.
 
 Otherwise, you may select no and just continue through the normal Skyrim intro.
 
@@ -60,7 +60,7 @@ Otherwise, you may select no and just continue through the normal Skyrim intro.
 ---
 As of Winds of the North 4.0.0, you now have many more options when creating your character.\
 Your selection of race used to dictate your starting skills, starting spells, and racial abilities. \
-After 4.0.0, your race dictates a racial passive and nothing else. Starting skills and spells and more other effects are determined by the class and trait you choose. 
+Now, your race dictates a racial passive and nothing else. Starting skills and spells are determined by the class and trait you choose. 
  >This allows for a wider range of more interesting RP oppurtinities and builds, and is similar to how character creation worked in older elder scrolls games
 
 ---

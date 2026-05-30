@@ -91,3 +91,16 @@ li.sidebar-subnav-item:focus {
   margin-left: 4%; 
   margin-right: 4%;
 }
+
+.image-row {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.image-row .responsive-img {
+  width: calc(50% - 0.25rem);
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-top: 1%;
+}

@@ -86,6 +86,65 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 
 ![](../images/WindsofTheNorthLogo2k-4.0.0.png)
 
+# 4.0.0
+
+### Key Info
+
+ - This update is save safe with previous 4.0.0 RCs, just click okay when it says there is missing plugins.
+ 
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - SPEEEEEAAAARRSSS!
+   - The beta for Legionary Spears by August has been added. This is by far the best spear implementation to date, with new animations, leveled distribution, and perk integration. 
+ - I.E.D. has been re-added to facilitate the equipping of spears on your back. The default preset should disable the usual functionality that turns you into a visual pack mule. 
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: Introduced a workaround for a long standing bug that caused both Hadvar and Ralof to appear at sieges despite who you side with. 
+   - For anyone curious, I will try to briefly explain. Long story short, there is a quest that tracks active allies during the civil war via aliases. Somehow, both Hadvar and Ralof are getting filled as active allies when it should only be one. The Civil War siege quests, rightfully, calls a function that simply goes through the active ally aliases and enables their references (causing both Hadvar and Ralof to appear).
+   - I am assuming a mod is indirectly causing them both to be added as allies, but I have not been able to figure out the culprit. So, for now I have added a workaround to the CWAllies script that checks an actor's allegiance before enabling their reference.
+   - Please note, if you have already initiated the battle of Whiterun quest, this will not fix both Hadvar and Ralof appearing in this battle (since they both have already been enabled by the game)
+ - Fix: Fixed several distribution conflicts with Kachunk crossbows (thanks Aerin)
+ - Fix: The guards at Castle Dour were changed by a mod to give them heavy armor. Unfortunately the mod also set their minimum level to level 1 (when it should be 20). I have re-adjusted the refs' template back, but also forwarded the gear changes. This way they should be the proper level AND have heavy armor
+ - Fix: The Simonrim Beta also had the exact same files in it as the Optional - No Killmoves mod, meaning if you disabled the optional you would skill get no killmoves. This has been fixed by simply removing the no killmoves files from the Simonrim Beta
+ - Fix: Fixed Windwalker being distributed when it shouldn't have been
+ - Fix: Fixed a bug in Unarmed Behaviors Expanded that was causing greatsword sprint attacks to use the wrong animation (thank you August for pointing out the fix)
+ - Fix: Fixed a conflict between Hand to Hand and Unarmed behaviors Expanded that caused some Hand to Hand perks to not work properly (Thank you Benny-has-Warez for finding this)
+ - Fix: Fixed a snowdrift that had a gap between it and the terrain
+ - Fix: Bound bow (and other bound weapons) had some buginess to their sheathe animation replacement that has been fixed
+ - Tweak: A patch for "The Cursed Tribe - Quest Expansion" and "Thaumaturgy" has been added to rebalance an enchanted item introduced in the mod. (Thanks Aerin)
+ - Tweak: The Animation loading progress bar and OAR welcome banner have been disabled, as I feel they are intrusive
+ - Tweak: Shahvee now levels security instead of hand to hand as a quest reward
+ - Tweak: The grass cut has recieved further refinements to remove some grass that stood out (like the lupin flower and some of the aix grass)
+ - Tweak: Instead of spawning a player gear chest when choosing your class in the quick start intro, I modified Intuitive Quick Start to instead give you the gear corresponding to your Apprentice Class
+ - Tweak: Several of the unused CS modules like TruePBR, InverseSquareLighting, and Extended Transclucency are disabled at boot by default. This may or may not provide a little performance boost.
+
+## Mod Changes
+
+### Updated
+
+ - Why I Came to Skyrim - Origin Stories
+ - Granite Hill - Cut Content Restoration
+ - Optional Quick Start - SE
+
+### Added
+
+ - Legionary - Spears beta
+ - Lore-Friendly Thalmor Banners
+ - Immersive Equipment Displays
+ - Delayed Dragons
+ - Start Game Settings
+ - Intuitive Quick Start
+ 
+### Removed
+
+ - Diplomatic Dragons
+ - Remove Creations from Main Menu
+
 # 4.0.0 RC 9
 
 ### Key Info

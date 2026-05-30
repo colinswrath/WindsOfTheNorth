@@ -157,20 +157,6 @@ Winds of the North offers some mods to provide Ultrawide and Widescreen Support.
 Should you find yourself lacking in performance, you may trade in some of the list's visual fidelity for performance by disabling the mods under the "shaders" seperator. If you have a support request, just please mention you have done this in the request. 
 Other modifications, such as regenerating LOD, will forfeit support.
 
-# Profile Selection
----
-
- - Winds of the North comes with two profiles.
-   - The "default" profile
-     - A streamlined version of the list that no new lands, quests, or music mods (other than ECSS) 
-   - The "Expanded" profile
-     - The expanded profile contains carefully selected new lands, quests, and music mods. (any new music added was very carefully picked to fit with Skyrim's OST)
-
- - Select the desired profile on the top left of Mod Organizer, then follow the next step to play the list.
-
- - PS. - This should go without saying, but saves made in one profile are not compatible with the other profile.
-
-
 # Playing the List
 ---
  
