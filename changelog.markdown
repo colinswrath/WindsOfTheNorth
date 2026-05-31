@@ -90,7 +90,7 @@ h2,h3,h4,h5 {
  
 ### Bug Fixes and Tweaks
 
- - Fix: The music volume was accidently turned all the way down.
+ - Fix: The music volume was accidentally turned all the way down.
  - Fix: Fixed conjuration spells appearing before they are supposed to in vendor lists (this may take some time to take affect on existing saves)
  - Fix: Bound spear spells should now use the proper purple inventory icon that the other bound spells use
  - Fix: Auto enabling in the Starfrost ini has been set to off, as it overrides the selected option in the main menu.
