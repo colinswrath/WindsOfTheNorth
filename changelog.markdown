@@ -17,7 +17,8 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.0.0.png)
 
-- [4.0.0](#400)
+- [4.0.1](#401) May 31 2026
+- [4.0.0](#400) May 29 2026
   - [4.0.0 Release Candidate 9](#400-rc-9)
   - [4.0.0 Release Candidate 8](#400-rc-8)
   - [4.0.0 Release Candidate 7](#400-rc-7)
@@ -70,6 +71,49 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+---
+# 4.0.1
+
+### Key Info
+
+ - This update is save safe with version 4.0.0+
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - "Why I Came to Skyrim - Select Your Own Quest" has been removed in favor of the built in menu that "Why I came to Skyrim" has, which includes some interesting ESO art to go along with the choices
+ - This Community Shaders update adds "Unified Water", drastically increasing the quality of distant water. You should no longer see ugly water LOD seams and mismatched colors
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: The music volume was accidently turned all the way down.
+ - Fix: Fixed conjuration spells appearing before they are supposed to in vendor lists (this may take some time to take affect on existing saves)
+ - Fix: Bound spear spells should now use the proper purple inventory icon that the other bound spells use
+ - Fix: Auto enabling in the Starfrost ini has been set to off, as it overrides the selected option in the main menu.
+
+## Mod Changes
+
+### Updated
+
+ - CoMAP - Common Marker Addon Project
+ - CC Farming - Tweaks Enhancements and Quest Expansion
+ - CC Myrwatch - Tweaks and Enhancements (MyrTE)
+ - Community Shaders
+ - Upscaling - Community Shaders
+ - HDR - Community Shaders (Still disabled by default)
+ - Screen Space Global Illumination (SSGI) - Community Shaders (Still disabled by default)
+
+### Added
+
+ - Critter Fixes
+ 
+### Removed
+
+ - Why I Came to Skyrim - Select Your Own Quest
 
 ---
 # 4.0.0

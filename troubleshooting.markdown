@@ -49,3 +49,16 @@ It can be found here: [Visual C++ x64](https://aka.ms/vc14/vc_redist.x64.exe)
 ## "Game hangs up at compiling shaders when launching"
 
 This list includes "Community Shaders". These shaders do not support intel integrated graphics. If you are not using an Nvidia, AMD, or Intel ARC gpu then you need to disable all mods under the "Shaders" separator.
+
+## Windmills near whiterun are not appearing
+
+Unfortunately this is theorized to be a bug specifically with Dyndolod-NG that can randomly happen. I have seen reports that this does not happen when using standard Dyndolod. The next time I do a save unsafe update I will swap back to standard. However for now, as of writing this (version 4.0.0) the fix is to open the console and run the following commands
+
+Prid 0005CA6C
+Enable
+
+Prid 0005CA6B
+Enable
+
+Prid 0001B5CD
+Enable
