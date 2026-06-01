@@ -41,7 +41,7 @@ Almost every aspect of gameplay has been overhauled in some form, primarily by t
     Experience a new and improved perk system, which includes a brand new "Hand to Hand" skill.
 </div>
 <div class="centerdiv image-row">
-    <img alt="" src="assets/siteImages/h2h.webp" style="margin-right: 0.5%;" class="dropshadow responsive-img">
+    <img alt="" src="assets/siteImages/h2h.png" style="margin-right: 0.5%;" class="dropshadow responsive-img">
 </div>
 <br>
 <div class="centerdiv">
