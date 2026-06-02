@@ -114,6 +114,10 @@ These steps are only required for installing the Modlist for the first time.
  
 Downloading and installing Winds of the North can take a while depending on your internet connection and computer. To install Winds of the North, complete the following steps.
 
+- Head to the [Winds of the North Collection page](https://www.nexusmods.com/games/skyrimspecialedition/collections/60dym8), select the latest revision, and click "Add to Wabbajack"
+<br>
+OR
+<br>
 - Open Wabbajack and click `Browse Modlists`.
 - Search for "Winds of the North", then click on the list when it shows up.
 
@@ -181,7 +185,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
  - In some rare cases you may see a fourth number be used, which I will refer to as `HOTFIX`. These list "updates" will be used if the list needs to be recompiled for any reason. There will be no changes in these "updates" as they are purely for maintenance.\
 Before updating, please check the [changelog](../changelog/) and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button.
+Updating is like installing the list. Simply make sure your paths are the same and install as usual.
 
  **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
 
