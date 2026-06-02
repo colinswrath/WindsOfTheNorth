@@ -111,7 +111,7 @@ Winds of the North includes several mods that add new lands to explore, new ques
 <div class="midmargin">
 One of the primary goals when making Winds of the North was to try to improve upon the general art direction of Skyrim rather than replace it. Therefore, I rely heavily on mods like "Community Shaders" and "Vanilla Remastered" to enhance to visuals.
 <br>
-There are also many other mods that touch up the game in all sorts of ways, from armor retextures by <a href="https://next.nexusmods.com/profile/xavbio/mods">Xavbio</a>, to overhauled weathers from "Classic Weathers".
+There are also many other mods that touch up the game in all sorts of ways, from armor retextures by <a href="https://next.nexusmods.com/profile/xavbio/mods">Xavbio</a>, to overhauled storm weathers from "True Storms".
 </div>
 
 ### Audio and Music
