@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.0.0.png)
 
+- [4.0.2](#402) June 2 2026
 - [4.0.1](#401) May 31 2026
 - [4.0.0](#400) May 29 2026
   - [4.0.0 Release Candidate 9](#400-rc-9)
@@ -71,6 +72,42 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+---
+# 4.0.2
+
+### Key Info
+
+ - This update is save safe with version 4.0.0+
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Discord Rich Presence has been added. Instead of showing that you are playing Skyrim in Discord, it will now say "Winds of the North - Skyrim". It will also show things like where you are at in game, and what you are doing, stats, etc.
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: ACTUALLY enabled Critter Fixes (whoopsies)
+ - Fix: Deleted racesex_menu.swf from the Widescreen optional so that users may at least properly choose class and race, even if it isnt scaled properly
+ - Fix: The Character Menu should now properly show buffed armor rating (Modified DLL)
+ - Fix: Removed the Dawngaurd DLC quest requirement for normal bolt recipes
+ - Fix: Pilgrim vendor spells now respect Mysticism Beta's slower spell unlocks via an additional patch
+ - Fix: Adjustments to IED. Shields and spears that are NOT equipped by the NPC should no longer display on their person
+
+## Mod Changes
+
+### Updated
+
+ - Community Shaders
+ - SKSE Menu Framework
+
+### Added
+
+ - Crash Logger SSE AE VR - PDB support (Skyrim PDB)
+ - Discord Rich Presence
 
 ---
 # 4.0.1
