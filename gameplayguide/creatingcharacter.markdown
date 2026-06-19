@@ -76,7 +76,7 @@ Now, your race dictates a racial passive and nothing else. Starting skills and s
     </tr>
     <tr>
         <td>Argonian</td>
-        <td>Your Health, Magicka, and Stamina are increased by 25.</td>
+        <td>When you fall below half Magicka or Stamina, your Magicka or Stamina Regeneration is increased by 50%.</td>
     </tr>
     <tr>
         <td>Breton</td>
@@ -132,7 +132,7 @@ Now, your race dictates a racial passive and nothing else. Starting skills and s
     </tr>
     <tr class="archer">
         <td class="skill warrior">Archer</td>
-        <td>You draw your bow 20% faster.</td>
+        <td>You move 20% faster while drawing a bow.</td>
         <td>
             <span class="skill warrior"><b><u>Archery</u></b></span>, 
             <span class="skill thief">Alchemy</span>, 
@@ -175,13 +175,13 @@ Now, your race dictates a racial passive and nothing else. Starting skills and s
         </td>
     </tr>
     <tr class="spellsword">
-        <td class="skill mage">Spellsword</td>
+    <td class="skill mage">Spellsword</td>
         <td>Destruction spells cost 20% less while you have a weapon equipped.</td>
         <td>
             <span class="skill warrior"><b><u>One-handed</u></b></span>, 
             <span class="skill mage">Destruction</span>, 
             <span class="skill mage">Enchanting</span>, 
-            <span class="skill warrior">Heavy Armor</span>, 
+            <span class="skill thief">Light Armor</span>, 
             <span class="skill mage">Restoration</span>
         </td>
     </tr>
@@ -197,14 +197,14 @@ Now, your race dictates a racial passive and nothing else. Starting skills and s
         </td>
     </tr>
     <tr class="battlemage">
-        <td class="skill mage">Battlemage</td>
-        <td>Your Armor Rating is increased by 100 while under the effect of an armor spell.</td>
+    <td class="skill mage">Battlemage</td>
+        <td>Ward spells resist 50% of incoming weapon damage.</td>
         <td>
             <span class="skill mage"><b><u>Destruction</u></b></span>, 
             <span class="skill mage">Alteration</span>, 
-            <span class="skill mage">Enchanting</span>, 
             <span class="skill warrior">Heavy Armor</span>, 
-            <span class="skill warrior">Two-handed</span>
+            <span class="skill warrior">One-handed</span>, 
+            <span class="skill mage">Restoration</span>
         </td>
     </tr>
     <tr class="healer">
@@ -241,25 +241,25 @@ Now, your race dictates a racial passive and nothing else. Starting skills and s
         </td>
     </tr>
     <tr class="sorcerer">
-        <td class="skill mage">Sorcerer</td>
+    <td class="skill mage">Sorcerer</td>
         <td>You have a 10% chance to absorb the Magicka from incoming spells.</td>
         <td>
             <span class="skill mage"><b><u>Enchanting</u></b></span>, 
-            <span class="skill thief">Alchemy</span>, 
+            <span class="skill mage">Alteration</span>, 
             <span class="skill mage">Conjuration</span>, 
-            <span class="skill mage">Destruction</span>, 
-            <span class="skill warrior">Heavy Armor</span>
+            <span class="skill warrior">Heavy Armor</span>, 
+            <span class="skill warrior">Two-handed</span>
         </td>
     </tr>
     <tr class="witchhunter">
-        <td class="skill thief">Witchhunter</td>
+    <td class="skill thief">Witchhunter</td>
         <td>Your potions last 50% longer.</td>
         <td>
             <span class="skill mage"><b><u>Conjuration</u></b></span>, 
             <span class="skill thief">Alchemy</span>, 
             <span class="skill warrior">Archery</span>, 
-            <span class="skill mage">Restoration</span>, 
-            <span class="skill thief">Light Armor</span>
+            <span class="skill thief">Light Armor</span>, 
+            <span class="skill mage">Restoration</span>
         </td>
     </tr>
     <tr class="agent">
@@ -351,79 +351,103 @@ Now, your race dictates a racial passive and nothing else. Starting skills and s
     </tr>
     <tr class="athletic">
         <td class="trait">Athletic</td>
-        <td>Sprinting costs 50% less Stamina out of combat.</td>
-    </tr>
-    <tr class="beloved">
-        <td class="trait">Beloved</td>
-        <td>You have the Blessing of Dibella, and carry her amulet.</td>
-    </tr>
-    <tr class="bitten">
-        <td class="trait">Bitten</td>
-        <td>You are afflicted by Sanguinare Vampiris.</td>
+        <td>Sprinting costs 50% less Stamina.</td>
     </tr>
     <tr class="blessed">
         <td class="trait">Blessed</td>
-        <td>You have a small chance to find healing scrolls on fallen enemies.</td>
+        <td>Healing scrolls are twice as strong, and you have a chance to find healing scrolls on fallen enemies.</td>
     </tr>
-    <tr class="brute">
-        <td class="trait">Brute</td>
+    <tr class="brutal">
+        <td class="trait">Brutal</td>
         <td>You deal 10% extra damage with weapons, but you move 10% slower.</td>
     </tr>
     <tr class="cannibal">
         <td class="trait">Cannibal</td>
-        <td>You have a chance to find human flesh and human hearts on slain enemies.</td>
+        <td>You are afflicted with Sanguinare Vampiris, and you have a chance to find human flesh and human hearts on slain enemies.</td>
     </tr>
     <tr class="careful">
         <td class="trait">Careful</td>
-        <td>You take less damage while power attacking, drawing a bow, or casting a spell, but deal less damage to enemies who are power attacking, drawing a bow, or casting a spell.</td>
+        <td>You take 25% less damage from attacks of opportunity, but deal 25% less attack of opportunity damage to enemies.</td>
     </tr>
     <tr class="charming">
         <td class="trait">Charming</td>
-        <td>Your buying and selling prices are improved by 10%.</td>
+        <td>Your buying and selling prices are improved by 10%. Once every ten minutes, you can use the Parley power to calm nearby living targets.</td>
     </tr>
-    <tr class="coward">
-        <td class="trait">Coward</td>
+    <tr class="craven">
+        <td class="trait">Craven</td>
         <td>You move 10% faster, but take 10% extra weapon and spell damage.</td>
+    </tr>
+    <tr class="cursed">
+        <td class="trait">Cursed</td>
+        <td>Your reanimation spells cost 50% less, but healing spells cost twice as much. You start with the Raise Zombie spell.</td>
+    </tr>
+    <tr class="disciplined">
+        <td class="trait">Disciplined</td>
+        <td>You gain 20% extra experience in class skills, but 20% less experience in all other skills.</td>
     </tr>
     <tr class="drunkard">
         <td class="trait">Drunkard</td>
         <td>Alcohol is twice as strong, but when you are not under the effect of alcohol, your Magicka and Stamina are reduced by 50.</td>
     </tr>
+    <tr class="elusive">
+        <td class="trait">Elusive</td>
+        <td>Once every five minutes, you can use the Vanish power to disappear into the shadows.</td>
+    </tr>
+    <tr class="faithful">
+        <td class="trait">Faithful</td>
+        <td>Divine amulets are twice as strong, and you start with an Amulet of Dibella.</td>
+    </tr>
     <tr class="faithless">
         <td class="trait">Faithless</td>
         <td>You cannot benefit from shrines, but you receive one additional perk point.</td>
     </tr>
+    <tr class="favored">
+        <td class="trait">Favored</td>
+        <td>Once every five minutes, you can use the Guardian Spirit power to summon a spectral ally.</td>
+    </tr>
     <tr class="foolhardy">
         <td class="trait">Foolhardy</td>
-        <td>Your armor is 25% more effective when you are not wearing a helmet.</td>
+        <td>Your armor is more effective when you are not wearing a helmet.</td>
     </tr>
     <tr class="gifted">
         <td class="trait">Gifted</td>
-        <td>You receive 10% extra experience.</td>
+        <td>You do not benefit from your class’s starting skills, but you receive 10% extra experience.</td>
+    </tr>
+    <tr class="healthy">
+        <td class="trait">Healthy</td>
+        <td>Your Disease Resistance is increased by 50%.</td>
     </tr>
     <tr class="hoarder">
         <td class="trait">Hoarder</td>
         <td>Your Carry Weight is increased by 100, but your selling prices are reduced by 20%.</td>
     </tr>
+    <tr class="intimidating">
+        <td class="trait">Intimidating</td>
+        <td>You are much more likely to succeed at intimidation checks. Once every ten minutes, you can use the Battle Cry power to cause nearby living enemies to flee in fear.</td>
+    </tr>
     <tr class="milkdrinker">
         <td class="trait">Milkdrinker</td>
-        <td>Bonuses from milk are five times stronger, and you find extra milk in your travels.</td>
+        <td>Bonuses from milk are five times stronger. You find extra jugs of milk in your travels.</td>
     </tr>
     <tr class="mundane">
         <td class="trait">Mundane</td>
         <td>You resist 20% of all incoming spell damage, but your spells and enchantments cost five times as much.</td>
     </tr>
-    <tr class="novice">
-        <td class="trait">Novice</td>
-        <td>You no longer benefit from your class’s starting skills.</td>
+    <tr class="prepared">
+        <td class="trait">Prepared</td>
+        <td>Your Carry Weight is increased by 25, and you find extra cooking ingredients in your travels.</td>
     </tr>
     <tr class="reckless">
         <td class="trait">Reckless</td>
-        <td>You deal extra damage to staggered targets, but take extra damage while staggered.</td>
+        <td>You deal 25% extra weapon and spell damage to staggered targets, but take 25% extra weapon and spell damage while staggered.</td>
     </tr>
-    <tr class="salty">
-        <td class="trait">Salty</td>
-        <td>You find extra salt in your travels.</td>
+    <tr class="rugged">
+        <td class="trait">Rugged</td>
+        <td>Your Injury Resistance is increased by 50%.</td>
+    </tr>
+    <tr class="stormborn">
+        <td class="trait">Stormborn</td>
+        <td>Your Shock Resistance is increased by 50%.</td>
     </tr>
     <tr class="sweettooth">
         <td class="trait">Sweet Tooth</td>
@@ -433,9 +457,17 @@ Now, your race dictates a racial passive and nothing else. Starting skills and s
         <td class="trait">Trollkin</td>
         <td>Your Health Regeneration is increased by 100%, but your Fire Resistance is reduced by 50%.</td>
     </tr>
+    <tr class="venomous">
+        <td class="trait">Venomous</td>
+        <td>You have a chance to find poisons on slain enemies.</td>
+    </tr>
+    <tr class="versatile">
+        <td class="trait">Versatile</td>
+        <td>You no longer benefit from your racial passive, but your Health, Magicka, and Stamina are increased by 25.</td>
+    </tr>
     <tr class="wanted">
         <td class="trait">Wanted</td>
-        <td>You are a wanted criminal, and have bounties in each of Skyrim’s holds.</td>
+        <td>You receive 20% better prices at fences, but you have bounties in each of Skyrim’s holds.</td>
     </tr>
 </table>
 

@@ -17,7 +17,8 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.0.0.png)
 
-- [4.0.3](#403) June 18 2026
+- [4.1.1](#411) June 19 2026
+- [4.1.0](#410) June 18 2026
 - [4.0.2](#402) June 2 2026
 - [4.0.1](#401) May 31 2026
 - [4.0.0](#400) May 29 2026
@@ -73,6 +74,27 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+---
+# 4.1.1
+
+### Key Info
+
+ - This update is save safe with version 4.1.0 ONLY
+
+## Patch Notes
+
+<hr class="thin-hr">
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: Fixed a critical bug with Simple Tween Menu Hotkey
+
+
+## Mod Changes
+
+### Updated
+
+ - Simple Tween Menu Hotkey
 
 ---
 # 4.1.0
