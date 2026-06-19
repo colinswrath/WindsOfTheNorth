@@ -62,3 +62,7 @@ Enable
 
 Prid 0001B5CD
 Enable
+
+## How do I change FOV?
+
+If you press "F1" it will bring up a menu to change the fov. The old way of using the console command/ini edit had some inconsistencies that would cause it to revert at times. 

@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.0.0.png)
 
+- [4.0.3](#403) June 18 2026
 - [4.0.2](#402) June 2 2026
 - [4.0.1](#401) May 31 2026
 - [4.0.0](#400) May 29 2026
@@ -72,6 +73,103 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+---
+# 4.1.0
+
+### Key Info
+
+ - This update is NOT save safe with previous updates, due to some changes to mods, and regenerating LOD
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - I have managed to create a proper widescreen patch for Apprentice's racemenu. This patch supports 21:9 aspect ratio only for now.
+ - I have made a new patch for Legionary Spears that adds and integrates (non enchanted versions) of Amber, Madness, Dark, and Golden longspears and spears
+   - These spears should appear throughout the leveled lists in ECSS in the same manner as their other counterparts, even appearing on summoned Golden Saints and Dark Seducers
+   - The stats of the spears have been balanced off of "Blazing's Saints and Seducer Material Rebalance", which has also been added to the list this update
+   - This does not include or distribute enchanted variants of these spears. I may do so in the future
+ - A very long time ago we stopped using Dynamic Cubemaps - Metals because of some odd lighting issues. This was many CS versions ago though, and after trying them out again with Xavbio's new Dwemer metals retex I am quite happy with the results
+ - Xav's new "Dwemer Metals Retexture SE" has been added, which gives a nice new texture to...you guessed it..dwemer metals :)
+ - I switched steel armor to the sleeved version of Xav's re-mesh
+ - The new Apprentice RC has restructured things a bit, and now requires Aetherius instead of replacing it. Thus, Aetherius has been re-added.
+ - Legionary has been updated to the newest beta
+ - The name at the top of the character menu is now in standard Futura font instead of all caps bold Futura.
+ - Tween Menu Overhaul has been removed, and instead replaced by "Simple Tween Menu Hotkey"
+ - Removed some now unnecessary changes to Apprentice starting gear
+
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: Forwarded USSEP Iron Greatsword swing speed changes (yes iron greatswords and iron battleaxes were swinging the same speed this whole time)
+ - Fix: One leveled list for Greatswords (EC_SS_SIManiaLItemWeaponGreatSwordSpecial) in ECSS contained a sword record instead of greatsword
+ - Fix: Re-disabled the IED GUI, I left it on by accident
+ - Fix: Soran's Journal should no longer appear in the college (I meant for this to be disabled). If you have already been here on a current save it'll probably still be there, but this should be fixed going forward
+ - Fix: Windwalker scrolls were still being sold by merchants, this has been fixed (the slower unlocks addon reverted the change mysticism made to remove these)
+ - Fix: Pressing LB on a controller should no longer bring up the mod imgui menu
+ - Fix: The uncapper had edits left over from testing that gave you perks after level 50. This has been removed.
+ - Fix: Apprentice should now work on Linux/Steam deck
+ - Fix: Correctly distributed longspears to stormcloaks
+ - Fix: Start Game Settings was updated to fix a bug where the pause menu will not reflect changes that you make to difficulty
+ - Fix: Fixed a bug where eating quest item food was technically restoring hunger
+ - Fix: Hajvarr Iron-Hand finally finally actually equips his gauntlets (Thanks Aerin for fixing this)
+ - Tweak: Eorlund will now also offer the player Skyforge spears and longspears alongside the normal gear selection
+ - Tweak: The woodcutter's axe and the pickaxe are now 5 weight instead of 10
+ - Tweak: The bottom sections of MoreHUD's UI should no longer show (too much clutter)
+
+
+## Mod Changes
+
+### Updated
+
+ - Dwemer Armors and Weapons Retexture SE
+ - Floating Subtitles
+ - Dragon Armors and Weapons Retexture SE
+ - Imperial Armors and Weapons Retexture SE
+ - Steel Armors and Weapons Retexture SE
+ - powerofthree's Papyrus Extender
+ - Apprentice - A Class Overhaul Beta
+ - Start Game Settings
+ - Community Shaders
+ - Screen Space Global Illumination (SSGI)
+ - Skylighting
+ - Terrain Blending
+ - HDR - Community Shaders
+ - Survival Mode Improved - SKSE
+ - Legionary - A Spear Mod
+ - Favor Quests Separated
+ - Favor Quests Separated - UESP patch
+ - Read or Take
+ - LOD Model Library for DynDOLOD
+ - DynDOLOD DLL NG
+ - DynDOLOD Resources SE 3
+ - The Stumbling Sabrecat
+
+### Added
+
+ - Dwemer Metals Retexture SE
+ - Dynamic Cubemaps - Metals
+ - Blazing's Saints and Seducer Material Rebalance
+ - Aetherius - A Race Overhaul
+ - Fish Plaque Fixes and Improvements
+ - RoastGorilla439's Patch Collection
+ - Varona Nelas Lives Longer - Reluctant Steward Delayed
+ - Simple Tween Menu Hotkey
+ - Yorgrim Hall
+ - Better Third Person Selection
+
+### Removed
+
+ - Markarth Fixed AF
+ - Nordic Carved Armors and Weapons SE (Merged into the steel retexture mod)
+ - Tween Menu Overhaul
+ - Sky Sync (This is now a core feature)
+ - Simple Immersive Civil War Soldiers
+ - Item Stacking Tweaks SKSE
+ - Dynamic Random Dragons (we already have Delayed Dragons in the list)
 
 ---
 # 4.0.2
