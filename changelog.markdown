@@ -114,6 +114,8 @@ h2,h3,h4,h5 {
 
  - The Stumbling Sabrecat
  - Canis Hysteria - The Werewolf Disease
+ - Community Shaders
+ - Skypatcher
 
 ---
 # 4.1.1
