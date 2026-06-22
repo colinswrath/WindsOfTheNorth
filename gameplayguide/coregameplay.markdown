@@ -110,7 +110,7 @@ Simon words the end result much better than I can:
 
 ## Inns
 
-TODO - Screenshot of inn dialogue
+<img alt="" src="../assets/siteImages/InnkeepDialogue.png" class="dropshadow responsive-img">
 
 Inns now function a little differently than you may be used to. You may now rent an Inn room for an extended amount of time. This can serve as a cheaper alternative to a home until you save enough to buy one.
 
@@ -127,6 +127,8 @@ When the rental expires, the chest will simply lock and your goods will remain s
 
 Rather than being completely disabled, fast travel now requires a "Travel Pack".
 
-TODO-Screenshot of travel pack
+<img alt="" src="../assets/siteImages/TravelPackInv.png" class="dropshadow responsive-img">
 
 >  Travel packs can be crafted from any blacksmith's forge, purchased from general merchants, and found occasionally in "clutter" type loot.
+
+<img alt="" src="../assets/siteImages/TravelPackCraft.png" class="dropshadow responsive-img">

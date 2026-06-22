@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.0.0.png)
 
+- [4.1.2](#412) June 22 2026
 - [4.1.1](#411) June 19 2026
 - [4.1.0](#410) June 18 2026
 - [4.0.2](#402) June 2 2026
@@ -74,6 +75,46 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+---
+# 4.1.2
+
+### Key Info
+
+ - This update is save safe with version 4.1.0+
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Added Legionary patch for Civil War Healers (Thanks Aerin)
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: Removed some defunct edits from the misc conflicts patch
+ - Fix: Actually fixed spears not distributing to stormcloaks (I made the fix before, but then updated legionary and forgot to re-make it)
+ - Fix: Shouting should no longer increase speech XP
+ - Fix: Fixed the Apprentice Widescreen patch not being included
+ - Fix: Fixed the MoreHUD effect text being too large with Better Third Person selection installed
+ - Fix: Disabled Press H to Horse debug messages
+ - Fix: Fixed not being able to give re-animated minions gear
+ - Fix: Fixed command rune spell tome having the incorrect inventory icon
+ - Fix: Fixed Oblivion's Embrace spell tome having the incorrect inventory icon
+ - Fix: Fixed Springheel spell tome having the incorrect inventory icon
+ - Fix: Fixed Leap spell tome having the incorrect inventory icon
+ - Fix: There is an unfortunate bug that causes unarmed damage scaling with hand to hand skill to stop working at seemingly random times. 
+    - I know what is happening, just not the why. Therefore, I wrote a failsafe into the main script that applies the scaling so that if detects that you don't have the scaling after it attempts to add it, then it will try to re-apply. This should stop it from breaking, and fix it on existing saves as well. 
+ - Tweak: Disabled "hold to dismount" for Better Third Person selection. This was really getting on my nerves. If you prefer it being on, feel free to enable it in the MCM menu
+
+## Mod Changes
+
+### Updated
+
+ - The Stumbling Sabrecat
+ - Canis Hysteria - The Werewolf Disease
+
 ---
 # 4.1.1
 
