@@ -82,6 +82,8 @@ h2,h3,h4,h5 {
 
 ### Key Info
 
+ - This update is save safe with version 4.1.0+
+
 ## Patch Notes
 
 <hr class="thin-hr">
