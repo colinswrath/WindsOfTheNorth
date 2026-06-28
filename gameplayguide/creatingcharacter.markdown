@@ -175,7 +175,7 @@ Now, your race dictates a racial passive and nothing else. Starting skills and s
         </td>
     </tr>
     <tr class="spellsword">
-    <td class="skill mage">Spellsword</td>
+    <td class="skill warrior">Spellsword</td>
         <td>Destruction spells cost 20% less while you have a weapon equipped.</td>
         <td>
             <span class="skill warrior"><b><u>One-handed</u></b></span>, 
@@ -252,7 +252,7 @@ Now, your race dictates a racial passive and nothing else. Starting skills and s
         </td>
     </tr>
     <tr class="witchhunter">
-    <td class="skill thief">Witchhunter</td>
+    <td class="skill mage">Witchhunter</td>
         <td>Your potions last 50% longer.</td>
         <td>
             <span class="skill mage"><b><u>Conjuration</u></b></span>, 
@@ -307,7 +307,7 @@ Now, your race dictates a racial passive and nothing else. Starting skills and s
         </td>
     </tr>
     <tr class="scout">
-        <td class="skill warrior">Scout</td>
+        <td class="skill thief">Scout</td>
         <td>Your Stamina Regeneration is increased by 50%.</td>
         <td>
             <span class="skill thief"><b><u>Light Armor</u></b></span>, 

@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.0.0.png)
 
+- [4.1.3](#413)
 - [4.1.2](#412) June 22 2026
 - [4.1.1](#411) June 19 2026
 - [4.1.0](#410) June 18 2026
@@ -77,6 +78,47 @@ h2,h3,h4,h5 {
 - [1.0.0](#100) March 8 2024
 
 ---
+# 4.1.3
+
+### Key Info
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Removed some now uneeded changes from the Simonrim - Misc Fixed plugin
+ - Updated the Apprentice DLL to a new version that should hopefully resolve any instances of skills getting reset. It did for me on a test save coc'ing from the main menu.
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: Yorgrim Hall - fixed the staff quarters chandelier crafting recipe saying its a "desk" and not building the chandelier when you make it
+ - Fix: Yorgrim Hall - Fixed a small gap in the entranceway
+ - Fix: Fixed a longspear accidently being distributed to the LootDraugr1HWeapon100 list
+ - Fix: Added a fix for the Volunruud boss not using their proper gear (thanks Aerin)
+ - Fix: The Apprentice Widescreen patch should be included now. I know I said it was before, and it SHOULD have been. Apparently if you want an included optional that is disabled by default, I have to flag it as "AlwaysEnabled" AND "Included", which is annoying. Regardless, should actually be there now.
+ - Fix: Windwalker scrolls was being reintroduced (again) to the lists by a patch. This has been fixed 
+ - Tweak: Hours slept should now accumulate if they do not meet the number required to heal injuries (ie. Sleeping in mutliple one hour bursts should heal injuries provided you sleep enough hours)
+   - These accumulated hours will dicipate at the rate of 1 per hour
+
+## Mod Changes
+
+### Added
+
+ - Fast Travel Faster on Horseback
+ - The Winds of Fate
+
+### Updated
+
+ - Gourmet
+ - Community Shaders
+ - Open Animation Replacer
+ - True Directional Movement
+ - Keyword Item Distributor
+
+
+---
 # 4.1.2
 
 ### Key Info
@@ -105,7 +147,8 @@ h2,h3,h4,h5 {
  - Fix: Fixed Springheel spell tome having the incorrect inventory icon
  - Fix: Fixed Leap spell tome having the incorrect inventory icon
  - Fix: There is an unfortunate bug that causes unarmed damage scaling with hand to hand skill to stop working at seemingly random times. 
-    - I know what is happening, just not the why. Therefore, I wrote a failsafe into the main script that applies the scaling so that if detects that you don't have the scaling after it attempts to add it, then it will try to re-apply. This should stop it from breaking, and fix it on existing saves as well. 
+    - I know what is happening, just not the why. Therefore, I wrote a failsafe into the main script that applies the scaling so that if detects that you don't have the scaling after it attempts to add it, then it will try to re-apply. This should stop it from breaking, and fix it on existing saves as well.
+ - Fix: Fixed some missing distribution items from Legionary to civil war soldiers (thanks Aerin)
  - Tweak: Disabled "hold to dismount" for Better Third Person selection. This was really getting on my nerves. If you prefer it being on, feel free to enable it in the MCM menu
 
 ## Mod Changes
