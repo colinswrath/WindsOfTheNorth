@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.0.0.png)
 
+- [4.1.5](#415) July 9 2026
 - [4.1.4](#414) July 9 2026
 - [4.1.3](#413) June 28 2026
 - [4.1.2](#412) June 22 2026
@@ -77,6 +78,29 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+---
+# 4.1.5
+### Key Info
+ - This update is save safe with version 4.1.0+
+ - If updating from pre 4.1.4, please also read 4.1.4 changelog
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - This is a small update to add new dedicated 1h and 2h spear perks to the game, thanks to Simonmagus
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: Legionary - Art and Honor 7z archive was present in the mod folder when it shouldnt have been
+
+## Mod Changes
+
+### Added
+
+ - Adamant - Spear Perks
 
 ---
 # 4.1.4
