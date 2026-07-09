@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.0.0.png)
 
+- [4.1.4](#414) July 9 2026
 - [4.1.3](#413) June 28 2026
 - [4.1.2](#412) June 22 2026
 - [4.1.1](#411) June 19 2026
@@ -76,6 +77,68 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+---
+# 4.1.4
+
+### Key Info
+
+ - This update is save safe with version 4.1.0+
+ - Please see the note below regarding IED
+ - When the game asks you are you sure you want to continue due to missing plugins, you can just click ok/yes
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Winds of the North has been updated to include the full release version of "Apprentice - A Class Overhaul"
+ - Default Faces NPCs Fixed has been updated, this should hopefully resolve darkface bug issues (like with Minorne)
+ - This new version of the Legionary beta includes spears and animations for Falmer
+ - The IED preset has been updated to point to the updated formIDs of the Legionary keywords. It is possible that you might need to import the default settings again. If you notice spears are no longer on your back, or NPC's backs then follow the instructions below to update your config.
+   - You can do so by pressing Backspace -> File -> Default Config -> Import -> Make sure user is selected and click OK
+ - A new WIP addon for Spear Perks by SimonMagus has been added to the list.
+ - The list has been updated to the new Crusader Beta that is available on the Simonrim essentials resources nexus page. Quite a bit has changed from the old version, the idea behind it is the same though. This version should be a bit faster than the old one.
+   - As such, the "Crusader - Faster" optional has been removed, as it is moot (no its not the same as the new beta)
+   - One of the big changes is recieving a perk point every 5 levels after level 50. If you want the full breakdown visit the [Simonrim Essentials](https://www.nexusmods.com/skyrimspecialedition/mods/184207) modpage and check out the description.
+ 
+### Bug Fixes and Tweaks
+
+ - Fix: The SkyUI font size should now be set back to normal
+ - Fix: Some grammer in the Bounty Quest Redone dialogue has been adjusted
+ - Fix: The black books from Siege at Icemoth and Granite Hill should now have inventory icons to match the ones from Dragonborn
+ - Fix: Yorgrim hall should no longer be visible from the start
+ - Fix: Fixed Illkurok (Unique Spear) not having a charge
+ - Fix: All Hooded Dragon Priest Mask variants should have the correct inventory icon now
+ - Fix: There is a long standing bug in the vanilla game, due to how magic effects on npcs work, where a reanimated minion would lose the reanimation FX and not disintegrate when dying after moving through a worldspace loading screen (like the whiterun gate). This has been fixed. This fix works for any new reanimations going forward.
+ - Fix: Fixed a scenario that could cause Dragonborn DLC cultists to spawn before level 30
+ - Fix: Fixed a bug where having the trollkin trait wasnt showing properly in character menu. This fix is not retroactive. If you have this issue, please open the console and enter the command "set MAG_TraitTracker to 29"
+ - Fix: Fixed a conflict between Arena - Quest Requirements and House of Horrors Quest Expansion
+- Tweak: The "N" key should no longer open Character menu. The character menu should be accessed via the tween menu, not the N hotkey. Having it bound to N was causing the Character Menu UI to open when typing names for enchantments
+
+
+## Mod Changes
+
+### Added
+
+ - Enhanced Invisibility
+ - Horizon Fix - SKSE
+
+### Updated
+
+ - Apprentice - A Class Overhaul
+ - Default Faces NPCs Fixed
+ - Keyword Item Distributor
+ - Legionary - A Spear Integration
+ - Journeyman - A Fast Travel Overhaul
+ - Crusader - An Uncapper Preset (Beta)
+ - Aetherius - A Race Overhaul
+ - Pilgrim - A Religion Overhaul
+
+### Removed
+
+ - Character Menu SE - Hand to Hand Patch (replaced with Apprentice + h2h patch)
 
 ---
 # 4.1.3
