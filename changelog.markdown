@@ -98,7 +98,6 @@ h2,h3,h4,h5 {
  - This new version of the Legionary beta includes spears and animations for Falmer
  - The IED preset has been updated to point to the updated formIDs of the Legionary keywords. It is possible that you might need to import the default settings again. If you notice spears are no longer on your back, or NPC's backs then follow the instructions below to update your config.
    - You can do so by pressing Backspace -> File -> Default Config -> Import -> Make sure user is selected and click OK
- - A new WIP addon for Spear Perks by SimonMagus has been added to the list.
  - The list has been updated to the new Crusader Beta that is available on the Simonrim essentials resources nexus page. Quite a bit has changed from the old version, the idea behind it is the same though. This version should be a bit faster than the old one.
    - As such, the "Crusader - Faster" optional has been removed, as it is moot (no its not the same as the new beta)
    - One of the big changes is recieving a perk point every 5 levels after level 50. If you want the full breakdown visit the [Simonrim Essentials](https://www.nexusmods.com/skyrimspecialedition/mods/184207) modpage and check out the description.
