@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.0.0.png)
 
+- [4.1.6](#416) July 9 2026
 - [4.1.5](#415) July 9 2026
 - [4.1.4](#414) July 9 2026
 - [4.1.3](#413) June 28 2026
@@ -78,6 +79,27 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+---
+# 4.1.6
+
+### Key Info
+ - This update is save safe with version 4.1.0+
+ - If updating from pre 4.1.4, please also read 4.1.4 changelog
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Removed Horizon Fix - SKSE. I added it last moment and did not catch that it was causing artifacting with certain waters.
+
+## Mod Changes
+
+### Removed
+
+ - Horizon Fix - SKSE
+
 ---
 # 4.1.5
 ### Key Info
