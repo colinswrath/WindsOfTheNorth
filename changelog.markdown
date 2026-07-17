@@ -80,6 +80,48 @@ h2,h3,h4,h5 {
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
 ---
+# 4.1.7
+
+### Key Info
+ - This update is save safe with version 4.1.0+
+ - If updating from pre 4.1.4, please also read 4.1.4 changelog
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Mercantile has been updated to the newest version available.
+ - Manual Crossbow Reloading has been added
+ - Jelidity's SkyHUD cut has been added, with a new compass design.
+
+### Bug Fixes and Tweaks
+
+ - Fix: Fixed an issue with Character Menu where if you opened the character menu right as an NPC was going through a load door, they would come out the other side A-posing
+ - Fix: Fixed missing facegen (darkface) for two dead vampires at the hall of the vigilant
+ - Fix: Fixed the Dragon Priest hood variants Artificer patch not forwarding Rhagot's enchant
+
+## Mod Changes
+
+### Updated
+
+ - Apprentice - A Class Overhaul
+ - Character Menu SE - Simonrim Patches
+ - CC Crossbows - Thaumaturgy Patch
+ - powerofthree's Tweaks
+ - powerofthree's Papyrus Extender
+ - Silver Armor and Weapons Retexture SE
+ - Mercantile
+
+### Added
+ - Sensible General Merchants
+ - Container Distribution Framework
+ - Jelidity SkyHUD Preset
+ - Manual Crossbow Reloading
+
+
+---
 # 4.1.6
 
 ### Key Info
