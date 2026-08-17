@@ -45,7 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 4.0.0 R.C. 9](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.0.0rc9/WindsoftheNorth.wabbajack)
+[Winds of the North - 4.2.0 Beta 1](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.2.0Beta1/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
@@ -74,9 +74,7 @@ You can install test versions by following the steps below:
 
 Beyond looking for general bugs and the like, there are a few things that I am specifically looking to test. 
 
-- The new Granite hill location and it's quests
-- The quest "The Cursed Tribe" has recieved a new quest expansion.
-- A great deal of Simonrim has been updated, so mainly just keep an eye out for any oddities there.
+- One of the things I need tested the most is the Thieves guild questline. We have switched to "Thieves Guild Plus Plus - A Questline Overhaul", and I haven't really had a chance to give it a full playthrough. Although I do like all of the things it does on paper.
 
 ## Changelog
 
@@ -84,629 +82,191 @@ Beyond looking for general bugs and the like, there are a few things that I am s
   <hr class="thin-hr">
 </div>
 
-![](../images/WindsofTheNorthLogo2k-4.0.0.png)
+![](../images/WindsofTheNorthLogo2k-4.2.0.png)
 
-# 4.0.0
+# 4.2.0
 
 ### Key Info
+ - This update is NOT save safe with previous versions of Winds of the North
 
- - This update is save safe with previous 4.0.0 RCs, just click okay when it says there is missing plugins.
- 
 ## Patch Notes
 
 <hr class="thin-hr">
 
+### Overview
+
+ - In this update, I wanted to focus on cleaning up some things in the list that I deemed unnecessary. I also wanted to provide some additional content to play.
+ - Support for several Anniversary Edition Creations were added that were not supported before. Some recent mods have allowed me to integrate these in a way that I am more happy with. 
+ - We have also re-added Wyrmstooth, and the Thieves Guild Questline has been overhauled with Thieves Guild Plus Plus - A Questline Overhaul
+ - The latest Simonrim mods have been brought up to date.
+ - You may also notice Crossbow and Alternative Armors distribution behaves differently. More details on that, and more, are below.
+
 ### Misc
 
- - SPEEEEEAAAARRSSS!
-   - The beta for Legionary Spears by August has been added. This is by far the best spear implementation to date, with new animations, leveled distribution, and perk integration. 
- - I.E.D. has been re-added to facilitate the equipping of spears on your back. The default preset should disable the usual functionality that turns you into a visual pack mule. 
- 
+ - Support for several CC items have been added via Aegis, Masterwork, and other integration mods
+   - Nordic Jewelry
+   - Netch Leather
+   - Forgotten Seasons
+   - Sunder & Wraithguard
+   - Stendarr's Hammer
+   - Umbra
+   - Backpacks
+ - On the flipside, I have stepped back to re-evaluate the honestly quite large number of mods that make changes and tweaks to the game. I wanted to think about what was really necessary to achieve what I want.
+   - The Civil War questline is notoriously finicky, and modifying it even at smaller scales has been a large source of bugs.
+   - Tons of cleanup has been done on the WotN - Tweaks and the WotN - Misc Conflicts plugins
+ - The default difficulty is now "Master" instead of "Expert". Feel free to change this in your own game if you think things are too difficult for you.
+ - Bounty Quests Redone has been removed, and replaced with the bounty quests module of Favor Quests Separated
+   - BQR is a great mod, but there are a few reasons I made this choice.
+   - The scope of the favor quests separated bounty module was a good fit for this list. It expands a bit on bounties and improves their gold reward over vanilla in a way that fits.
+   - I understand the premise of accepting multiple bounty quests at once was attractive, but it made things hard to debug when there were issues
+ - Removed existing thieves guild quest mods in favor of "Thieves Guild Plus Plus - A Questline Overhaul"
+ - Updated to the newest Simonrim suite beta, and the crusader uncapper beta
+ - Enhanced vanilla trees has been updated, and "Tree Branches 2k" has been removed. I have to say I quite like the new EVT trees.
+ - Gemling has been added which makes jewelry look much nicer, but still fits in with the art style nicely
+ - As such, I have decided to add support for the Nordic Jewelry CC via "Jewels of the Nords - Nordic Jewelry Reintegration"
+ - Several custom misc fixes have been combined into one file called "WotN - Misc Fixes"
+ - Fancy fishing has been removed. Its a really cool idea and a neat mod from a technical standpoint, but the minigame itself is frustrating for me so I have removed it.
+ - Better Third Person selection has been disabled by default, and placed into the "Optional Tweaks" section for those that want it
+ - Masterwork plugins for the additionaly support CC items have been added
+ - Destroy The Dark Brotherhood - Quest Expansion has been added, which allows you some alternate routes when resolving the Dark Brotherhood questline
+ - "A new Debt - Alternate Routes" has been added. You now have some new options for dealing with Mogrul
+ - Wyrmstooth has been re-added. This mod was previously in the list, but I removed it to thin things down and I believed it was out of scope. 
+   - After re-evaluating that decision, I believe the "out of scope" excuse wasn't valid as we have things like "Granite Hill", "ECSS", and "Siege at Icemoth" in the list already.
+   - I also, admittedly, would like to actually completely finish the content in Wyrmstooth at least once in my life hehe
+ - Winds of the North as adopted the Alternative Armors distribution of AEGIS instead of our prior custom AA integration. Some armors are now only present on Solstheim or may appear at different levels than you are used to.
+   - For a full breakdown of distro, check out this [chart](https://docs.google.com/spreadsheets/d/157dSBzNFt8wwvZm7X16-AJxBRmQ6-xKedH_bZWM6BsI/edit?gid=0#gid=0) from the AEGIS modpage
+ - Crossbows have been a bit more firmly integrated into the world thanks to Kachunk - Reloaded. Old Kachunk mainly only distributed to bandits and some vendors.
+   - They should still be a bit less common than normal bows.
+ - The latest Simonrim mods have been brought up to date.
+   - There are a TON of specific changes to the suite in this latest string of updates. One of the more notable standouts is that the light armor tree now has a perk that allows you to dodge by tapping the sprint key
+ - Yes, I know the splash screens still say "4.0.0" instead of "4.2.0". I will fix this later.
+
 ### Bug Fixes and Tweaks
 
- - Fix: Introduced a workaround for a long standing bug that caused both Hadvar and Ralof to appear at sieges despite who you side with. 
-   - For anyone curious, I will try to briefly explain. Long story short, there is a quest that tracks active allies during the civil war via aliases. Somehow, both Hadvar and Ralof are getting filled as active allies when it should only be one. The Civil War siege quests, rightfully, calls a function that simply goes through the active ally aliases and enables their references (causing both Hadvar and Ralof to appear).
-   - I am assuming a mod is indirectly causing them both to be added as allies, but I have not been able to figure out the culprit. So, for now I have added a workaround to the CWAllies script that checks an actor's allegiance before enabling their reference.
-   - Please note, if you have already initiated the battle of Whiterun quest, this will not fix both Hadvar and Ralof appearing in this battle (since they both have already been enabled by the game)
- - Fix: Fixed several distribution conflicts with Kachunk crossbows (thanks Aerin)
- - Fix: The guards at Castle Dour were changed by a mod to give them heavy armor. Unfortunately the mod also set their minimum level to level 1 (when it should be 20). I have re-adjusted the refs' template back, but also forwarded the gear changes. This way they should be the proper level AND have heavy armor
- - Fix: The Simonrim Beta also had the exact same files in it as the Optional - No Killmoves mod, meaning if you disabled the optional you would skill get no killmoves. This has been fixed by simply removing the no killmoves files from the Simonrim Beta
- - Fix: Fixed Windwalker being distributed when it shouldn't have been
- - Fix: Fixed a bug in Unarmed Behaviors Expanded that was causing greatsword sprint attacks to use the wrong animation (thank you August for pointing out the fix)
- - Fix: Fixed a conflict between Hand to Hand and Unarmed behaviors Expanded that caused some Hand to Hand perks to not work properly (Thank you Benny-has-Warez for finding this)
- - Fix: Fixed a snowdrift that had a gap between it and the terrain
- - Fix: Bound bow (and other bound weapons) had some buginess to their sheathe animation replacement that has been fixed
- - Tweak: A patch for "The Cursed Tribe - Quest Expansion" and "Thaumaturgy" has been added to rebalance an enchanted item introduced in the mod. (Thanks Aerin)
- - Tweak: The Animation loading progress bar and OAR welcome banner have been disabled, as I feel they are intrusive
- - Tweak: Shahvee now levels security instead of hand to hand as a quest reward
- - Tweak: The grass cut has recieved further refinements to remove some grass that stood out (like the lupin flower and some of the aix grass)
- - Tweak: Instead of spawning a player gear chest when choosing your class in the quick start intro, I modified Intuitive Quick Start to instead give you the gear corresponding to your Apprentice Class
- - Tweak: Several of the unused CS modules like TruePBR, InverseSquareLighting, and Extended Transclucency are disabled at boot by default. This may or may not provide a little performance boost.
+ - Fix: Facegen has been regenerated for Movarth
+ - Fix: Fixed an issue where taking a shrine and then taking a daedric shrine bonus would continue to grant you both restoration and conjuration XP in combat
+ - Fix: Fixed a conflict with Delayed Dragons that was causing undesired spawn behavior
+ - Fix: I had at some point missed forwarding a few things in the Bow speed normalization plugin
+ - Fix: Removed the Adamant patch from "Legionary". Instead, the Simonrim beta Spears perks plugin should be used only. (oops)
+ - Fix: Fixed a conflict with CoMap that caused the incorrect map icon to show at the Sanctum of Malacath
+ - Fix: Fixed a conflict that caused crossbow reload sounds to sometimes play twice
+ - Tweak: The dragon war rebalance mod should no longer change anything combat style or game setting related
+ - The cost of a horse has been dropped from 2500 gold to 1500
 
 ## Mod Changes
 
 ### Updated
 
- - Why I Came to Skyrim - Origin Stories
- - Granite Hill - Cut Content Restoration
- - Optional Quick Start - SE
-
-### Added
-
- - Legionary - Spears beta
- - Lore-Friendly Thalmor Banners
- - Immersive Equipment Displays
- - Delayed Dragons
- - Start Game Settings
- - Intuitive Quick Start
- 
-### Removed
-
- - Diplomatic Dragons
- - Remove Creations from Main Menu
-
-# 4.0.0 RC 9
-
-### Key Info
-
- - This update is save safe with previous 4.0.0 RCs, just click okay when it says there is missing plugins.
- - If you experience issues with shaders, please go into your overwrite folder in Mo2, and delete the ShaderCache, and the "CommunityShaders" folder in SKSE/Plugins. Again, both of these folders are in overwrite, at the bottom of the left hand panel in Mo2.
- 
-## Patch Notes
-
-<hr class="thin-hr">
-
-### Misc
-
- - Re-added better dialogue and messagebox controls because SkyUI does not actually integrate them, despite saying it does.
- - Pinepeak Crypt has been added, which is another dungeon by the author of Morthal Barrow and Taarangrav Barrow.
- - HDR - Community Shaders has been added as an optional
- 
-### Bug Fixes and Tweaks
-
- - Fix: The starter chest for Spellswords should now include iron armor instead of fur
- - Fix: (Manbeast) You will no longer be force transformed while riding on a mount. It will instead happen within the next hour that you are dismounted.
- - Fix: When riding a horse, you should no longer be able to sweep attack your horse
- - Tweak: Journeyman's bEnableOnlyOnSurvivalEnabled has been toggled on. This means that Journeyman functionality will only be active when Survival Mode is active.
- - Fix: Loading menu and tween menu files in the optional widescreen fix have been hidden to keep them from conflicting with mods that overhaul those menus (and have widescreen compatibility+)
- - Fix: TGFenceMerchantChestEndon chest has had compatibilty with master trader perk restored.
-
-## Mod Changes
-
-### Updated
-
- - SkyUI
- - MCM Helper
- - Knotwork
- - Crash Logger SSE AE VR - PDB support
- - Skypatcher
- - Enhanced Worldspace Maps
+ - Crusader Beta
+ - Simonrim Suite Beta
+ - powerofthree's Papyrus Extender
+ - Enhanced Vanilla Trees
+ - Bring Meeko To Lod
+ - Open Animation Replacer
  - Siege at Icemoth
- - Artificer - Xavbio Textures Addon
- - First Person FOV and Tween Menu Fix SKSE
+ - Granite Hill - Cut Content Restoration
+ - Andrealletius' Papyrus Functions
  - Community Shaders
- - Wetness Effects
- - Terrain Blending
- - Upscaling
- - Cloud Shadows
- - Screen Space Global Illumination (SSGI) (Still disabled by default)
- - Skylighting
- - Sky Sync
- - Open Animation Replacer
-
-### Added
- 
- - Better Dialogue Controls
- - Better Messagebox Controls
- - Pinepeak Crypt
- - HDR - Community Shaders (optional)
- - Crossbow Reload Speed Perk Fix
-
-### Removed
-
- - Grass Collision (Now integrated into core CS)
- - Screenspace Shadows (Now integrated into core CS)
- - Grass Lighting (Now integrated into core CS)
- - Subsurface Scattering (Now integrated into core CS)
-
-# 4.0.0 RC 8
-
-### Key Info
-
- - This update is save safe with previous 4.0.0 RCs, just click okay when it says there is missing plugins.
- 
-## Patch Notes
-
-<hr class="thin-hr">
-
-### Misc
-
- - Well there was a reason the last update was a "test the waters" update. August did a ton of work to fix some things wrong with precision, but I ended up running into a couple of other bugs, one of which was a major dealbreaker for using precision. (hit impulses can and do completely break NPC animations on occasion). So...I kind of have to remove Precision once again. I can't say we didn't try lol.
- - Xavbio's Ebony armor retexture has recieved a cool new update that restores the vanilla style patterns on the ebony armor (it was the amidianborn style)
- 
-### Bug Fixes and Tweaks
-
- - Fix: The SkyUI X offset is no longer needed and has been removed.
- - Fix: The Soul Cairn locations should all now be treated as in Oblivion
-
-## Mod Changes
-
-### Updated
-
- - Alchemy Plus
- - Run For Your Lives
- - Alt-Tab Stuck Key Fix
- - Engine Fixes SSE
- - Crash Logger SSE AE VR - PDB support
- - Robber's Gorge Fixes
- - Why I Came to Skyrim - Origin Stories
- - First Person FOV and Tween Menu Fix SKSE
- - SkyUI
- - Ebony Armors and Weapons Retexture SE
-
-
-### Added
- 
- - Comap - Local
-
-### Removed
-
- - Precision
- - Precision Creatures
- - Nemesis Creatures
- - Nemesis Creatures - Werewolf addon
- - Precision Attack Collision Fixes
-
-# 4.0.0 RC 7
-
-### Key Info
-
-## Patch Notes
-
-<hr class="thin-hr">
-
-### Misc
-
- - With this update, I would like to test the waters with Precision. August's new mod "Precision - Attack Collision Fixes" fixed some of the largest issues I had with it. I have been playing around, and I think with these fixes and some tweaked settings, it will be a really good addition to the list.
-   - Combat has quite a bit more...oomph to it with Precision. Hits feel like they have a lot of punch behind them.
-   - As expected, It may feel a bit different than vanilla in regards to when you think attacks should or should not have it you. Attempts have been made to make the reach feel similar to before, but collisions being tied to weapons now  means that individual animations do have an affect on things.
- - Chapter 2 had a massive update that adds tons of new palette tracks.
- - Included a default ini for FirstPersonFOV in the "Wotn - Custom MCM Settings and Scripts" mod
- - CS Grass Collision has been disabled by default. It is causing repeatable and consistant crashes in the intro (on my end and others). Looking at the CS code repo it seems it has been addressed, but that has not been released yet to nexus. I am choosing to disable this module. While it is cool its not worth the instability.
- - Removed Persistant Favorites due to instability
- 
-### Bug Fixes and Tweaks
-
- - Fix: Fixed rank 1 of Perfect Parry requiring level 70 (rank 1 should be level 40 and rank 2 should be level 70)
-
-## Mod Changes
-
-### Updated
-
- - SkyUI
- - MCM Helper
- - SkyPatcher
- - Auto Input Switch
- - Chapter II - Jeremy Soule Inspired Music
- - Spell Perk Item Distributor (SPID)
- - First Person FOV and Tween Menu Fix SKSE
- - Siege at Icemoth
- - Granite Hill - Cut Content Restoration
-
-
-### Added
-
- - Precision
- - Precision Creatures
- - Nemesis Creatures BEHAVIOUR compatibility
- - Nemesis Creature Behaivour - WereWolf Addon
- - Precision - Attack Collision Fixes
- - WotN - Precision - Settings
-
-### Removed
-
- - Persistent Favorites
-
-
-# 4.0.0 RC 6
-
-### Key Info
-
-## Patch Notes
-
-<hr class="thin-hr">
-
-### Bug Fixes and Tweaks
-
- - Fix: Updating SkyUI fixed a display issue in the magic menu
- - Fix: Empowered Strike (Enchanting perk) should now function with the Dragonborn Respec
- - Fix: Mystic Bound Greatsword effect doesn't have the MAG_MagicSummonWeapon keyword
- - Fix: Blackreach map was appearing as covered with rocks, this has been fixed
-
-## Mod Changes
-
-### Updated
-
- - SkyUI
- - Chitin Armors and Weapons Retexture SE
- - Survival Mode Improved - SKSE
- - Why I Came to Skyrim
+ - Skylighting - Community Shaders
+ - HDR - Community Shaders
  - Iron Armors and Weapons Retexture SE
- - Andrealphus' Papyrus Functions
- - Myrwatch - Tweaks and Enhancements
- - First Person FOV and Tween Menu Fix SKSE
- - HorsePower - Modernized Horse Riding (Total Riding Overhaul)
- - Complete Widescreen Fix for Vanilla and SkyUI
- - Stuck Underwater Visuals and Sounds Fix SKSE
+ - Terrain Variation
+ - SkyPatcher
+ - Legionary - A Spear Addon
+ - Skyrim Extended Cut - Saints and Seducers
+ - House of Horrors - Quest Expansion
+ - Mysticism - Jump Spell Addon
+ - Sorcerer - A Staff and Scroll Overhaul
+ - Thaumaturgy - An Enchanting Overhaul
+ - Blade and Blunt - A Combat Overhaul
+ - Hand to Hand - An Adamant Addon
+ - Apprentice - A Class Overhaul
+ - Silver Armor and Weapons Retexture SE
+ - Mundus - A Standing Stone Overhaul
+ - 3D Vanilla Mountain Flowers
+ - Pinepeak Crypt
 
 ### Added
+
+ - aTweaks and Utilities
+ - Conjuration Limit Fix
+ - Winterhold College Gate Glow Restored - Cut Content Restoration
+ - College of Winterhold Bridge Has Steps
+ - Gemling Queen Jewelry SE
+ - Kachunk Reloaded
+ - Sundered Seasons - Sunder and Wraithguard (and Forgotten Seasons) Reintegration
+ - Destroy The Dark Brotherhood - Quest Expansion
+ - Stendarr's Chosen - Stendarr's Hammer Reintegration
+ - AEGIS
+ - Return Aegisbane
+ - Weightless Follower Armor
+ - A new Debt Alternate Routes
+ - Favor Quests Separated - Bounties
+ - Simonrim SKSE Addons - Power attack Speed Perks
+ - Simonrim SKSE Addons - Conjuration Limit Fix
+ - Simonrim SKSE Addons - Simonrim Spell Speed
+ - Wyrmstooth
+ - Wyrmstooth - Mysticism Consistency Patch
+ - Wyrmstooth Mercenaries Don't Follow
+ - Unique Red Wave
+ - Wyrmstooth Uses the Cause Style Oblivion Gate
+ - Stonehollow Overhaul for Wyrmstooth
+ - Sensible Quest Prerequisites - Wyrmstooth
+ - Stendarr's Chosen - Wyrmstooth
+ - Dragon Priest Hood Variants - Wyrmstooth
+ - Smooth Terrain
+ - TK Dodge RE
+ - TK Dodge SE
+ - TK Dodge RE Addon
+ - Simonrim SKSE Addons - Adamant Evasion Addon
+ - 3D Vanilla Mountain Flowers - Snowy Addon
+ - More Radiant Requirements
+ - Simonrim - Scrambled Bugs Settings
 
 ### Removed
 
- - Bonemold Armors and Weapons Retexture SE (No longer needed)
- - Falmer Armors and Weapons Retexture SE (No longer needed)
-
-# 4.0.0 RC 5
-
-### Key Info
-
- - This is save safe with other 4.0.0 pre-releases only
-
-## Patch Notes
-
-<hr class="thin-hr">
-
-### Misc
-
- - I removed Simplicity of Sea - Water Color and Transparency Tweaks, because normal "Water Mod" matched LOD much much better. The tweaks did look nice, but matching LOD is much more important to me. Plus normal Water Mod still looks nice anyway (nicer than vanilla)
-
-### Bug Fixes and Tweaks
-
- - Fix: Fixed bloated man's grotto being treated as being in Oblivion
- - Fix: Fixed an issue where healing your injury would actually kill you instead (oopsy)
- - Fix: Fixed debug notifications showing when hitting someone while having the armor breaker perk
- - Fix: Fixed injuries not being applied to the player when Survival Mode was off
- - Fix: Fixed second rank of the block perk "Defensive Stance" being at level 30 (it should have been level 70)
- - Fix: Fixed second rank of the two-handed perk "Perfect Parry" being at level 40 (it should have been level 70)
- - Fix: Fixed a bug where carriages to hearthfire homes no longer worked
- - Fix: Fixed debug notification on armor breaker perk
- - Fix: Corrected bound bow damage in bow speed normalize plugin
- - Tweaks: hid loadingmenu.swf and tweenmenu.swf in complete widescreen fix
-
-## Mod Changes
-
-### Updated
-
- - Imperial Thalmor Stormcloak Patrols Fixes - Soldiers and Prisoners World Encounters
- - Simplicity of Splatter - High-Res Blood Textures
- - Survival Mode Improved - SKSE
- - Siege at Icemoth
- - Granite Hill - Cut Content Restoration
- - Unofficial Skyrim Special Edition Patch - USSEP
- - Myrwatch - Tweaks and Enhancements
- - SkyUI
-
-### Added
-
- - Item Stacking Tweaks
- - Widescreen Scale Removed for 1-6-1130 and higher
-
-### Removed
-
- - Simplicity of Sea - Water Color and Transparency Tweaks
- - Wider MCM Menu for SkyUI
- - Quest Journal Fix for SkyUI (no longer needed)
-
-# 4.0.0 RC 4
-
-### Key Info
-
- - This is save safe with other 4.0.0 pre-releases only
-
-## Patch Notes
-
-<hr class="thin-hr">
-
-### Misc
-
- - Addition: I have modifed Character Menu SE further to display your chosen trait from Apprentice.
-
-### Bug Fixes and Tweaks
-
- - Fix: Fixed a bug where NPCs could go into a down state after closing the Character Menu
- - Fix: Fixed a bug where NPCs would stop their walking/running animation and restart it (instead of freezing in place) upon open/close of the Character Menu.
-
-## Mod Changes
-
-### Updated
-
- - Unofficial Skyrim Special Edition Patch - USSEP
- - CC Farming - Tweaks Enhancements and Quest Expansion
-
-### Added
-
- - Persistent Favorites
- - Stuck Underwater Visuals and Sounds Fix SKSE
-
-### Removed
-
- - Unstack Stolen Items (No source available)
-
-# 4.0.0 RC 3
-
-### Key Info
-
- - This is save safe with other 4.0.0 pre-releases only
-
-## Patch Notes
-
-<hr class="thin-hr">
-
-### Misc
- - This should be the last major feature RC for 4.0.0. I plan for any RCs after this to be bugfix and/or rebalance updates.
- - Several redundant or no longer up to date things have been removed
- - SKSE Menu Framework has been removed. Im not really a fan of it functionally, and its a bit funky with the double tap LB on controllers. If you want to change the fov, First Person FOV is still in the list and its default fov values can be changed in the ini (still the only way to *actually* do it).
- - A really neat new mod has been added called "Character Menu SE" which allows you to see your character, class, your stats, faction ranks, and more in a new UI. I have gone through the effort of doing UI and DLL work to patch this for Hand to Hand and Apprentice.
- - In relation to the above, the Tween Menu overhaul has been added so that you may easily navigate to the character menu without a hotkey (which would otherwise feel kind of disembodied). I have modified the Tween Menu to show navigation items in a more similar fashion to vanilla ie. Magic on the left, inventory on the right. 
-     - The journal entry has been moved to the bottom under the map. The top menu houses the skills and character menu
- - Why I came to Skyrim has been added as a neat RP flavor item. You do not have to, but if you choose to read the book near the quick start chest you may choose a starting quest to give you an initial goal in the world.
-
-### Bug Fixes and Tweaks
-
- - Fix: Fixed errant log when selecting a class
- - Fix: Fixed conflicts with the Dual Wield Behavior fixes patch
- - Tweak: Horses now cost 2500 gold instead of 1000 (keep in mind they are much more useful with H to Horse and Horse Power than in vanilla)
-
-## Mod Changes
-
-### Updated
-
- - Granite Hill - Cut Content Restoration
- - Open Animation Replacer
- - First Person FOV and Tween Menu Fix SKSE
- - Sound Record Distributor
- - Floating Subtitles
- - Unstack Stolen Items
-
-### Added
-
- - Tween Menu Overhaul
- - Character Menu SE
  - Why I came to Skyrim
  - Why I came to Skyrim - for Optional Quick Start - SE
- - Why I Came to Skyrim - Select Your Own Quest
- - Character Menu SE - Hand to Hand Patch
+ - Skill of Sneaking
+ - Serious Civil War Fort Personnel
+ - Skyrim Civil War Healers Tweaks
+ - Skyrim Civil War Healers
+ - Neutral Civil War Forts
+ - Serious Civil War Fort Commanders
+ - Delphine Skyhaven Bugfix MQ203
+ - Tree Branches 2k
+ - Destination Weddings
+ - Fancy Fishing
+ - Vanilla UI for Fancy Fishing
+ - Rare Curious Bolts Expanded (replaced by Aegis)
+ - Thwack - Crossbow Collection Reworked (replaced by Aegis)
+ - Open Face Guard Helmets
+ - Courier Notification
+ - Myrwatch - Tweaks and Enhancements
+ - No Volkihar Outfits on Regular Vampires
+ - Realistic Pirate Sounds
+ - Housecarls Pre-Thaneship
+ - HPT - Simple Winterhold Housecarl
+ - Edmond's Assassin of Old - Immersive Vanilla Bug Fix
+ - Exiled Jarls Don't Require Favors
+ - A Steward for Dawnstar - Exiled Jarls Patch
+ - Canis Hysteria - The Werewolf Disease
+ - Artificer - Canis Hysteria
+ - Skyrim Misc Bugfix Compilation (mod is unsupported/not needed)
+ - Cloud Shadows (now a core feature)
+ - Use Those Blankets
+ - Bounty Quests Redone
+ - Bounty Quests Redone - Fork
+ - Enemies Respect Encounter Zones
+ - Better Esbern Voice Consistency Fix
+ - Run For Your Lives
+ - Hand to Hand - Locksmith Addon (depricated)
+ - Adamant - Bard Perks Addon
+ - Adamant - Bard Perks Addon - Pilgrim Integration
+ - Kachunk - Creation Club Crossbow Distribution
+ - Curated Curios
+ - New Minor Quest Abilities for Simonrim - Agent of Mara - Agent of Dibella - Sailor's Repose
+ - Universal Cured Serana Eye Fix
+ - Vanilla Script (micro)Optimizations
+ - Vanilla Scripting Enhancements
 
-### Removed
-
- - Adamant - No Killmove Descriptions (no longer necessary with Adamant 6 Beta)
- - Hand to Hand - Jump Perks Addon (for now)
- - Starfrost Injuries (superceded by adamantium)
- - SKSE Menu Framework
-
-
-# 4.0.0 RC 2
-
-### Key Info
-
- - This is save safe with other 4.0.0 pre-releases only
-
-## Patch Notes
-
-<hr class="thin-hr">
-
-### Misc
-
- - Actually updated to the most recent Simonrim betas. Whoopsie
- - Inverse Square Lighting and Extended Translucency have been disabled at boot
-
-### Bug Fixes
-
- - Going forward, hostlers should no longer sell the wild horses location map
-
-## Mod Changes
-
-### Updated
-
- - Simonrim - Beta
-
-### Added
-
- - First Person FOV and Tween Menu Fix SKSE
- - Alt-Tab Stuck Key Fix NG
- - SKSE Menu Framework
-
----
-
-# 4.0.0 RC 1
-
-### Key Info
-
- - This update is NOT save safe with previous versions. NOT save safe. Please keep a backup of your 3.0.3 saves, and if you accidently updated to 3.1.0, then you can fine the old 3.0.3 WJ file on the nexus.
-
-## Patch Notes
-
-<hr class="thin-hr">
-
-### Misc
- - 4.0.0 so soon after 3.0.0 you might ask?! Yes, and I'm excited for it. Possibly more than any previous update I have done!
- - The list has now been merged back into a single profile instead of two separate ones. It was a fun experiment while it lasted, but I have come to the conclusion that most people were using the expanded profile anyway. The new default profile is a bit of a mix between the expanded and the former default profiles.
-   - This comes with several advantages. Managing two profiles was extremely cumbersome. Going back to a single profile allows me to more efficiently make updates.
- - The Beta for the new Simonrim mod "Apprentice - A Class Overhaul" has been added to the list. 
-   - This mod adds a class and trait system to the game in the character creator (similar to previous elder scrolls games). 
-   - Your major and minor skills are now dictated by your class selection rather than just the race that you choose, and traits can be chosen for additional effect. 
- - The latest betas for the Simonrim suite have been added. There are a ton of bug fixes, and balance changes made to Mysticism, Adamant, and Hand to Hand.
- - You might notice that there is now a grey bar on the TrueHUD widget for enemies. This symbolizes the stagger cooldown for Blade and Blunt.
-   - If you did not read the Blade and Blunt page, some of you may not have even been aware that there was a stagger cooldown for enemies, which is why the bar has been added.
-   - The player also has a stagger bar above the health bar.
- - As of 4.0.0 we have almost returned to the same visual suite that we enjoyed in Winds of the North 1.0.0!
-    - Vanilla weathers are back (plus true storms)
-    - The original Cathedral Landscapes grass cut that Winds of the North 1.0.0 used has been lost to time, but I have remade a new cut in the same spirit.
- - The TrueHUD bars have been returned to their original vanilla positions
- - I have also continued to thin the list down a little bit. 
-   - Some mods that were very simple record tweaks/fixes were merged into WotN - Tweaks to keep plugin bloat down (for my own sanity's sake)
- - Regarding changes to new content, Wyrmstooth has been removed. However, I elected to add "Granite Hill - Cut Content Restoration"
- - Immersive Equipment Displays has been removed. This was done mostly for stylistic choice reasons, as Simple Dual Sheath does most of what I would want anyway. I find the player model being loaded down with every single piece of favorited gear to be a bit too much.
-   - Frustration with default profiles not loading on user's machines also played a small role in this decision.
- - I have modified the weapon styles draw animations mod to no longer require IED (we always used default sheath positions so we really didn't need that part of it). This way, we can keep Simple Dual Sheath and the fancy animations for it.
- - Some new optionals have been added. Barlow Condensed font, and Floating Subtitles. These are disabled by default and are there for people to play with should they want.
-   - Barlow Condensed also has integrated compatibility with Floating Subtitles (ie. the floating subtitles will be the new font)
-   - I have also included a new patch I made for Floating Subtitles and the other existing optional font, "Sovngarde"
-   - When you enable Floating Subtitles, it will activate an esp in your load order. It does not matter where it goes.
- - "Horse Whistle Key" and it's companion mod, "Follower's Ride Horses" have been swapped back out for Press H to Horse.
-   - I must also mention I have modified Press H to Horse with some scripting adjustments and bug fixes. 
-   - Wild Horses is technically in the list because Press H to Horse requires some of its scripts. However, the wild horses will not spawn in the world and their quests should never start.
- - On the topic of horses, horses now have much nicer riding animations and they run a bit faster as well.
-
-### Bug Fixes
-
- - Fix: Fixed a possible but rare crash with SMI when searching for a bed nearby
- - Fix: The Necromancer's Journal from Plague of the dead is no longer marked as a quest object
- - Fix: Random zombie attacks from plague of the dead should no longer happen (they were supposed to be disable)
- - Fix: Fixed a json parse error from sorcerer's crafting categories json
- - Fix: The CC quest "Unholy Vigil" should not have been startable. This should now actually be true (may not be save retroactive)
- - Fix: Fixed incorrect values on region weather chances
- - Fix: The heavy armor sprint stamina effect should no longer show in the effects UI
- - Fix: Fixed Xavbio's horse armor retexture not working
- - Fix: Shield Wall should now properly be a level 40 perk
- - Fix: Many staves for Saints and Seducers were not properly patched for Sorcerer numbers. This has been amended.
- - Fix: Fixed a bug in Scion where the 25% sneak attack bonus for the Dark Elf racial was not working
- - Fix: "Hot Boar Stew" now properly requires boar meat instead of horker meat
- - Fix: Your first person camera height should now be correct in relation to your 3rd person model height (I released a new mod to fix this)
- - Fix: Press H to Horse: Fixed a potential source of stack dumps
- - Fix: Press H to Horse: You should now be able to swap inventory tabs properly with a controller when in a Horse's inventory
-
-## Mod Changes
-
-### Updated
-
- - Perk Entry Point Extender
- - powerofthree's Papyrus Extender
- - Siege at Icemoth
- - Actor Value Generator
- - Mysticism - A Magic Overhaul (Beta)
- - Adamant - A Perk Overhaul (Beta)
- - Blade and Blunt - A Combat Overhaul (Beta)
- - Starfrost - A Survival Overhaul (Beta)
- - Thaumaturgy (Beta)
- - Unique Armors and Weapons Retexture SE
- - Regenerated Nemesis Patch
- - Survival Mode Improved - SKSE
- - Skypatcher
- - Stagger Effect Fix
- - Dragon Armors and Weapons Retexture SE
- - Nordic Snow
- - CC Tundra Homestead - Tweaks and Enhancements
- - CC Myrwatch - Tweaks and Enhancements
- - Community Shaders
- - Subsurface Scattering - Community Shaders
- - Skylighting - Community Shaders
- - Grass Collision - Community Shaders
- - Upscaling - Community Shaders
- - Caught Red Handed - Quest Expansion
- - Orcish Armors and Weapons Retexture SE
- - Daedric Armors and Weapons Retexture SE
- - Survival Mode Improved - SKSE
- - Comprehensive Attack Rate Patch - SKSE
- - More Ferries - Fast Travel Improvement
- - Photo Mode
- - Crash Logger SSE AE VR - PDB support
- - Contextual Crosshair
-
-
-### Added
-
- - Security Overhaul SKSE - Add-ons
- - Proving Honor Companions Quest Progression Fix
- - Assorted Behavior Fixes
- - Apprentice - A Class Overhaul Beta
- - Savos Aren's Regrets Restored - Cut Content Restoration
- - Improved Companions - Questline Tweaks
- - Imperial Thalmor Stormcloak Patrols Fixes - Soldiers and Prisoners World Encounters
- - Thieves Guild Holdup Improvements
- - Rebalanced Ebony Draugr Weaponry
- - Stuck in Saarthal - Use Any Spell to Escape
- - Ill Met Bolar's Oathblade
- - Enhanced Reanimation
- - Skyforge Steel - Art and Honor
- - Faction Armors and Weapons Retexture SE
- - First Person Height Fix SKSE
- - Simplicity of Splatter - High-Res Blood Textures
- - Avanchnzel Dwemer Piston Sound Hotfix
- - FYX - Alpha Blood Blending Bug - NG
- - Animation Motion Revolution
- - HorsePower - Modernized Horse Riding (Total Riding Overhaul)
- - Simplicity of Sea - Water Color and Transparency Tweaks
- - Vanilla Jarl Longhouse Mesh Fix
- - Favorite Misc Items
- - Smoothcam
- - Bethesda Plugin Manager
- - Favorite Misc Items
- - Unstack Stolen Items
- - Barlow Condensed - Font Replacer
- - UIExtensions
- - Cathedral Grass
- - Less saturated Cathedral grass for ENB complex grass
- - Cathedral Landscapes - Swamp Grass Alternatives
- - Granite Hill - Cut Content Restoration
- - The Cursed Tribe - Quest Expansion
- - Universal Arrow Spin - SKSE plugin
- - All Thieves Guild Jobs Concurrently
- - Less Tedious Thieves Guild
- - Barlow Condensed (optional)
- - Floating Subtitles (optional)
- - First Person Camera Height Fix - SKSE
-
-### Removed
-
- - Aetherius - A Race Overhaul (Replaced with Apprentice - A Class Overhaul)
- - Aetherius - Race Menu Racial Passive Descriptions
- - Truly Neutral Prisoners
- - Thalmor don't report to Stormcloaks
- - Racemenu (this was necessary for Apprentice. Please do not ask me if I think you can re-add it. No)
- - Infinite Dragon Variants
- - Simonrim StarterChest (Replaced by Apprentice - Quick Start patch)
- - Dawnguard Armors and Weapons Retexture SE
- - Vampires Armors and Weapons Retexture SE
- - Thieves Guild Armors Retexture SE
- - Nightingale Armors and Weapons Retexture SE
- - Dark Brotherhood Armors Retexture SE
- - Forsworn Armors and Weapons Retexture SE
- - Wolf Armors and Weapons Retexture SE
- - Water Effects (merged into main CS)
- - Terrain Shadows (merged into main CS)
- - Wyrmstooth
- - Wyrmstooth Uses the Cause Style Oblivion Gate
- - Wyrmstooth - The Cause Patch
- - Wyrmstooth - Rare Curios Patch
- - Wyrmstooth Mysticism Consistency Patch
- - Dragon War - Wyrmstooth patch
- - Sensible Quest Prerequisites - Wyrmstooth
- - Dragon Priest Hood Variants - Wyrmstooth
- - Armory of the Dragon Cult - Wyrmstooth
- - Stonehollow Overhaul for Wyrmstooth
- - Stendarr's Chosen - Wyrmstooth
- - Unique Red Wave
- - East Empire Company Armor
- - Draugr Enemy Asset Diversity Bugfix
- - DEAD - Draugr Enemy Asset Diversity
- - Rebalanced Ebony Draugr Weaponry - DEAD Patch
- - Unique Towns - Base Object Swapper
- - Dremora Use Daedric
- - Vanilla CS
- - Swords of the Southfringe - Spell Knight Expansion and Distribution (for now)
- - Swords of Southfringe - Adamant Patch
- - Spell Knight Armors Retexture SE
- - Swords of the Sanctum - Artificer
- - Stendarr's Chosen - Stendarr's Hammer Reintegration
- - Bandit Lines Expansion - Werebeasts dont talk (rolled into WotN - Tweaks)
- - Only Once (rolled into WotN - Tweaks)
- - Taarie's Dialogue Fix (rolled into WotN - Tweaks)
- - Mistwatch Ending - More Options (rolled into WotN - Tweaks)
- - Vampire Allies Factions Fix (rolled into WotN - Tweaks)
- - Ranged Block Recoil Fix (Not needed with Misc Bugfix Compilation)
- - See Through Portals and Oblivion Gates
- - Horse Whistle Key
- - Followers Ride Horses
- - Immersive Equipment Displays
- - Missile's IED Preset
