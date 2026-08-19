@@ -45,7 +45,7 @@ You should open a support post there detailing as much about the bug as you can.
   <hr class="thin-hr">
 </div>
 
-[Winds of the North - 4.2.0 Beta 1](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.2.0Beta1/WindsoftheNorth.wabbajack)
+[Winds of the North - 4.2.0 Beta 2](https://github.com/colinswrath/WindsOfTheNorth/releases/download/4.2.0Beta2/WindsoftheNorth.wabbajack)
 
 ## How to Install
 
@@ -84,7 +84,48 @@ Beyond looking for general bugs and the like, there are a few things that I am s
 
 ![](../images/WindsofTheNorthLogo2k-4.2.0.png)
 
-# 4.2.0
+# 4.2.0 Beta 2
+
+
+### Key Info
+
+ - This update is save safe with the previous beta version ONLY
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Some redundant mods have been removed
+ - The Mo2 and game launch splashcreens have been updated
+ - The sprint key delay for dodge has been reduced to 0.15 seconds
+ - Sprinting should now actually function when using a controller
+ - Removed the scripted backpack leveled list injection from Aegis 
+   - if you have already started a save it would have already injected them. No big deal though it just means you might find a lot of backpacks
+
+### Bug Fixes
+
+ - Somehow the edit to make Horses cost 1500 instead of 2500 was lost. This has been fixed
+
+## Mod Changes
+
+### Updated
+
+ - Pinepeak Crypt
+
+### Added
+
+ - Wyrmstooth - Unique Items Simonrim Patch
+
+### Removed
+
+ - Community Shaders - Cloud Shadows (built in to CS)
+ - Crossbow Reload Speed Perk Fix (Included in Manual Crossbow Reloading)
+
+---
+
+# 4.2.0 Beta 1
 
 ### Key Info
  - This update is NOT save safe with previous versions of Winds of the North
