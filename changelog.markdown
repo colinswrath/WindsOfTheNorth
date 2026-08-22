@@ -15,7 +15,7 @@ h2,h3,h4,h5 {
 
 </style>
 
-![](images/WindsofTheNorthLogo2k-4.0.0.png)
+![](images/WindsofTheNorthLogo2k-4.2.0.png)
 
 - [4.2.0](#420) August 20 2026
  - [4.2.0 Beta 2](#420-beta-2)
