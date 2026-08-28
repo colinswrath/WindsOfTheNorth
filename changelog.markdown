@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.2.0.png)
 
+- [4.2.1](#421) August 28 2026
 - [4.2.0](#420) August 22 2026
  - [4.2.0 Beta 2](#420-beta-2)
  - [4.2.0 Beta 1](#420-beta-2)
