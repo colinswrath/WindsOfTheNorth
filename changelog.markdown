@@ -85,6 +85,39 @@ h2,h3,h4,h5 {
 - [1.0.0](#100) March 8 2024
 
 ---
+# 4.2.1
+
+### Key Info
+
+ - This update is save safe with 4.2.0+ only
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Sprinting is now instant and has no delay. Tapping the dodge key while having the perk is still enough to dodge. (Thanks CorpCord for the fork of TKDodge addon)
+ - The Wabbajack file size has been reduced from 400+mb to 170mb
+
+### Bug Fixes
+
+ - bAutoEnableSMOnNewGame has been set back to off for SMI, that way your menu choice actually takes affect properly
+ - bUse64bitsHDRRenderTarget has been set back to false
+ - Better Third Person Selection should ACTUALLY be included in optionals now, sorry
+ - Fixed an issue where several simonrim perks were being overwritten by prior fixes
+
+## Mod Changes
+
+### Updated
+
+ - TK Dodge RE Addon
+ - SKSE64 (to version 2.2.8)
+ - Improvement Names Customized
+ - Journeyman - A Fast Travel Overhaul
+ - Community Shaders
+
+---
 # 4.2.0
 
 ### Key Info
