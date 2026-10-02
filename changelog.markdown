@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.2.0.png)
 
+- [4.2.2](#422) October 2 2026
 - [4.2.1](#421) August 28 2026
 - [4.2.0](#420) August 22 2026
  - [4.2.0 Beta 2](#420-beta-2)
@@ -84,6 +85,52 @@ h2,h3,h4,h5 {
 - [1.0.2](#102) March 9 2024
 - [1.0.1](#101) March 8 2024
 - [1.0.0](#100) March 8 2024
+
+---
+# 4.2.2
+
+### Key Info
+
+ - This update is save safe with 4.2.0+ only
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - Community Shaders has been updated to version 1.9. It seems to fix most of the issues we were having with CS.
+ - CS' frame generation should be disabled by default
+ - Alchemy Plus's magnitude threshold has been set to 5 instead of 25
+
+### Bug Fixes
+
+ - Fixed a typo with the "Disorienting Blow" perk
+ - Fixed an issue where the mult for enchanting with a petty soul gem was too high
+
+## Mod Changes
+
+### Updated
+
+ - Thaumaturgy - An Enchanting Overhaul - XP patch
+ - Manual Crossbow Reloading - SKSE
+ - Thieves Guild Plus Plus - A Questline Overhaul
+ - Survival Mode Improved - SKSE
+ - Community Shaders
+ - Terrain Variation - Community Shaders
+ - HDR - Community Shaders
+ - Skylighting - Community Shaders
+
+### Added
+
+ - GC Bug Fix
+ - Grass Optimizations - Community Shaders
+ - Grass Collision - Community Shaders
+ - Archery Behavior Overhaul
+
+### Removed
+
+- Map Weather - CS
 
 ---
 # 4.2.1
