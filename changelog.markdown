@@ -87,6 +87,67 @@ h2,h3,h4,h5 {
 - [1.0.0](#100) March 8 2024
 
 ---
+# 4.2.3
+
+### Key Info
+
+ - This update is save safe with 4.2.0+ only
+ - Just a reminder, please back up your saves before updating
+ - The game will notify you about missing esp files, you can just click yes and continue playing.
+
+## Patch Notes
+
+<hr class="thin-hr">
+
+### Misc
+
+ - This lowercase name should be enabled for Character Menu now like it was supposed to be
+ - bCleanSKSECoSaves has been set to true in Engine Fixes, so your saves folder doesn't fill up with orphaned skse cosaves
+ - Disenchanting mults from Thaum have been halved. XP from disenchanting was very very high
+ - Eearly game bandit and forsworn bounty rewards have been bumped up a little (not by any game changing amounts or anything, will not take affect on in progress bounty quests)
+ - Bow speed normalization numbers have been bumped up from 0.75 to 0.8 to help make them more viable in comparison to crossbows (ie. the draw speed is slightly increased a smidgen)
+
+### Bug Fixes
+
+ - Fixed Armor Breaker perk proccing on the player instead of who the player is hitting
+ - Fixed Armor Crusher perk proccing on the player instead of who the player is hitting
+ - The disable urgency option for Thieves Guild Plus Plus should now properly be enabled
+ - Forwarded a few missed cell conflicts with Thieves Guild Plus Plus
+ - Fixed Brynjolf teleporting inside the cistern when he is supposed to escort you there
+ - Fixed a conflict with Adamant and Adamant Crossbow perks with the Precise Shot perk
+ - aTweaks: PowerAttackEnchant has been set to false, as it was doubling enchant magnitude on power attacks with Adamant (thank you August for pointing that out)
+
+ ## Mod Changes
+
+### Added
+
+ - Bash Bug Fix - Behavior Version
+ - MCR - Custom Animations
+ - No More Sliding Paws - Creature Idle Animation Fixes
+ - Death Drop Overhaul
+
+### Updated
+
+ - Thieves Guild Plus Plus
+ - Legionary - A Spear Integration
+ - Hand to Hand
+ - The Heart of Dibella - Quest Expansion
+ - Varona Nelas Lives Longer - Reluctant Steward Delayed
+ - Manual Crossbow Reloading - SKSE
+ - Description Framework
+ - Universal Arrow Spin - SKSE plugin
+ - Remember Lockpick Angle - Updated
+ - Comprehensive Attack Rate Patch - SKSE
+ - The Heart of Dibella - Quest Expansion
+ - Death Idle Fix
+ - FYX - Alpha Blood Blending Bug - NG
+ - Inertia (Floating Gear Fix)
+
+### Removed
+
+ - Removed the old "AdamantBBSpears" file as its no longer necessary
+
+---
 # 4.2.2
 
 ### Key Info
