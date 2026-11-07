@@ -17,6 +17,7 @@ h2,h3,h4,h5 {
 
 ![](images/WindsofTheNorthLogo2k-4.2.0.png)
 
+- [4.2.3](#423) November 11 2026
 - [4.2.2](#422) October 2 2026
 - [4.2.1](#421) August 28 2026
 - [4.2.0](#420) August 22 2026
